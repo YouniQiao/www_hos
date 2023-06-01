@@ -78,8 +78,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Developer',
+                href: 'https://developer.harmonyos.cool',
               },
             ],
           },
