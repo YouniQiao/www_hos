@@ -128,10 +128,10 @@ function Discord() {
       <div className="flex flex-col  md:flex-row md:space-y-0  justify-center bg-[#3f39a7] p-[30px] md:p-[80px] rounded-lg relative">
         <div className="text-center">
           <h3 className="largest justify-center text-center text-white">
-            Let's build together. Work together!
+            开发者是HarmonyOS灵动的核心
           </h3>
           <p className="text-white">
-            Join our young and creative team on Discord
+            就现在，不妨尝试一下，开发纯血的HarmonyOS应用
           </p>
           <div className="flex justify-center mb-5">
             <div style={{ width: "150px" }}>
@@ -143,8 +143,8 @@ function Discord() {
           </div>
           <Link
             className="button button--primary button--md"
-            to="https://discord.com/invite/GSzt7dt7RM">
-            Join the team
+            to="https://developer.harmonyos.cool">
+            developer.harmonyos.cool
           </Link>
         </div>
         <svg
@@ -291,15 +291,18 @@ export default function Home() {
       title=""
       description="HarmonyOS.">
       <HomepageHeader />
-      {/*
+      
       <main>
+        
         <HomepageWebDevFeatures />
+        {/*
         <TechStack />
         <Developer />
         <HomepageEcommerceFeatures />
+       */}
         <Discord />
       </main>
-  */}
+  
     </Layout>
   );
 }
