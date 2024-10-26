@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className="hero hero--primary text-center">
       <div className="container text-center">
         <h1 className="hero__title mb-4">
-          {"HarmonyOS"}
+          {"HarmonyOS NEXT"}
         </h1>
         <div className="flex items-center justify-center">
           <p className="text-lg text-center text-slate-500">
@@ -37,9 +37,9 @@ function HomepageHeader() {
           <div>
             <div className="flex justify-center">
               <img
-                width={1354}
-                height={510}
-                alt="HarmonyOS"
+                width={1054}
+                height={490}
+                alt="HarmonyOS NEXT"
                 src="/img/hero-banner.png"
               />
             </div>
@@ -55,10 +55,10 @@ function QuickStart() {
     <div className="container">
       <div className="flex flex-col  md:flex-row md:space-y-0  justify-center ">
         <div>
-          <h2 className="justify-center text-center">Get started in minutes</h2>
-          <CodeBlock language="bash">
-            {`npx create-evershop-app my-app --playAround`}
-          </CodeBlock>
+          <h2 className="justify-center text-center">-------------------------------</h2>
+          <p className="text-left">
+              如果你是开发者，欢迎进入全新的鸿蒙开发世界。
+            </p>
         </div>
       </div>
     </div>
@@ -131,7 +131,7 @@ function Discord() {
             开发者是HarmonyOS灵动的核心
           </h3>
           <p className="text-white">
-            就现在，不妨尝试一下，开发纯血的HarmonyOS应用
+            就现在，不妨尝试一下，开发HarmonyOS NEXT应用。
           </p>
           <div className="flex justify-center mb-5">
             <div style={{ width: "150px" }}>
@@ -266,8 +266,11 @@ function TechStack() {
           </div>
           <div>
             <h1 className="text-center md:text-left largest font-bold">
-              Build with stack <br /> that you love!
+              即刻升级体验
             </h1>
+            <p className="text-left">
+              进入“我的华为”应用，选择“升级尝鲜”查看当前公测机型。
+            </p>
             <div className="flex justify-center md:justify-start mt-10">
               <img
                 width={686}
@@ -291,16 +294,19 @@ export default function Home() {
       title=""
       description="HarmonyOS.">
       <HomepageHeader />
-      
       <main>
         
-        <HomepageWebDevFeatures />
+        <HomepageEcommerceFeatures />
+        <TechStack />
+        <QuickStart />
+        <Discord />
         {/*
         <TechStack />
         <Developer />
+        <HomepageWebDevFeatures />
         <HomepageEcommerceFeatures />
        */}
-        <Discord />
+        
       </main>
   
     </Layout>

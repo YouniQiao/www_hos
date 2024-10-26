@@ -4,22 +4,22 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   [
     {
-      image: '/img/variant.webp',
-      title: 'Catalog Management',
+      image: '/img/jingzhi.png',
+      title: '原生精致',
       description: (
         <>
-          Product management with attribute and variation. Multiple category and collection management.
+          和谐美学，遵循自然物理法则，构建和谐美学秩序。引力动效，锁屏到解锁一镜到底，更流畅，更灵动。
         </>
       ),
       readMore: 'https://demo.evershop.io/admin/products',
       readMoreText: 'See the demo ->',
     },
     {
-      image: '/img/checkout.webp',
-      title: 'Checkout',
+      image: '/img/hulian.png',
+      title: '原生互联',
       description: (
         <>
-          One-page Checkout process with online payment and shipping. Saved shopping cart. Integration with multiple payment gateways.
+          一碰互传，美图、视频或好物，随时随地轻松分享。跨设备互通，手机相机一键调用，素材一扫即得。
         </>
       ),
       readMore: 'https://demo.evershop.io/',
@@ -28,22 +28,22 @@ const FeatureList = [
   ],
   [
     {
-      image: '/img/discount.webp',
-      title: 'Promotion Code',
+      image: '/img/zhineng.png',
+      title: '原生智能',
       description: (
         <>
-          Flexible coupons (pricing rules) with ability to restrict to customer groups, time period, products, and categories.
+          识屏对话，论文精读，指关节圈选直接抠图、问答、购物，更有业界首创小艺声音修复。
         </>
       ),
       readMore: 'https://demo.evershop.io/admin/coupons',
       readMoreText: 'See the demo ->',
     },
     {
-      image: '/img/product-filter.webp',
-      title: 'Layered Navigation',
+      image: '/img/anquan.png',
+      title: '原生安全',
       description: (
         <>
-          Layered / faceted navigation for filtering of products in categories and search results. Filter products by price and attributes.
+          禁止开放9类不合理权限，从源头降低隐私泄露风险。安全访问，仅给选定的数据，权限授权弹大幅减少。
         </>
       ),
       readMore: 'https://demo.evershop.io/category/women',
@@ -52,22 +52,22 @@ const FeatureList = [
   ],
   [
     {
-      image: '/img/customer.webp',
-      title: 'Customer Management',
+      image: '/img/liuchang.png',
+      title: '原生流畅',
       description: (
         <>
-          Customer, cutomer group management. Customer group based discount and more.
+          系统流畅，相应更及时，动效更跟手。游戏流畅，图形加速，高帧稳定。应用流畅，使用更丝滑，纵享流畅应用体验。
         </>
       ),
       readMore: 'https://demo.evershop.io/admin',
       readMoreText: 'See the demo ->',
     },
     {
-      image: '/img/cms.webp',
-      title: 'Content Management',
+      image: '/img/yingyong.png',
+      title: '原生应用',
       description: (
         <>
-          Create and manage static content page from the admin panel. SEO friendly.
+          全新应用市场，带来高品质应用，纯净安全下载。
         </>
       ),
       readMore: 'https://demo.evershop.io/admin/pages/',
@@ -87,10 +87,10 @@ function Feature({ image, title, description, readMore, readMoreText = 'Read mor
         <div>
           <h3 className='mb-3'>{title}</h3>
           <div className='mb-2'>{description}</div>
-          <Link
+          {/*<Link
             to={readMore}>
             {readMoreText}
-          </Link>
+            </Link>*/}
         </div>
       </div>
     </div>
@@ -100,9 +100,9 @@ function Feature({ image, title, description, readMore, readMoreText = 'Read mor
 export default function HomepageEcommerceFeatures() {
   return (
     <section className='pt-10'>
-      <h1 className='text-center largest font-bold'>Ecommerce features</h1>
+      <h1 className='text-center largest font-bold'>核心特征</h1>
       <div className='text-center mb-10'>
-        EverShop eCommerce platforms provides rich e-commerce features that help you build online stores faster.
+        欢迎来到鸿蒙新世界，从内到外，焕然一新。
       </div>
       <div className='grid grid-cols-1 divide-y border-y-[#E3E6E9] border-y'>
         {FeatureList.map((list, idx) => (
