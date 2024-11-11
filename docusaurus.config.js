@@ -68,6 +68,43 @@ const config = {
         },
         items: [
           {
+            type: 'dropdown',
+            position: 'left',
+            label: '核心特征',
+            items: [
+              {
+                label: '原生精致',
+                to:'delicate'
+              },
+              {
+                label: '原生互联',
+                to:'connect'
+              },
+              {
+                label: '原生智能',
+                to:'ai'
+              },
+              {
+                label: '原生安全',
+                to:'security'
+              },
+              {
+                label: '原生流畅',
+                to:'smooth'
+              },
+              {
+                label: '原生应用',
+                to:'application'
+              },
+              
+          ],
+          },
+          {
+            label: '支持机型',
+            position:'left',
+            to:'models-next',
+          },
+          {
             label: 'Developer',
             position:'right',
             href: 'https://developer.harmonyos.cool',
