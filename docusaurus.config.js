@@ -24,7 +24,12 @@ const config = {
     locales: ["zh"],
   },
   scripts: [
-    {src: 'https://hm.baidu.com/hm.js?14831dd539c30be31abf43fcc7170e9d',  async: true}
+    {src: 'https://hm.baidu.com/hm.js?14831dd539c30be31abf43fcc7170e9d',  async: true},
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2685463470534337',
+      async: true,
+      crossorigin: 'anonymous',
+    }
   ],
   plugins: ["docusaurus-plugin-sass"],
   presets: [
