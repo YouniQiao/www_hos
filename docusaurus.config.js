@@ -110,6 +110,12 @@ const config = {
             to:'models-next',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: '使用手册',
+          },
+          {
             label: 'Developer',
             position:'right',
             href: 'https://developer.harmonyos.cool',
