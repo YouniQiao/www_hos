@@ -25,6 +25,10 @@ const sidebars = {
       items: [
         'new-feature/lock-screen',
         'new-feature/desktop-editting',
+        'new-feature/aigc-theme',
+        'new-feature/shake-phone',
+        'new-feature/movie-camera',
+        'new-feature/dynamic-photo',
       ],
     },
   ],

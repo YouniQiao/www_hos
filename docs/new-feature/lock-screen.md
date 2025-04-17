@@ -6,7 +6,7 @@ last_update:
 
 # 锁屏界面，个性装扮
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/video/20005688_f002_lockScreen.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/video/20005688_f002_lockScreen.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
 
 在锁屏界面双指捏合，您可更改时钟样式、添加闹钟天气等锁屏卡片、设置锁屏签名，还可快速更换壁纸和主题，让锁屏更加美观实用。
 
