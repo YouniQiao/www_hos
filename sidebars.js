@@ -39,6 +39,30 @@ const sidebars = {
         'new-feature/agenda-share',
       ],
     },
+    {
+      type: 'category',
+      label: '快速上手',
+      items: [
+        'quick-start/gesture-navigation',
+        'quick-start/lock-task',
+        'quick-start/volume',
+        'quick-start/lock-screen-tool',
+        'quick-start/lock-screen',
+        'quick-start/card-to-desktop',
+        'quick-start/control-center',
+        'quick-start/broadcast-center',
+        'quick-start/notification-center',
+        'quick-start/task-information',
+        'quick-start/finger-joint-screenshot',
+        'quick-start/screen-recording',
+        'quick-start/split-screen',
+        'quick-start/float-window',
+        'quick-start/transfer-station',
+        'quick-start/data-clone',
+        'quick-start/changlian',
+
+      ],
+    },
   ],
    
 };
