@@ -116,11 +116,11 @@ const config = {
             position: 'left',
             label: '使用手册',
           },
-          {
-            label: 'Developer',
-            position:'right',
-            href: 'https://developer.harmonyos.cool',
-          },
+          //{
+          //  label: 'Developer',
+          //  position:'right',
+          //  href: 'https://developer.harmonyos.cool',
+          //},
         ],
       },
       footer: {
@@ -131,7 +131,7 @@ const config = {
             items: [
               {
                 label: 'Developer',
-                href: 'https://developer.harmonyos.cool',
+                href: 'https://developer.huawei.com/consumer/cn/',
               },
             ],
           },
