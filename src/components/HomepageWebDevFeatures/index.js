@@ -4,58 +4,67 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: '高端精致',
+    title: '快速上手',
     description: (
       <>
-        
+        了解手势导航，截图等基础操作。
       </>
     ),
-    readMore: '/docs/development/knowledge-base/data-fetching'
+    readMore: '/docs/quick-start/gesture-navigation'
   },
   {
-    title: '简单易用',
+    title: '智慧体验',
     description: (
       <>
-        
+        体验智慧功能带来的高效生活。
       </>
     ),
-    readMore: '/docs/development/getting-started/installation-guide'
-  },
-  {
-    title: '极致流畅',
-    description: (
-      <>
-        
-      </>
-    ),
-    readMore: '/docs/development/knowledge-base/fast-refresh'
+    readMore: '/docs/quick-start/gesture-navigation'
   },
   {
     title: '纯净安全',
     description: (
       <>
-        
+        时刻守护你的隐私安全。
       </>
     ),
-    readMore: '/docs/development/knowledge-base/middleware-system'
+    readMore: '/docs/quick-start/gesture-navigation'
   },
   {
-    title: '原生智能',
+    title: '精彩影像',
     description: (
       <>
-        
+        玩转影像拍摄，图片编辑等技巧。
       </>
     ),
-    readMore: '/docs/development/knowledge-base/api-routes'
+    readMore: '/docs/quick-start/gesture-navigation'
   },
   {
-    title: '全场景协同',
+    title: '个性设置',
     description: (
       <>
-        
+        了解如何自定义你的设置。
       </>
     ),
-    readMore: '/docs/development/theme/styling'
+    readMore: '/docs/quick-start/gesture-navigation'
+  },
+  {
+    title: '全场景',
+    description: (
+      <>
+        了解更多产品如何默契配合。
+      </>
+    ),
+    readMore: '/docs/quick-start/gesture-navigation'
+  },
+  {
+    title: '新功能',
+    description: (
+      <>
+        探索HarmonyOS NEXT新功能。
+      </>
+    ),
+    readMore: '/docs/new-feature/lock-screen'
   }
 ];
 
@@ -65,10 +74,10 @@ function Feature({ Svg, title, description, readMore }) {
       <div className="card p-8 box-border">
         <h3 className='mb-2'>{title}</h3>
         <div className='mb-2'>{description}</div>
-        {/*<Link
+        {<Link
           to={readMore}>
-          Read more
-        </Link>*/}
+          了解更多
+        </Link>}
       </div>
     </div>
   );
@@ -78,7 +87,7 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container mt-10">
-        <h1 className='text-center largest font-bold'>核心特征</h1>
+        <h1 className='text-center largest font-bold'>玩机精选</h1>
         <div className='text-center mb-10'>
           
         </div>

@@ -128,10 +128,10 @@ function Discord() {
       <div className="flex flex-col  md:flex-row md:space-y-0  justify-center bg-[#3f39a7] p-[30px] md:p-[80px] rounded-lg relative">
         <div className="text-center">
           <h3 className="largest justify-center text-center text-white">
-            开发者是HarmonyOS灵动的核心
+            欢迎进入鸿蒙操作系统新世界
           </h3>
           <p className="text-white">
-            就现在，不妨尝试一下，开发HarmonyOS NEXT应用。
+            就现在，和众多花粉一起感受新系统的魅力。
           </p>
           <div className="flex justify-center mb-5">
             <div style={{ width: "150px" }}>
@@ -143,8 +143,8 @@ function Discord() {
           </div>
           <Link
             className="button button--primary button--md"
-            to="https://developer.harmonyos.cool">
-            developer.harmonyos.cool
+            to="https://cn.club.vmall.com/mhw/consumer/cn/community/mhwnews/allcircle/id_10000001/">
+            访问花粉俱乐部
           </Link>
         </div>
         <svg
@@ -269,7 +269,10 @@ function TechStack() {
               即刻升级体验
             </h1>
             <p className="text-left">
-              进入“我的华为”应用，选择“升级尝鲜”查看当前公测机型。
+              进入<a href="/models-next">"支持机型"</a>页面，查看当前公测机型。
+            </p>
+            <p className="text-left">
+              进入“我的华为”应用，选择“升级尝鲜”查看你的手机是否可以升级。
             </p>
             <div className="flex justify-center md:justify-start mt-10">
               <img
@@ -298,10 +301,11 @@ export default function Home() {
         
         <HomepageEcommerceFeatures />
         <TechStack />
-        <QuickStart />
+        <HomepageWebDevFeatures />
         <Discord />
         {/*
         <TechStack />
+        <QuickStart />
         <Developer />
         <HomepageWebDevFeatures />
         <HomepageEcommerceFeatures />
