@@ -86,6 +86,25 @@ const sidebars = {
 
       ],
     },
+    {
+      type: 'category',
+      label: '纯净安全',
+      items: [
+        'security/privacy-light',
+        'security/manage-app-permission',
+        'security/app-lock',
+        'security/hide-private-content',
+        'security/file-cabinet',
+        'security/3d-facial-recognition',
+        'security/one-click-close-sensitive-permission',
+        'security/share-encrypt-file',
+        'security/auto-fill-in-password',
+        'security/search-lost-device',
+        'security/external-storage',
+        'security/satellite-communication',
+
+      ],
+    },
   ],
    
 };
