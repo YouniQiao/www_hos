@@ -63,6 +63,29 @@ const sidebars = {
 
       ],
     },
+    {
+      type: 'category',
+      label: '智慧体验',
+      items: [
+        'ai/screen-recognition',
+        'ai/finger-joint-circle-selection',
+        'ai/answer-devices-question',
+        'ai/xiaoyi-memory',
+        'ai/memo',
+        'ai/scan-id-card',
+        'ai/extract-image-subject',
+        'ai/extract-image-text',
+        'ai/recognize-music',
+        'ai/one-click-translation',
+        'ai/xiaoyi-subtitle',
+        'ai/xiaoyi-search',
+        'ai/smart-payment',
+        'ai/smart-scan-qr-code',
+        'ai/remote-gesture-screenshot',
+        'ai/remote-gesture-scroll-screen',
+
+      ],
+    },
   ],
    
 };
