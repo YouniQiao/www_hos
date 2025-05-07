@@ -142,6 +142,24 @@ const sidebars = {
 
       ],
     },
+
+    {
+      type: 'category',
+      label: '全场景',
+      items: [
+        'full-scene/huawei-share',
+        'full-scene/super-device',
+        'full-scene/seamless-connection',
+        'full-scene/cross-device-copy-paste',
+        'full-scene/cross-device-photo',
+        'full-scene/connect-phone-tablet',
+        'full-scene/cross-device-drag-drop-file',
+        'full-scene/wireless-screen-mirroring',
+        'full-scene/touch-it',
+        'full-scene/super-desktop',
+        'full-scene/huawei-hicar',
+      ],
+    },
   ],
    
 };
