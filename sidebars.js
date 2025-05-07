@@ -105,6 +105,25 @@ const sidebars = {
 
       ],
     },
+    {
+      type: 'category',
+      label: '精彩影像',
+      items: [
+        'camera/zoom-ring',
+        'camera/one-hand-camera-operation',
+        'camera/adjust-camera-setting',
+        'camera/one-click-shooting',
+        'camera/fictitious-background',
+        'camera/ai-enhancement',
+        'camera/ai-elimination',
+        'camera/ai-expansion',
+        'camera/photo-graffiti',
+        'camera/multi-image-comparison',
+        'camera/automatic-classification',
+        'camera/time-album',
+
+      ],
+    },
   ],
    
 };
