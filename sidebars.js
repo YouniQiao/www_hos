@@ -124,6 +124,24 @@ const sidebars = {
 
       ],
     },
+
+    {
+      type: 'category',
+      label: '个性设置',
+      items: [
+        'setting/weather-theme',
+        'setting/raindrop-theme',
+        'setting/stack-cards',
+        'setting/large-folder',
+        'setting/adjust-font',
+        'setting/dark-mode',
+        'setting/switch-input-method',
+        'setting/screen-usage-time',
+        'setting/minor-mode',
+        'setting/care-mode',
+
+      ],
+    },
   ],
    
 };
