@@ -108,7 +108,7 @@ const config = {
           {
             label: '支持机型',
             position:'left',
-            to:'models-next',
+            to:'/models-next',
           },
           {
             type: 'docSidebar',

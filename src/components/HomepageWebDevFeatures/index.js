@@ -19,7 +19,7 @@ const FeatureList = [
         体验智慧功能带来的高效生活。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/ai/screen-recognition'
   },
   {
     title: '纯净安全',
@@ -28,7 +28,7 @@ const FeatureList = [
         时刻守护你的隐私安全。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/security/privacy-light'
   },
   {
     title: '精彩影像',
@@ -37,7 +37,7 @@ const FeatureList = [
         玩转影像拍摄，图片编辑等技巧。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/camera/zoom-ring'
   },
   {
     title: '个性设置',
@@ -46,7 +46,7 @@ const FeatureList = [
         了解如何自定义你的设置。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/setting/weather-theme'
   },
   {
     title: '全场景',
@@ -55,7 +55,7 @@ const FeatureList = [
         了解更多产品如何默契配合。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/full-scene/huawei-share'
   },
   {
     title: '新功能',
