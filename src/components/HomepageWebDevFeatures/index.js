@@ -1,4 +1,6 @@
 import React from 'react';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
 
@@ -68,6 +70,21 @@ const FeatureList = [
   }
 ];
 
+
+
+const FeatureListPC = [
+  {
+    title: '快速上手',
+    description: (
+      <>
+        了解控制中心，分屏等基础操作。
+      </>
+    ),
+    readMore: '/docs/quick-start-pc/harmonyos'
+  },
+  
+];
+
 function Feature({ Svg, title, description, readMore }) {
   return (
     <div>
@@ -89,13 +106,34 @@ export default function HomepageFeatures() {
       <div className="container mt-10">
         <h1 className='text-center largest font-bold'>玩机精选</h1>
         <div className='text-center mb-10'>
-          
+          各类设备的玩机技巧
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
+
+        <Tabs
+          defaultValue="phone"
+          values={[
+            { label: '手机', value: 'phone' },
+            { label: '电脑', value: 'pc' },
+          ]}
+        >
+          <TabItem value="phone">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureList.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+          <TabItem value="pc">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureListPC.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+        </Tabs >
+
+       
+        
       </div>
     </section>
   );

@@ -112,9 +112,15 @@ const config = {
           },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'phoneSidebar',
             position: 'left',
-            label: '使用手册',
+            label: '手机手册',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'pcSidebar',
+            position: 'left',
+            label: '电脑手册',
           },
           //{
           //  label: 'Developer',

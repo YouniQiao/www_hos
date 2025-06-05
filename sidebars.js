@@ -18,7 +18,7 @@ const sidebars = {
   
   // But you can create a sidebar manually
   
-  tutorialSidebar: [
+  phoneSidebar: [
     {
       type: 'category',
       label: '新功能',
@@ -160,6 +160,19 @@ const sidebars = {
         'full-scene/huawei-hicar',
       ],
     },
+  ],
+
+  pcSidebar: [
+    
+    {
+      type: 'category',
+      label: '快速上手',
+      items: [
+        'quick-start-pc/harmonyos',
+
+      ],
+    },
+    
   ],
    
 };
