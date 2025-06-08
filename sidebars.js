@@ -166,13 +166,57 @@ const sidebars = {
     
     {
       type: 'category',
-      label: '快速上手',
+      label: '新机上手',
       items: [
         'quick-start-pc/harmonyos',
+        'quick-start-pc/app-center',
+        'quick-start-pc/control-center',
+        'quick-start-pc/desktop-card',
+        'quick-start-pc/data-clone',
+        'quick-start-pc/screenshot',
+        'quick-start-pc/screen-recording',
+        'quick-start-pc/split-screen',
+        'quick-start-pc/notice',
+        'quick-start-pc/start',
+      ],
+    },
 
+    {
+      type: 'category',
+      label: '全场景',
+      items: [
+        'full-scene-pc/super-device',
+        'full-scene-pc/mouse-keyboard-sharing',
+        'full-scene-pc/switch-keyboard-mouse',
+        'full-scene-pc/cross-device-image-acquisition',
+        'full-scene-pc/huawei-share',
+        'full-scene-pc/multi-screen-collaboration',
+        'full-scene-pc/one-touch-connection',
+        'full-scene-pc/task-continuation',
+        'full-scene-pc/copy-and-paste',
+        'full-scene-pc/communication-sharing',
+        'full-scene-pc/wireless-screen-mirroring',
+        'full-scene-pc/broadcasting-center',
+        
       ],
     },
     
+    {
+      type: 'category',
+      label: '智慧体验',
+      items: [
+        'ai-pc/xiaoyi-search',
+        'ai-pc/xiaoyi-wakeup',
+        'ai-pc/xiaoyi-assistant',
+        'ai-pc/xiaoyi-calendar',
+        'ai-pc/xiaoyi-image',
+        'ai-pc/xiaoyi-meeting',
+        'ai-pc/xiaoyi-subtitle',
+        'ai-pc/xiaoyi-noise-reduction',
+        'ai-pc/xiaoyi-ktv',
+        
+      ],
+    },
   ],
    
 };

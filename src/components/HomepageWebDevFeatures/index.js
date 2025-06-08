@@ -74,13 +74,31 @@ const FeatureList = [
 
 const FeatureListPC = [
   {
-    title: '快速上手',
+    title: '新机上手',
     description: (
       <>
-        了解控制中心，分屏等基础操作。
+        了解控制中心，截图等基础操作。
       </>
     ),
     readMore: '/docs/quick-start-pc/harmonyos'
+  },
+  {
+    title: '全场景',
+    description: (
+      <>
+        了解多产品如何默契配合。
+      </>
+    ),
+    readMore: '/docs/full-scene-pc/super-device'
+  },
+  {
+    title: '智慧体验',
+    description: (
+      <>
+        体验智慧功能带来的高效办公。
+      </>
+    ),
+    readMore: '/docs/ai-pc/xiaoyi-search'
   },
   
 ];
