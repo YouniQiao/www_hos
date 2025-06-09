@@ -100,6 +100,51 @@ const FeatureListPC = [
     ),
     readMore: '/docs/ai-pc/xiaoyi-search'
   },
+  {
+    title: '常用手势',
+    description: (
+      <>
+        了解如何使用手势快捷操作电脑。
+      </>
+    ),
+    readMore: '/docs/gesture/knuckle'
+  },
+  {
+    title: '快捷键',
+    description: (
+      <>
+        了解如何使用按键组合快捷操作电脑。
+      </>
+    ),
+    readMore: '/docs/shortcut-key/open-startup-window'
+  },
+  {
+    title: '高效办公',
+    description: (
+      <>
+        了解如何使用文件管理、备忘录等应用高效办公。
+      </>
+    ),
+    readMore: '/docs/work/memo'
+  },
+  {
+    title: '纯净安全',
+    description: (
+      <>
+        时刻守护你的隐私安全。
+      </>
+    ),
+    readMore: '/docs/security-pc/privacy-light'
+  },
+  {
+    title: '个性设置',
+    description: (
+      <>
+        了解如何自定义你的设备。
+      </>
+    ),
+    readMore: '/docs/setting-pc/change-wallpaper'
+  },
   
 ];
 

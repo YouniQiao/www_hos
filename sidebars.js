@@ -217,6 +217,95 @@ const sidebars = {
         
       ],
     },
+
+    {
+      type: 'category',
+      label: '常用手势',
+      items: [
+        'gesture/knuckle',
+        'gesture/double-finger-opening-closing',
+        'gesture/double-finger-sliding',
+        'gesture/double-finger-swipe',
+        'gesture/three-finger-sliding-upwards',
+        'gesture/three-finger-slideup-pause',
+        'gesture/right-click',
+        
+
+        
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '快捷键',
+      items: [
+        'shortcut-key/open-startup-window',
+        'shortcut-key/close-current-application',
+        'shortcut-key/hotkey-mode',
+        'shortcut-key/xiaoyi-search',
+        'shortcut-key/regional-screenshot',
+        'shortcut-key/shortcut-key-prompt-panel',
+        'shortcut-key/show-desktop',
+        'shortcut-key/lock-screen',
+        'shortcut-key/control-center',
+        'shortcut-key/view-all-running-applications',
+        'shortcut-key/view-files-on-computer',
+        'shortcut-key/view-all-installed-applications',
+        'shortcut-key/view-notice',
+
+      
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '高效办公',
+      items: [
+        'work/memo',
+        'work/intelligent-organization',
+        'work/todo-list',
+        'work/manage-schedule',
+        'work/share-agenda',
+        'work/extract-image-subject',
+        'work/extract-image-text',
+        'work/jiasaw-puzzle',
+        'work/search-file',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '纯净安全',
+      items: [
+        'security-pc/privacy-light',
+        'security-pc/security-status',
+        'security-pc/disable-camera-permission',
+        'security-pc/fingerprint-unlock',
+        'security-pc/autofill-password',
+        'security-pc/document-cabinet',
+        'security-pc/encrypt-file',
+        'security-pc/lock-memo',
+        'security-pc/hide-privacy-file',
+        'security-pc/external-storage-backup',
+        'security-pc/find-device',
+       
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '个性设置',
+      items: [
+        'setting-pc/change-wallpaper',
+        'setting-pc/show-battery-percentage',
+        'setting-pc/change-mouse-style',
+        'setting-pc/change-font-display-size',
+        'setting-pc/screen-auto-turn-off-duration',
+        'setting-pc/dark-mode',
+        'setting-pc/intelligent-charging',
+       
+      ],
+    },
   ],
    
 };
