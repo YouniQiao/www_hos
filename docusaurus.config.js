@@ -42,7 +42,7 @@ const config = {
           showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "/",
+          editUrl: "https://github.com/YouniQiao/www_hos/tree/master/",
         },
         blog: {
           showReadingTime: true,
