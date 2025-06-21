@@ -61,6 +61,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        appId: 'JA5IB6FHW4',
+        apiKey: 'cbb771cab46bf213a368403bbaeda0cd',
+        indexName: 'harmonyos',
+        contextualSearch: true,
+        searchParameters: {},
+      },
+
       colorMode: {
         defaultMode: "light",
         disableSwitch: true,
@@ -121,6 +129,11 @@ const config = {
             sidebarId: 'pcSidebar',
             position: 'left',
             label: '电脑手册',
+          },
+
+          {
+            type: 'search',
+            position: 'right',
           },
           //{
           //  label: 'Developer',
