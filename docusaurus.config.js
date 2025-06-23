@@ -130,6 +130,33 @@ const config = {
             position: 'left',
             label: '电脑手册',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tabletSidebar',
+            position: 'left',
+            label: '平板手册',
+          },
+
+          {
+            type: 'docSidebar',
+            sidebarId: 'wearableSidebar',
+            position: 'left',
+            label: '穿戴手册',
+          },
+
+          {
+            type: 'docSidebar',
+            sidebarId: 'tvSidebar',
+            position: 'left',
+            label: '智慧屏手册',
+          },
+
+          {
+            type: 'docSidebar',
+            sidebarId: 'carSidebar',
+            position: 'left',
+            label: '智能座舱手册',
+          },
 
           {
             type: 'search',

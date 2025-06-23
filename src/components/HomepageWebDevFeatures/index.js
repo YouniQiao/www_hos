@@ -148,6 +148,58 @@ const FeatureListPC = [
   
 ];
 
+const FeatureListTablet = [
+  {
+    title: '新机上手',
+    description: (
+      <>
+        纯血鸿蒙平板，敬请期待。
+      </>
+    ),
+    readMore: '/docs/quick-start-tablet/start'
+  },
+  
+];
+
+const FeatureListWearable = [
+  {
+    title: '新机上手',
+    description: (
+      <>
+        纯血鸿蒙穿戴设备，敬请期待。
+      </>
+    ),
+    readMore: '/docs/quick-start-wearable/start'
+  },
+  
+];
+
+const FeatureListTV = [
+  {
+    title: '新机上手',
+    description: (
+      <>
+        纯血鸿蒙智慧屏，敬请期待。
+      </>
+    ),
+    readMore: '/docs/quick-start-tv/start'
+  },
+  
+];
+
+const FeatureListCar = [
+  {
+    title: '新机上手',
+    description: (
+      <>
+        纯血鸿蒙智能座舱，敬请期待。
+      </>
+    ),
+    readMore: '/docs/quick-start-car/start'
+  },
+  
+];
+
 function Feature({ Svg, title, description, readMore }) {
   return (
     <div>
@@ -177,6 +229,10 @@ export default function HomepageFeatures() {
           values={[
             { label: '手机', value: 'phone' },
             { label: '电脑', value: 'pc' },
+            { label: '平板', value: 'tablet' },
+            { label: '穿戴', value: 'wearable' },
+            { label: '智慧屏', value: 'tv' },
+            { label: '智能座舱', value: 'car' },
           ]}
         >
           <TabItem value="phone">
@@ -189,6 +245,34 @@ export default function HomepageFeatures() {
           <TabItem value="pc">
             <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
               {FeatureListPC.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+          <TabItem value="tablet">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureListTablet.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+          <TabItem value="wearable">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureListWearable.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+          <TabItem value="tv">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureListTV.map((props, idx) => (
+                <Feature key={idx} {...props} />
+              ))}
+            </div>
+          </TabItem>
+          <TabItem value="car">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
+              {FeatureListCar.map((props, idx) => (
                 <Feature key={idx} {...props} />
               ))}
             </div>

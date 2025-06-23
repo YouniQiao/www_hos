@@ -4,7 +4,7 @@
 
 :::tip
 
-本页面内容更新时间：2025年4月23日
+本页面内容更新时间：2025年6月23日
 
 :::
 
@@ -15,7 +15,7 @@
 
 |                                   |                             |
 | --------------------------------- | --------------------------- |
-| HUAWEI Pura X                     |                             |
+| HUAWEI Pura X                     | HUAWEI Mate XT | ULTIMATE DESIGN                            |
 | HUAWEI Mate 70 Pro 优享版         | HUAWEI Mate 70              |
 | HUAWEI Mate 70 Pro                | HUAWEI Mate 70 Pro+         |
 | HUAWEI Mate 70 RS ULTIMATE DESIGN | HUAWEI Mate 60              |
@@ -37,7 +37,9 @@
 |                                  |                                    |
 | -------------------------------- | ---------------------------------- |
 | HUAWEI MatePad Pro 13.2英寸      | HUAWEI MatePad Pro 13.2英寸 典藏版 |
-| HUAWEI MatePad Pro 11英寸 2024款 |                                    |
+| HUAWEI MatePad Pro 11英寸 2024款 | HUAWEI MatePad Pro 12.2英寸        |
+| HUAWEI MatePad Air 12英寸 | HUAWEI MatePad 11.5"S        |
+| HUAWEI MatePad 11.5"S 灵动款 |       |
 
 
 
@@ -51,6 +53,12 @@
 | HUAWEI MatePad Air 12英寸        | HUAWEI MatePad 11.5"S       |
 | HUAWEI MatePad 11.5"S 灵动款     |                             |
 
+### 穿戴
+
+|                                  |                             |
+| -------------------------------- | --------------------------- |
+| HUAWEI WATCH GT 5 | HUAWEI WATCH GT 5 Pro |
+| HUAWEI WATCH D2     |                             |
 
 
 

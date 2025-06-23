@@ -307,6 +307,50 @@ const sidebars = {
       ],
     },
   ],
+
+  tabletSidebar: [
+    
+    {
+      type: 'category',
+      label: '新机上手',
+      items: [
+        'quick-start-tablet/start',
+      ],
+    },
+  ],
+
+  wearableSidebar: [
+    
+    {
+      type: 'category',
+      label: '新机上手',
+      items: [
+        'quick-start-wearable/start',
+      ],
+    },
+  ],
+
+  tvSidebar: [
+    
+    {
+      type: 'category',
+      label: '新机上手',
+      items: [
+        'quick-start-tv/start',
+      ],
+    },
+  ],
+
+  carSidebar: [
+    
+    {
+      type: 'category',
+      label: '新机上手',
+      items: [
+        'quick-start-car/start',
+      ],
+    },
+  ],
    
 };
 
