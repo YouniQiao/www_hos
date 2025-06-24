@@ -219,9 +219,9 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container mt-10">
-        <h1 className='text-center largest font-bold'>玩机精选</h1>
+        <h1 className='text-center largest font-bold'>玩机技巧</h1>
         <div className='text-center mb-10'>
-          各类设备的玩机技巧
+          各类设备的玩机技巧内容，全部来自随机提供的《玩机技巧》App。
         </div>
 
         <Tabs

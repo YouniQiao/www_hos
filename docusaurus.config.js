@@ -118,46 +118,49 @@ const config = {
             position:'left',
             to:'/models-next',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'phoneSidebar',
-            position: 'left',
-            label: '手机手册',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'pcSidebar',
-            position: 'left',
-            label: '电脑手册',
-          },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tabletSidebar',
-            position: 'left',
-            label: '平板手册',
-          },
 
           {
-            type: 'docSidebar',
-            sidebarId: 'wearableSidebar',
+            type: 'dropdown',
+            label: '玩机技巧',
             position: 'left',
-            label: '穿戴手册',
+            items: [
+              {
+                type: 'docSidebar',
+                sidebarId: 'phoneSidebar',
+                label: '手机手册',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'pcSidebar',
+                label: '电脑手册',
+              },
+              {
+                type: 'docSidebar',
+                sidebarId: 'tabletSidebar',
+                label: '平板手册',
+              },
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'wearableSidebar',
+                label: '穿戴手册',
+              },
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'tvSidebar',
+                label: '智慧屏手册',
+              },
+
+              {
+                type: 'docSidebar',
+                sidebarId: 'carSidebar',
+                label: '智能座舱手册',
+              },                  
+            ],
           },
 
-          {
-            type: 'docSidebar',
-            sidebarId: 'tvSidebar',
-            position: 'left',
-            label: '智慧屏手册',
-          },
-
-          {
-            type: 'docSidebar',
-            sidebarId: 'carSidebar',
-            position: 'left',
-            label: '智能座舱手册',
-          },
-
+        
           {
             type: 'search',
             position: 'right',
