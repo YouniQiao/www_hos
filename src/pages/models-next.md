@@ -4,14 +4,14 @@
 
 :::tip
 
-本页面内容更新时间：2025年6月23日
+本页面内容更新时间：2025年8月12日
 
 :::
 
 
-## 公测
 
-### 手机
+
+## 手机
 
 |                                   |                             |
 | --------------------------------- | --------------------------- |
@@ -29,31 +29,21 @@
 | HUAWEI nova 12 Ultra              | HUAWEI nova 12 Ultra 星耀版 |
 | HUAWEI nova 13                    | HUAWEI nova 13 Pro          |
 | HUAWEI nova 12                    | HUAWEI nova 12 Pro          |
+| HUAWEI nova Flip                    |          |
 
 
 
-### 平板
+## 平板
 
 |                                  |                                    |
 | -------------------------------- | ---------------------------------- |
-| HUAWEI MatePad Pro 13.2英寸      | HUAWEI MatePad Pro 13.2英寸 典藏版 |
-| HUAWEI MatePad Pro 11英寸 2024款 | HUAWEI MatePad Pro 12.2英寸        |
-| HUAWEI MatePad Air 12英寸 | HUAWEI MatePad 11.5"S        |
-| HUAWEI MatePad 11.5"S 灵动款 |       |
+| HUAWEI MatePad Pro 13.2英寸 2025      | HUAWEI MatePad Pro 13.2英寸 |
+| HUAWEI MatePad Pro 13.2英寸 典藏版 |  HUAWEI MatePad Pro 11英寸 2024款       |
+| HUAWEI MatePad Pro 12.2英寸 |  HUAWEI MatePad Air 12英寸       |
+| HUAWEI MatePad 11.5"S |  HUAWEI MatePad 11.5"S 灵动款     |
 
 
-
-## 花粉Beta
-
-### 平板
-
-|                                  |                             |
-| -------------------------------- | --------------------------- |
-| HUAWEI MatePad Pro 13.2英寸 2025 | HUAWEI MatePad Pro 12.2英寸 |
-| HUAWEI MatePad Air 12英寸        | HUAWEI MatePad 11.5"S       |
-| HUAWEI MatePad 11.5"S 灵动款     |                             |
-
-### 穿戴
+## 穿戴
 
 |                                  |                             |
 | -------------------------------- | --------------------------- |
@@ -64,6 +54,6 @@
 
 :::tip
 
-公测和花粉Beta报名可前往“我的华为App > 升级尝鲜 >（多设备尝鲜）升级尝鲜”点击参与报名。
+升级报名可前往“我的华为App > 升级尝鲜 >（多设备尝鲜）升级尝鲜”点击参与报名。
 
 :::
