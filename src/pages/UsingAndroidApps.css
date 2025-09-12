@@ -1,0 +1,412 @@
+/* UsingAndroidApps.css */
+.android-apps-page {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  color: #1e293b;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* 容器样式 */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* 英雄区域样式 */
+.android-hero {
+  padding: 3rem 0;
+  text-align: center;
+  background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
+}
+
+.hero-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  color: #64748b;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* 特性区域样式 */
+.features-section {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.section-header h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.section-header p {
+  color: #64748b;
+  font-size: 1.1rem;
+}
+
+/* 卓易通截图区域 */
+.zhuoyitong-screenshot {
+  margin: 3rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.screenshot-placeholder {
+  width: 100%;
+  max-width: 800px;
+  height: 400px;
+  background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.screenshot-placeholder.small {
+  max-width: 300px;
+  height: 200px;
+}
+
+.screenshot-placeholder::before {
+  content: '';
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 8px;
+}
+
+.screenshot-label {
+  position: relative;
+  z-index: 2;
+  color: #64748b;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.feature-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: flex-start;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+}
+
+.feature-icon-container {
+  margin-right: 1.5rem;
+  flex-shrink: 0;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
+  border-radius: 50%;
+}
+
+.feature-content h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+  color: #1e293b;
+}
+
+.feature-content p {
+  color: #64748b;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 使用指南区域样式 */
+.usage-section {
+  padding: 4rem 0;
+  background: white;
+}
+
+.vertical-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.vertical-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.vertical-step:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.step-content {
+  flex: 1;
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  border-left: 4px solid #3b82f6;
+}
+
+.step-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.step-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  color: white;
+  border-radius: 50%;
+  font-weight: 700;
+  margin-right: 1rem;
+  flex-shrink: 0;
+}
+
+.step-header h3 {
+  font-size: 1.3rem;
+  color: #1e293b;
+  margin: 0;
+}
+
+.step-content p {
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.step-tip {
+  background: #f1f5f9;
+  padding: 0.8rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.tip-icon {
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.tip-text {
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.step-screenshot {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 常见问题区域样式 */
+.faq-section {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+}
+
+.faq-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.faq-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+}
+
+.faq-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #1e293b;
+}
+
+.faq-card p {
+  color: #64748b;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 提示区域样式 */
+.tips-section {
+  padding: 4rem 0;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  color: white;
+  text-align: center;
+}
+
+.tips-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.tips-icon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.tips-content h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.tips-content p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+  line-height: 1.6;
+}
+
+.tips-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.dev-button,
+.learn-button {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.dev-button {
+  background: white;
+  color: #2563eb;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.dev-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.learn-button {
+  background: transparent;
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.learn-button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.2rem;
+  }
+  
+  .features-grid,
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .feature-card {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .feature-icon-container {
+    margin-right: 0;
+    margin-bottom: 1rem;
+    align-self: center;
+  }
+  
+  .vertical-step {
+    flex-direction: column !important;
+    gap: 1.5rem;
+  }
+  
+  .step-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .step-number {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .tips-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .dev-button,
+  .learn-button {
+    width: 100%;
+    max-width: 250px;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  
+  .section-header h2 {
+    font-size: 1.8rem;
+  }
+  
+  .screenshot-placeholder {
+    height: 250px;
+  }
+  
+  .screenshot-placeholder.small {
+    height: 150px;
+  }
+}

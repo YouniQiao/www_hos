@@ -1,0 +1,544 @@
+/* MigrateToHarmonyOS.css */
+.migrate-page {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  color: #1e293b;
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+}
+
+/* 容器样式 */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -1rem;
+}
+
+.col {
+  padding: 0 1rem;
+  flex: 1 0;
+}
+
+.col--6 {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+/* 英雄区域样式 */
+.migrate-hero-section {
+  display: flex;
+  align-items: center;
+  padding: 3rem 0;
+  min-height: 60vh;
+}
+
+.migrate-hero-content {
+  max-width: 100%;
+}
+
+.migrate-hero-title {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+  color: #0f172a;
+}
+
+.gradient-text {
+  background: linear-gradient(90deg, #2563eb 0%, #3b82f6 50%, #60a5fa 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.migrate-hero-subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2.5rem;
+  color: #64748b;
+  line-height: 1.6;
+}
+
+.device-badges {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.device-badge {
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.device-badge.android {
+  background-color: #34a853;
+  color: white;
+}
+
+.device-badge.ios {
+  background-color: #000000;
+  color: white;
+}
+
+.device-badge.harmony {
+  background: linear-gradient(90deg, #2563eb 0%, #3b82f6 100%);
+  color: white;
+}
+
+.device-badge.arrow {
+  background-color: #f1f5f9;
+  color: #64748b;
+}
+
+.migrate-hero-visual {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.migration-devices {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 500px;
+}
+
+.device-source,
+.device-target {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.device-img {
+  width: 120px;
+  height: 200px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.device-img.android {
+  background: linear-gradient(135deg, #34a853 0%, #66bb6a 100%);
+}
+
+.device-img.harmony {
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+}
+
+.device-img::before {
+  content: '';
+  position: absolute;
+  top: 10%;
+  left: 10%;
+  right: 10%;
+  bottom: 30%;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+}
+
+.device-label {
+  margin-top: 1rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.migration-arrow {
+  margin: 0 1.5rem;
+  position: relative;
+}
+
+.arrow-animation {
+  width: 60px;
+  height: 2px;
+  background: #3b82f6;
+  position: relative;
+}
+
+.arrow-animation::after {
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  border-right: 2px solid #3b82f6;
+  border-top: 2px solid #3b82f6;
+  transform: rotate(45deg) translateY(-50%);
+}
+
+.arrow-animation::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 2px;
+  background: #3b82f6;
+  animation: arrowMove 2s infinite;
+}
+
+@keyframes arrowMove {
+  0% {
+    left: 0;
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+/* 优势区域样式 */
+.benefits-section {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.section-header h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: #0f172a;
+}
+
+.section-header p {
+  color: #64748b;
+  font-size: 1.1rem;
+}
+
+.benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.benefit-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: flex-start;
+}
+
+.benefit-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+}
+
+.benefit-icon-container {
+  margin-right: 1.5rem;
+  flex-shrink: 0;
+}
+
+.benefit-icon {
+  font-size: 2rem;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
+  border-radius: 50%;
+}
+
+.benefit-content h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.8rem;
+  color: #1e293b;
+}
+
+.benefit-content p {
+  color: #64748b;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 步骤区域样式 */
+.steps-section {
+  padding: 4rem 0;
+  background: white;
+}
+
+.steps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.step-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  border-left: 4px solid #3b82f6;
+}
+
+.step-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+}
+
+.step-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.step-number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  color: white;
+  border-radius: 50%;
+  font-weight: 700;
+  margin-right: 1rem;
+  flex-shrink: 0;
+}
+
+.step-header h3 {
+  font-size: 1.3rem;
+  color: #1e293b;
+  margin: 0;
+}
+
+.step-card p {
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.step-tip {
+  background: #f1f5f9;
+  padding: 0.8rem;
+  border-radius: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.tip-icon {
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+}
+
+.tip-text {
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* 常见问题区域样式 */
+.faq-section {
+  padding: 4rem 0;
+  background: #f8f9fa;
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 2rem;
+}
+
+.faq-card {
+  background: white;
+  border-radius: 16px;
+  padding: 2rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.faq-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
+}
+
+.faq-card h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: #1e293b;
+}
+
+.faq-card p {
+  color: #64748b;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* 提示区域样式 */
+.tips-section {
+  padding: 4rem 0;
+  background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
+  color: white;
+  text-align: center;
+}
+
+.tips-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.tips-icon {
+  font-size: 4rem;
+  margin-bottom: 1.5rem;
+}
+
+.tips-content h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.tips-content p {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.tips-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.download-button,
+.guide-button {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+}
+
+.download-button {
+  background: white;
+  color: #2563eb;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.download-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.guide-button {
+  background: transparent;
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.guide-button:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* 响应式设计 */
+@media (max-width: 996px) {
+  .col--6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  
+  .migrate-hero-section {
+    padding: 2rem 0;
+    min-height: auto;
+  }
+  
+  .migrate-hero-title {
+    font-size: 2.2rem;
+  }
+  
+  .migrate-hero-visual {
+    margin-top: 2rem;
+  }
+  
+  .migration-devices {
+    max-width: 400px;
+  }
+  
+  .device-img {
+    width: 100px;
+    height: 160px;
+  }
+}
+
+@media (max-width: 768px) {
+  .benefits-grid,
+  .steps-grid,
+  .faq-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .tips-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .download-button,
+  .guide-button {
+    width: 100%;
+    max-width: 250px;
+  }
+}
+
+@media (max-width: 576px) {
+  .migrate-hero-title {
+    font-size: 1.8rem;
+  }
+  
+  .benefit-card {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .benefit-icon-container {
+    margin-right: 0;
+    margin-bottom: 1rem;
+    align-self: center;
+  }
+  
+  .step-header {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .step-number {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .device-badges {
+    justify-content: center;
+  }
+  
+  .migration-devices {
+    flex-direction: column;
+  }
+  
+  .migration-arrow {
+    margin: 1.5rem 0;
+    transform: rotate(90deg);
+  }
+}

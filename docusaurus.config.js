@@ -84,78 +84,80 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
-            label: '核心特征',
+            label: '探索',
             items: [
               {
-                label: '原生精致',
-                to:'delicate'
+                label: 'HarmonyOS 5.1',
+                to:'hmos51'
               },
               {
-                label: '原生互联',
-                to:'connect'
+                label: '使用Android应用',
+                to:'android-app'
               },
               {
-                label: '原生智能',
-                to:'ai'
-              },
-              {
-                label: '原生安全',
-                to:'security'
-              },
-              {
-                label: '原生流畅',
-                to:'smooth'
-              },
-              {
-                label: '原生应用',
-                to:'application'
+                label: '使用海外应用',
+                to:'oversea-app'
               },
               
           ],
           },
           {
-            label: '支持机型',
-            position:'left',
-            to:'/models-next',
+            type: 'dropdown',
+            position: 'left',
+            label: '选择',
+            items: [
+              {
+                label: '为什么选择HarmonyOS',
+                to:'why-hmos'
+              },
+              {
+                label: '迁移至HarmonyOS',
+                to:'switch-to-hmos'
+              },
+              //{
+              //  label: '支持机型',
+              //  to:'support-device'
+              //},
+              
+          ],
           },
-
           {
             type: 'dropdown',
-            label: '玩机技巧',
+            label: '玩转设备',
             position: 'left',
             items: [
               {
                 type: 'docSidebar',
                 sidebarId: 'phoneSidebar',
-                label: '手机手册',
+                label: '手机',
               },
               {
                 type: 'docSidebar',
                 sidebarId: 'pcSidebar',
-                label: '电脑手册',
+                label: '电脑',
               },
               {
                 type: 'docSidebar',
                 sidebarId: 'tabletSidebar',
-                label: '平板手册',
+                label: '平板',
               },
 
               {
                 type: 'docSidebar',
                 sidebarId: 'wearableSidebar',
-                label: '穿戴手册',
+                label: '穿戴',
               },
 
               {
                 type: 'docSidebar',
                 sidebarId: 'tvSidebar',
-                label: '智慧屏手册',
+                label: '智慧屏',
               },
 
               {
                 type: 'docSidebar',
                 sidebarId: 'carSidebar',
-                label: '智能座舱手册',
+                label: '智能座舱',
               },                  
             ],
           },
