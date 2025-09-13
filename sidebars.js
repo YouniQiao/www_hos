@@ -87,6 +87,14 @@ const sidebars = {
     {
       type: 'category',
       label: '智慧体验',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '智慧体验',
+        description: '体验智慧功能带来的高效生活',
+        slug: '/category/phone-ai',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'ai/screen-recognition',
         'ai/finger-joint-circle-selection',
@@ -111,6 +119,14 @@ const sidebars = {
     {
       type: 'category',
       label: '纯净安全',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '纯净安全',
+        description: '时刻守护你的隐私安全',
+        slug: '/category/phone-security',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'security/privacy-light',
         'security/manage-app-permission',
@@ -132,6 +148,14 @@ const sidebars = {
     {
       type: 'category',
       label: '精彩影像',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '精彩影像',
+        description: '玩转影像拍摄、图像编辑等技巧',
+        slug: '/category/phone-camera',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'camera/zoom-ring',
         'camera/one-hand-camera-operation',
@@ -152,6 +176,14 @@ const sidebars = {
     {
       type: 'category',
       label: '个性设置',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '个性设置',
+        description: '了解如何自定义你的设备',
+        slug: '/category/phone-setting',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'setting/weather-theme',
         'setting/raindrop-theme',
@@ -170,6 +202,14 @@ const sidebars = {
     {
       type: 'category',
       label: '全场景',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '全场景',
+        description: '了解多产品如何默契配合',
+        slug: '/category/phone-full-scene',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'full-scene/huawei-share',
         'full-scene/super-device',
@@ -191,6 +231,14 @@ const sidebars = {
     {
       type: 'category',
       label: '新机上手',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '新机上手',
+        description: '了解控制中心、截图等基础操作',
+        slug: '/category/pc-quickstart',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'quick-start-pc/harmonyos',
         'quick-start-pc/app-center',
@@ -208,6 +256,14 @@ const sidebars = {
     {
       type: 'category',
       label: '全场景',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '全场景',
+        description: '了解多产品如何默契配合',
+        slug: '/category/pc-full-scene',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'full-scene-pc/super-device',
         'full-scene-pc/mouse-keyboard-sharing',
@@ -228,6 +284,14 @@ const sidebars = {
     {
       type: 'category',
       label: '智慧体验',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '智慧体验',
+        description: '体验智慧功能带来的高效办公',
+        slug: '/category/pc-ai',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'ai-pc/xiaoyi-search',
         'ai-pc/xiaoyi-wakeup',
@@ -245,6 +309,14 @@ const sidebars = {
     {
       type: 'category',
       label: '常用手势',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '常用手势',
+        description: '了解如何使用手势快捷键操作电脑',
+        slug: '/category/pc-gesture',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'gesture/knuckle',
         'gesture/double-finger-opening-closing',
@@ -262,6 +334,14 @@ const sidebars = {
     {
       type: 'category',
       label: '快捷键',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '快捷键',
+        description: '了解如何使用按键组合快捷操作电脑',
+        slug: '/category/pc-shortcut-key',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'shortcut-key/open-startup-window',
         'shortcut-key/close-current-application',
@@ -284,6 +364,14 @@ const sidebars = {
     {
       type: 'category',
       label: '高效办公',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '高效办公',
+        description: '了解如何使用文件管理、备忘录等应用高效办公',
+        slug: '/category/pc-work',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'work/memo',
         'work/intelligent-organization',
@@ -300,6 +388,14 @@ const sidebars = {
     {
       type: 'category',
       label: '纯净安全',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '纯净安全',
+        description: '时刻守护你的隐私安全',
+        slug: '/category/pc-security',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'security-pc/privacy-light',
         'security-pc/security-status',
@@ -319,6 +415,14 @@ const sidebars = {
     {
       type: 'category',
       label: '个性设置',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '个性设置',
+        description: '了解如何自定义你的设备',
+        slug: '/category/pc-setting',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'setting-pc/change-wallpaper',
         'setting-pc/show-battery-percentage',
