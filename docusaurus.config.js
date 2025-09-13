@@ -114,10 +114,10 @@ const config = {
                 label: '迁移至HarmonyOS',
                 to:'switch-to-hmos'
               },
-              //{
-              //  label: '支持机型',
-              //  to:'support-device'
-              //},
+              {
+                label: '支持机型',
+                to:'models-next'
+              },
               
           ],
           },

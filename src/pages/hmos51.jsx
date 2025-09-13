@@ -95,7 +95,7 @@ const HarmonyOS51 = () => {
       icon: "⚙️"
     },
     {
-      title: "DevEco 4.0",
+      title: "DevEco Studio 5.1",
       description: "集成开发环境全面升级，支持更高效的开发流程",
       icon: "💻"
     },
