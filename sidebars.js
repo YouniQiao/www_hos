@@ -22,6 +22,14 @@ const sidebars = {
     {
       type: 'category',
       label: '新功能',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '手机新功能',
+        description: '探索HarmonyOS新功能',
+        slug: '/category/phone-new-features',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'new-feature/refine-photo',
         'new-feature/magic-photo',
@@ -45,6 +53,14 @@ const sidebars = {
     {
       type: 'category',
       label: '快速上手',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '快速上手',
+        description: '了解手势导航、截图等基础操作',
+        slug: '/category/phone-quickstart',
+        image: '/img/docusaurus.png',
+      },
       items: [
         'quick-start/gesture-navigation',
         'quick-start/lock-task',
