@@ -19,6 +19,7 @@ const sidebars = {
   // But you can create a sidebar manually
   
   phoneSidebar: [
+    'phone',
     {
       type: 'category',
       label: '新功能',
@@ -227,7 +228,7 @@ const sidebars = {
   ],
 
   pcSidebar: [
-    
+    'pc',
     {
       type: 'category',
       label: '新机上手',
