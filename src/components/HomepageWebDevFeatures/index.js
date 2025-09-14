@@ -12,7 +12,7 @@ const FeatureList = [
         了解手势导航，截图等基础操作。
       </>
     ),
-    readMore: '/docs/quick-start/gesture-navigation'
+    readMore: '/docs/category/phone-quickstart'
   },
   {
     title: '智慧体验',
@@ -21,7 +21,7 @@ const FeatureList = [
         体验智慧功能带来的高效生活。
       </>
     ),
-    readMore: '/docs/ai/screen-recognition'
+    readMore: '/docs/category/phone-ai'
   },
   {
     title: '纯净安全',
@@ -30,7 +30,7 @@ const FeatureList = [
         时刻守护你的隐私安全。
       </>
     ),
-    readMore: '/docs/security/privacy-light'
+    readMore: '/docs/category/phone-security'
   },
   {
     title: '精彩影像',
@@ -39,7 +39,7 @@ const FeatureList = [
         玩转影像拍摄，图片编辑等技巧。
       </>
     ),
-    readMore: '/docs/camera/zoom-ring'
+    readMore: '/docs/category/phone-camera'
   },
   {
     title: '个性设置',
@@ -48,7 +48,7 @@ const FeatureList = [
         了解如何自定义你的设置。
       </>
     ),
-    readMore: '/docs/setting/weather-theme'
+    readMore: '/docs/category/phone-setting'
   },
   {
     title: '全场景',
@@ -57,7 +57,7 @@ const FeatureList = [
         了解更多产品如何默契配合。
       </>
     ),
-    readMore: '/docs/full-scene/huawei-share'
+    readMore: '/docs/category/phone-full-scene'
   },
   {
     title: '新功能',
@@ -66,7 +66,7 @@ const FeatureList = [
         探索HarmonyOS NEXT新功能。
       </>
     ),
-    readMore: '/docs/new-feature/lock-screen'
+    readMore: '/docs/category/phone-new-features'
   }
 ];
 
@@ -80,7 +80,7 @@ const FeatureListPC = [
         了解控制中心，截图等基础操作。
       </>
     ),
-    readMore: '/docs/quick-start-pc/harmonyos'
+    readMore: '/docs/category/pc-quickstart'
   },
   {
     title: '全场景',
@@ -89,7 +89,7 @@ const FeatureListPC = [
         了解多产品如何默契配合。
       </>
     ),
-    readMore: '/docs/full-scene-pc/super-device'
+    readMore: '/docs/category/pc-full-scene'
   },
   {
     title: '智慧体验',
@@ -98,7 +98,7 @@ const FeatureListPC = [
         体验智慧功能带来的高效办公。
       </>
     ),
-    readMore: '/docs/ai-pc/xiaoyi-search'
+    readMore: '/docs/category/pc-ai'
   },
   {
     title: '常用手势',
@@ -107,7 +107,7 @@ const FeatureListPC = [
         了解如何使用手势快捷操作电脑。
       </>
     ),
-    readMore: '/docs/gesture/knuckle'
+    readMore: '/docs/category/pc-gesture'
   },
   {
     title: '快捷键',
@@ -116,7 +116,7 @@ const FeatureListPC = [
         了解如何使用按键组合快捷操作电脑。
       </>
     ),
-    readMore: '/docs/shortcut-key/open-startup-window'
+    readMore: '/docs/category/pc-shortcut-key'
   },
   {
     title: '高效办公',
@@ -125,7 +125,7 @@ const FeatureListPC = [
         了解如何使用文件管理、备忘录等应用高效办公。
       </>
     ),
-    readMore: '/docs/work/memo'
+    readMore: '/docs/category/pc-work'
   },
   {
     title: '纯净安全',
@@ -134,7 +134,7 @@ const FeatureListPC = [
         时刻守护你的隐私安全。
       </>
     ),
-    readMore: '/docs/security-pc/privacy-light'
+    readMore: '/docs/category/pc-security'
   },
   {
     title: '个性设置',
@@ -143,22 +143,75 @@ const FeatureListPC = [
         了解如何自定义你的设备。
       </>
     ),
-    readMore: '/docs/setting-pc/change-wallpaper'
+    readMore: '/docs/category/pc-setting'
   },
   
 ];
 
 const FeatureListTablet = [
   {
-    title: '新机上手',
+    title: '快速上手',
     description: (
       <>
-        纯血鸿蒙平板，敬请期待。
+        了解手势导航，截图等基础操作。
       </>
     ),
-    readMore: '/docs/quick-start-tablet/start'
+    readMore: '/docs/category/tablet-quickstart'
   },
-  
+  {
+    title: '智慧体验',
+    description: (
+      <>
+        体验智慧功能带来的高效生活。
+      </>
+    ),
+    readMore: '/docs/category/tablet-ai'
+  },
+  {
+    title: '纯净安全',
+    description: (
+      <>
+        时刻守护你的隐私安全。
+      </>
+    ),
+    readMore: '/docs/category/tablet-security'
+  },
+  {
+    title: '精彩影像',
+    description: (
+      <>
+        玩转影像拍摄，图片编辑等技巧。
+      </>
+    ),
+    readMore: '/docs/category/tablet-camera'
+  },
+  {
+    title: '个性设置',
+    description: (
+      <>
+        了解如何自定义你的设置。
+      </>
+    ),
+    readMore: '/docs/category/tablet-setting'
+  },
+  {
+    title: '全场景',
+    description: (
+      <>
+        了解更多产品如何默契配合。
+      </>
+    ),
+    readMore: '/docs/category/tablet-full-scene'
+  },
+  {
+    title: '新功能',
+    description: (
+      <>
+        探索HarmonyOS NEXT新功能。
+      </>
+    ),
+    readMore: '/docs/category/tablet-new-features'
+  }
 ];
 
 const FeatureListWearable = [
