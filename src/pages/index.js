@@ -226,24 +226,23 @@ function Developer() {
         </div>
         <div className="text-left col-span-3">
           <h3 className="largest justify-center text-left ">
-            Made For Developers!
+            应用生态兼容
           </h3>
           <p>
             {" "}
-            EverShop took care of all the boring, painful parts and offers best
-            developer experience.{" "}
+            不用担心升级后无法使用之前的Android应用或者海外应用。{" "}
           </p>
         </div>
         <div className="grid grid-cols-1 gap-2 col-span-1">
           <Link
             className="button button--primary button--md"
-            to="https://discord.com/invite/GSzt7dt7RM">
-            Join the team
+            to="/android-app">
+            使用Android应用
           </Link>
           <Link
             className="button button--secondary button--md"
-            to="https://github.com/evershopcommerce/evershop">
-            Star us on Github
+            to="/oversea-app">
+            使用海外应用
           </Link>
         </div>
       </div>
@@ -302,8 +301,9 @@ export default function Home() {
         <HomepageEcommerceFeatures />
         
         <HomepageWebDevFeatures />
-
+        <Developer />
         <TechStack />
+        
         <Discord />
         {/*
         <TechStack />

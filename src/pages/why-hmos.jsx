@@ -60,7 +60,7 @@ const WhyHarmonyOS = () => {
                     <span className="gradient-text">HarmonyOS NEXT</span>
                   </h1>
                   <p className="hero-subtitle">新一代全场景智慧操作系统，重新定义数字生活体验</p>
-                  <button className="cta-button" onClick={scrollToFeatures}>探索特性</button>
+                  
                 </div>
               </div>
               <div className="col col--6">
