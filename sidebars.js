@@ -627,12 +627,133 @@ const sidebars = {
   ],
 
   tvSidebar: [
-    
+    'tv',
     {
       type: 'category',
-      label: '新机上手',
+      label: '快速上手',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '快速上手',
+        description: '了解智慧屏连接、观看电视直播等操作',
+        slug: '/category/tv-quickstart',
+        image: '/img/docusaurus.png',
+      },
       items: [
-        'quick-start-tv/start',
+        'quick-start-tv/connect',
+        'quick-start-tv/control',
+        'quick-start-tv/desktop',
+        'quick-start-tv/center',
+        'quick-start-tv/wallpaper',
+        'quick-start-tv/install-app',
+        'quick-start-tv/watch-tv',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '投屏方法',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '投屏方法',
+        description: '了解各类投屏的具体操作',
+        slug: '/category/tv-mirror',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'screen-mirror-tv/one-touch-mirror',
+        'screen-mirror-tv/phone-mirror',
+        'screen-mirror-tv/video-app-mirror',
+        'screen-mirror-tv/4k-mirror',
+        'screen-mirror-tv/pc-mirror',
+        'screen-mirror-tv/hdmi-mirror',
+        'screen-mirror-tv/app-mirror',
+        'screen-mirror-tv/mirror-control',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '畅连通话',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '畅连通话',
+        description: '了解在智慧屏上使用畅连通话',
+        slug: '/category/tv-changlian',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'changlian-tv/login',
+        'changlian-tv/manage-phone-number',
+        'changlian-tv/manage-contact',
+        'changlian-tv/call-phone',
+        'changlian-tv/call-tv',
+        'changlian-tv/dnd-mode',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '智享生活',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '智享生活',
+        description: '了解更多智慧屏的智能功能',
+        slug: '/category/tv-smart-life',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'smart-life-tv/smart-voice',
+        'smart-life-tv/movie-master',
+        'smart-life-tv/live-window',
+        'smart-life-tv/smart-frame',
+        'smart-life-tv/minor-mode',
+        'smart-life-tv/camera',
+        'smart-life-tv/control-smart-home',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '全场景协同',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '全场景协同',
+        description: '了解如何使用智慧屏进行多设备协同',
+        slug: '/category/tv-full-scene',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'full-scene-tv/phone-tv',
+        'full-scene-tv/remote-watch',
+        'full-scene-tv/remote-assistance',
+        'full-scene-tv/huawei-share',
+        'full-scene-tv/super-desktop',
+        'full-scene-tv/phone-control-card',
+        'full-scene-tv/application-continuation',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '更多技巧',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '更多技巧',
+        description: '了解更多智慧屏使用技巧',
+        slug: '/category/tv-more',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'more-tv/system-update',
+        'more-tv/touch-control-overview',
+        'more-tv/touch-control-connect',
+        'more-tv/external-storage',
       ],
     },
   ],

@@ -232,10 +232,55 @@ const FeatureListTV = [
     title: '新机上手',
     description: (
       <>
-        纯血鸿蒙智慧屏，敬请期待。
+        了解智慧屏连接、观看电视直播等操作。
       </>
     ),
-    readMore: '/docs/quick-start-tv/start'
+    readMore: '/docs/category/tv-quickstart'
+  },
+  {
+    title: '投屏方法',
+    description: (
+      <>
+        了解各类投屏的具体操作。
+      </>
+    ),
+    readMore: '/docs/category/tv-mirror'
+  },
+  {
+    title: '畅连通话',
+    description: (
+      <>
+        了解在智慧屏上使用畅连通话。
+      </>
+    ),
+    readMore: '/docs/category/tv-changlian'
+  },
+  {
+    title: '智享生活',
+    description: (
+      <>
+        了解更多智慧屏的智能功能。
+      </>
+    ),
+    readMore: '/docs/category/tv-smart-life'
+  },
+  {
+    title: '全场景协同',
+    description: (
+      <>
+        了解如何使用智慧屏进行多设备协同。
+      </>
+    ),
+    readMore: '/docs/category/tv-full-scene'
+  },
+  {
+    title: '更多技巧',
+    description: (
+      <>
+        了解更多智慧屏使用技巧。
+      </>
+    ),
+    readMore: '/docs/category/tv-more'
   },
   
 ];
