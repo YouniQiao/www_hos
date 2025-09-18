@@ -616,14 +616,7 @@ const sidebars = {
   ],
 
   wearableSidebar: [
-    
-    {
-      type: 'category',
-      label: '新机上手',
-      items: [
-        'quick-start-wearable/start',
-      ],
-    },
+    'wearable',
   ],
 
   tvSidebar: [

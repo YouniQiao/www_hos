@@ -134,14 +134,15 @@ const config = {
               },
               {
                 type: 'docSidebar',
-                sidebarId: 'pcSidebar',
-                label: '电脑',
-              },
-              {
-                type: 'docSidebar',
                 sidebarId: 'tabletSidebar',
                 label: '平板',
               },
+              {
+                type: 'docSidebar',
+                sidebarId: 'pcSidebar',
+                label: '电脑',
+              },
+              
 
               {
                 type: 'docSidebar',

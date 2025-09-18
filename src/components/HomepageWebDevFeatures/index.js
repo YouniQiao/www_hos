@@ -216,13 +216,13 @@ const FeatureListTablet = [
 
 const FeatureListWearable = [
   {
-    title: '新机上手',
+    title: 'WATCH 5',
     description: (
       <>
-        纯血鸿蒙穿戴设备，敬请期待。
+        首款AI智能手表。
       </>
     ),
-    readMore: '/docs/quick-start-wearable/start'
+    readMore: '/docs/wearable'
   },
   
 ];
@@ -326,8 +326,8 @@ export default function HomepageFeatures() {
           defaultValue="phone"
           values={[
             { label: '手机', value: 'phone' },
-            { label: '电脑', value: 'pc' },
             { label: '平板', value: 'tablet' },
+            { label: '电脑', value: 'pc' },
             { label: '穿戴', value: 'wearable' },
             { label: '智慧屏', value: 'tv' },
             { label: '智能座舱', value: 'car' },
