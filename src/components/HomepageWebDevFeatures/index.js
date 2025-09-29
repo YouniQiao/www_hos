@@ -216,6 +216,15 @@ const FeatureListTablet = [
 
 const FeatureListWearable = [
   {
+    title: 'WATCH GT 6系列',
+    description: (
+      <>
+        GT系列鸿蒙手表。
+      </>
+    ),
+    readMore: '/docs/wearable'
+  },
+  {
     title: 'WATCH 5',
     description: (
       <>
