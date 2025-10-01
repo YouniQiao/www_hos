@@ -1,0 +1,758 @@
+/* harmonyos-native-security.module.css */
+.main {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+}
+
+/* 通用白色文字类 - 确保在所有情况下都显示白色 */
+.whiteText {
+  color: #ffffff !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: white;
+}
+
+.heroTitle {
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  background: linear-gradient(45deg, #fff, #3498db);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  opacity: 0.9;
+  margin-bottom: 3rem;
+}
+
+.heroAnimation {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.securityGrid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    linear-gradient(90deg, transparent 49%, rgba(52, 152, 219, 0.3) 50%, transparent 51%),
+    linear-gradient(transparent 49%, rgba(52, 152, 219, 0.3) 50%, transparent 51%);
+  background-size: 20px 20px;
+  animation: gridPulse 3s ease-in-out infinite;
+}
+
+.lockElement, .shieldElement, .keyElement {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 12px;
+  background: rgba(52, 152, 219, 0.8);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.5);
+}
+
+.lockElement {
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  animation: securityFloat 4s ease-in-out infinite;
+}
+
+.lockElement::before {
+  content: '🔒';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+}
+
+.shieldElement {
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  animation: securityFloat 4s ease-in-out infinite 1.3s;
+}
+
+.shieldElement::before {
+  content: '🛡️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+}
+
+.keyElement {
+  bottom: 20px;
+  right: 20px;
+  animation: securityFloat 4s ease-in-out infinite 2.6s;
+}
+
+.keyElement::before {
+  content: '🔑';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+}
+
+@keyframes gridPulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.6; }
+}
+
+@keyframes securityFloat {
+  0%, 100% { 
+    transform: translateY(0px) rotate(0deg);
+    box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+  }
+  50% { 
+    transform: translateY(-15px) rotate(5deg);
+    box-shadow: 0 15px 30px rgba(52, 152, 219, 0.6);
+  }
+}
+
+/* Introduction */
+.intro {
+  padding: 5rem 0;
+  background: white;
+}
+
+.introContent {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, #2c3e50, #34495e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.sectionText {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #666;
+}
+
+/* Feature Sections */
+.featureSection {
+  padding: 5rem 0;
+  background: white;
+}
+
+.darkSection {
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%) !important;
+  color: white !important;
+}
+
+/* 强制设置深色区域所有文字为白色 */
+.darkSection,
+.darkSection * {
+  color: #ffffff !important;
+}
+
+.darkSection .sectionTitle,
+.darkSection .sectionSubtitle {
+  color: #ffffff !important;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.sectionSubtitle {
+  font-size: 1.3rem;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.darkSection .sectionSubtitle {
+  color: rgba(255, 255, 255, 0.95) !important;
+}
+
+/* Security Architecture */
+.architectureLayers {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.layer {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: all 0.3s ease;
+  border-top: 4px solid #3498db;
+}
+
+.layer:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(52, 152, 219, 0.2);
+}
+
+.layerIcon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.cloudIcon {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.cloudIcon::before {
+  content: '☁️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.systemIcon {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.systemIcon::before {
+  content: '🛡️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.applicationIcon {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.applicationIcon::before {
+  content: '📱';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.chipIcon {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
+.chipIcon::before {
+  content: '⚙️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.layerTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.layerDescription {
+  color: #666;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.layerFeatures {
+  list-style: none;
+  padding: 0;
+}
+
+.layerFeatures li {
+  padding: 0.5rem 0;
+  color: #555;
+  position: relative;
+}
+
+.layerFeatures li::before {
+  content: '✓';
+  color: #3498db;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+/* Data Protection - 彻底修复文字颜色 */
+.protectionGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.protectionCard {
+  background: rgba(255, 255, 255, 0.2) !important;
+  padding: 2.5rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.protectionCard:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
+  transform: translateY(-5px);
+}
+
+.protectionIcon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.encryptionIcon {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.encryptionIcon::before {
+  content: '🔒';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.privacyIcon {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.privacyIcon::before {
+  content: '👁️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.backupIcon {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
+.backupIcon::before {
+  content: '💾';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.protectionTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #ffffff !important;
+}
+
+.protectionDescription {
+  color: rgba(255, 255, 255, 0.95) !important;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.protectionFeatures {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.protectionFeature {
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.25) !important;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  backdrop-filter: blur(5px);
+  color: #ffffff !important;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Security Scenarios */
+.scenarioGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  margin-top: 3rem;
+}
+
+.scenarioCard {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  background: white;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.scenarioCard:nth-child(even) {
+  direction: rtl;
+}
+
+.scenarioCard:nth-child(even) > * {
+  direction: ltr;
+}
+
+.scenarioVisual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+}
+
+.paymentScene, .communicationScene, .networkScene {
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
+.paymentScene {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.paymentScene::before {
+  content: '💳';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+}
+
+.communicationScene {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.communicationScene::before {
+  content: '📞';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+}
+
+.networkScene {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.networkScene::before {
+  content: '🌐';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 4rem;
+}
+
+.scenarioContent {
+  padding: 1rem;
+}
+
+.scenarioTitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.scenarioDescription {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 1.5rem;
+  color: #666;
+}
+
+.scenarioFeatures {
+  list-style: none;
+  padding: 0;
+}
+
+.scenarioFeatures li {
+  padding: 0.5rem 0;
+  color: #555;
+  position: relative;
+  padding-left: 1.5rem;
+}
+
+.scenarioFeatures li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #3498db;
+  font-weight: bold;
+}
+
+/* Privacy Protection - 彻底修复文字颜色 */
+.privacyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.privacyItem {
+  background: rgba(255, 255, 255, 0.2) !important;
+  padding: 2.5rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.privacyItem:hover {
+  background: rgba(255, 255, 255, 0.3) !important;
+  transform: translateY(-5px);
+}
+
+.privacyTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #ffffff !important;
+}
+
+.privacyDescription {
+  color: rgba(255, 255, 255, 0.95) !important;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+.privacyTags {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.privacyTag {
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.25) !important;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  backdrop-filter: blur(5px);
+  color: #ffffff !important;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Security Technology */
+.technologyGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.technologyCard {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  border-left: 4px solid #3498db;
+  transition: all 0.3s ease;
+}
+
+.technologyCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(52, 152, 219, 0.2);
+}
+
+.technologyTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.technologyDescription {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.technologyFeatures {
+  display: flex;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+}
+
+.technologyFeatures span {
+  padding: 0.5rem 1rem;
+  background: #f8f9fa;
+  border-radius: 15px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Conclusion */
+.conclusion {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  color: white;
+  text-align: center;
+}
+
+.conclusionContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.conclusionTitle {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.conclusionText {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  opacity: 0.9;
+  margin-bottom: 3rem;
+}
+
+.securityBadges {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.securityBadge {
+  padding: 0.8rem 1.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 25px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.securityBadge:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+  
+  .architectureLayers {
+    grid-template-columns: 1fr;
+  }
+  
+  .protectionGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .scenarioCard {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .scenarioCard:nth-child(even) {
+    direction: ltr;
+  }
+  
+  .privacyGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .technologyGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .securityBadges {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    height: 60vh;
+  }
+  
+  .heroTitle {
+    font-size: 2rem;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+  }
+  
+  .scenarioCard {
+    padding: 1.5rem;
+  }
+  
+  .privacyItem {
+    padding: 1.5rem;
+  }
+  
+  .protectionCard {
+    padding: 1.5rem;
+  }
+}

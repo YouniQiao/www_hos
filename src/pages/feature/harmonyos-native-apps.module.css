@@ -1,0 +1,883 @@
+/* harmonyos-native-apps.module.css */
+.main {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+}
+
+/* Hero Section - 应用生态主题动画 */
+.hero {
+  position: relative;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: white;
+}
+
+.heroTitle {
+  font-size: 4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.highlight {
+  background: linear-gradient(45deg, #fff, #f1c40f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.heroSubtitle {
+  font-size: 1.5rem;
+  opacity: 0.9;
+  margin-bottom: 3rem;
+}
+
+.heroAnimation {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.appIcon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  animation: appFloat 4s ease-in-out infinite;
+}
+
+.appIcon:nth-child(1) {
+  top: 20px;
+  left: 50px;
+  animation-delay: 0s;
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.appIcon:nth-child(2) {
+  top: 60px;
+  right: 60px;
+  animation-delay: 1s;
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+}
+
+.appIcon:nth-child(3) {
+  bottom: 40px;
+  left: 80px;
+  animation-delay: 2s;
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.appIcon:nth-child(4) {
+  bottom: 20px;
+  right: 40px;
+  animation-delay: 3s;
+  background: linear-gradient(135deg, #f39c12, #d35400);
+}
+
+.connectionGrid {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    linear-gradient(90deg, transparent 49%, rgba(255,255,255,0.1) 50%, transparent 51%),
+    linear-gradient(transparent 49%, rgba(255,255,255,0.1) 50%, transparent 51%);
+  background-size: 40px 40px;
+  animation: gridPulse 3s ease-in-out infinite;
+}
+
+@keyframes appFloat {
+  0%, 100% {
+    transform: translateY(0px) rotate(0deg);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  }
+  50% {
+    transform: translateY(-15px) rotate(5deg);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+  }
+}
+
+@keyframes gridPulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 0.6; }
+}
+
+/* Introduction */
+.intro {
+  padding: 5rem 0;
+  background: white;
+}
+
+.introContent {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.sectionTitle {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.sectionText {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  color: #666;
+}
+
+/* Feature Sections */
+.featureSection {
+  padding: 5rem 0;
+  background: white;
+}
+
+.darkSection {
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  color: white;
+}
+
+.darkSection .sectionTitle,
+.darkSection .sectionSubtitle,
+.darkSection .advantageTitle,
+.darkSection .advantageDescription,
+.darkSection .statTitle,
+.darkSection .statDescription,
+.darkSection .breakdownTitle,
+.darkSection .categoryName,
+.darkSection .partnerTitle,
+.darkSection .partnerDescription {
+  color: white;
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.sectionSubtitle {
+  font-size: 1.3rem;
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.darkSection .sectionSubtitle {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Advantages Grid */
+.advantagesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.advantageCard {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: all 0.3s ease;
+  border-top: 4px solid #9b59b6;
+}
+
+.advantageCard:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 20px 40px rgba(155, 89, 182, 0.2);
+}
+
+.advantageIcon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.performanceIcon {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  animation: gentleBounce 2s ease-in-out infinite;
+}
+
+.performanceIcon::before {
+  content: '⚡';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.experienceIcon {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+  animation: smoothSlide 3s ease-in-out infinite;
+}
+
+.experienceIcon::before {
+  content: '🎯';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.crossDeviceIcon {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+  animation: deviceRotate 4s ease-in-out infinite;
+}
+
+.crossDeviceIcon::before {
+  content: '🔄';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+@keyframes gentleBounce {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes smoothSlide {
+  0%, 100% { transform: translateX(0px); }
+  50% { transform: translateX(10px); }
+}
+
+@keyframes deviceRotate {
+  0%, 100% { transform: rotate(0deg); }
+  50% { transform: rotate(10deg); }
+}
+
+.advantageTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.advantageDescription {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.advantageStats {
+  display: flex;
+  justify-content: space-around;
+  gap: 1rem;
+}
+
+.stat {
+  text-align: center;
+}
+
+.statNumber {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #9b59b6;
+  margin-bottom: 0.3rem;
+}
+
+.statLabel {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Ecological Development */
+.ecologicalDevelopment {
+  margin-top: 3rem;
+}
+
+.developmentStats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.statCard {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 2rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  transition: all 0.3s ease;
+}
+
+.statCard:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-5px);
+}
+
+.statVisual {
+  width: 80px;
+  height: 80px;
+  border-radius: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
+.appCountAnimation {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  animation: countPulse 2s ease-in-out infinite;
+}
+
+.developerAnimation {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+  position: relative;
+}
+
+.developerAnimation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    repeating-linear-gradient(45deg, transparent, transparent 5px, rgba(255,255,255,0.2) 6px);
+  animation: developerMove 3s linear infinite;
+}
+
+.categoryAnimation {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+  position: relative;
+  overflow: hidden;
+}
+
+.categoryAnimation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(circle at 30% 30%, rgba(255,255,255,0.3) 0%, transparent 50%),
+    radial-gradient(circle at 70% 70%, rgba(255,255,255,0.2) 0%, transparent 50%);
+  animation: categoryRotate 4s linear infinite;
+}
+
+@keyframes countPulse {
+  0%, 100% { transform: scale(1); opacity: 0.8; }
+  50% { transform: scale(1.1); opacity: 1; }
+}
+
+@keyframes developerMove {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+@keyframes categoryRotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.statContent {
+  flex: 1;
+}
+
+.statTitle {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  color: white;
+}
+
+.statDescription {
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 0.8rem;
+}
+
+.growthIndicator {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #2ecc71;
+  font-size: 0.9rem;
+}
+
+.growthArrow {
+  font-weight: bold;
+}
+
+/* Category Breakdown */
+.categoryBreakdown {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2.5rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.breakdownTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.categoryGrid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.categoryItem {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.categoryName {
+  flex: 0 0 120px;
+  color: white;
+  font-weight: 500;
+}
+
+.categoryBar {
+  flex: 1;
+  height: 12px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.categoryFill {
+  height: 100%;
+  background: linear-gradient(90deg, #9b59b6, #8e44ad);
+  border-radius: 6px;
+  transition: width 1s ease-in-out;
+}
+
+.categoryPercent {
+  flex: 0 0 50px;
+  text-align: right;
+  color: white;
+  font-weight: 600;
+}
+
+/* Developer Support */
+.supportGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.supportCard {
+  background: white;
+  padding: 2.5rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  transition: all 0.3s ease;
+  border-top: 4px solid #3498db;
+}
+
+.supportCard:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(52, 152, 219, 0.2);
+}
+
+.supportIcon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.toolkitIcon {
+  background: linear-gradient(135deg, #3498db, #2980b9);
+}
+
+.toolkitIcon::before {
+  content: '🛠️';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.frameworkIcon {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+}
+
+.frameworkIcon::before {
+  content: '📐';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.resourceIcon {
+  background: linear-gradient(135deg, #f39c12, #d35400);
+}
+
+.resourceIcon::before {
+  content: '📚';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.ecosystemIcon {
+  background: linear-gradient(135deg, #9b59b6, #8e44ad);
+}
+
+.ecosystemIcon::before {
+  content: '🌐';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+}
+
+.supportTitle {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #2c3e50;
+}
+
+.supportDescription {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.supportFeatures {
+  list-style: none;
+  padding: 0;
+}
+
+.supportFeatures li {
+  padding: 0.5rem 0;
+  color: #555;
+  position: relative;
+}
+
+.supportFeatures li::before {
+  content: '✓';
+  color: #3498db;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+/* Partner Ecosystem */
+.partnerGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 3rem;
+}
+
+.partnerCategory {
+  background: rgba(255, 255, 255, 0.15);
+  padding: 2rem;
+  border-radius: 20px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  transition: all 0.3s ease;
+}
+
+.partnerCategory:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-5px);
+}
+
+.partnerTitle {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.partnerDescription {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.partnerLogos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.8rem;
+}
+
+.logoItem {
+  padding: 0.8rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.logoItem:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.05);
+}
+
+/* Future Outlook */
+.futureOutlook {
+  margin-top: 3rem;
+}
+
+.outlookContent {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+  background: white;
+  padding: 3rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.outlookVisual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.ecosystemMap {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  background: 
+    radial-gradient(circle at center, #9b59b6 0%, transparent 70%),
+    conic-gradient(from 0deg, #3498db, #2ecc71, #f39c12, #e74c3c, #9b59b6);
+  position: relative;
+  animation: ecosystemRotate 10s linear infinite;
+}
+
+.ecosystemMap::before {
+  content: '';
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  right: 20px;
+  bottom: 20px;
+  border: 2px solid rgba(155, 89, 182, 0.3);
+  border-radius: 50%;
+}
+
+@keyframes ecosystemRotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.outlookText {
+  padding: 1rem;
+}
+
+.outlookTitle {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: #2c3e50;
+}
+
+.outlookDescription {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #666;
+  margin-bottom: 2rem;
+}
+
+.outlookGoals {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.goalItem {
+  text-align: center;
+}
+
+.goalNumber {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #9b59b6;
+  margin-bottom: 0.5rem;
+}
+
+.goalText {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/* Conclusion */
+.conclusion {
+  padding: 5rem 0;
+  background: linear-gradient(135deg, #9b59b6 0%, #8e44ad 100%);
+  color: white;
+  text-align: center;
+}
+
+.conclusionContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.conclusionTitle {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+
+.conclusionText {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  opacity: 0.9;
+  margin-bottom: 3rem;
+}
+
+.ecosystemBadges {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.ecosystemBadge {
+  padding: 0.8rem 1.5rem;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 25px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.ecosystemBadge:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: translateY(-2px);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .heroTitle {
+    font-size: 2.5rem;
+  }
+  
+  .advantagesGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .developmentStats {
+    grid-template-columns: 1fr;
+  }
+  
+  .statCard {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .supportGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .partnerGrid {
+    grid-template-columns: 1fr;
+  }
+  
+  .outlookContent {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  
+  .outlookGoals {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .ecosystemBadges {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero {
+    height: 60vh;
+  }
+  
+  .heroTitle {
+    font-size: 2rem;
+  }
+  
+  .sectionTitle {
+    font-size: 2rem;
+  }
+  
+  .categoryItem {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .categoryName {
+    flex: none;
+  }
+  
+  .categoryBar {
+    width: 100%;
+  }
+  
+  .categoryPercent {
+    flex: none;
+    text-align: left;
+  }
+  
+  .outlookContent {
+    padding: 1.5rem;
+  }
+}

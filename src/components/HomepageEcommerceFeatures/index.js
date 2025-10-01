@@ -11,7 +11,7 @@ const FeatureList = [
           和谐美学，遵循自然物理法则，构建和谐美学秩序。引力动效，锁屏到解锁一镜到底，更流畅，更灵动。
         </>
       ),
-      readMore: 'delicate',
+      readMore: 'feature/delicate',
       readMoreText: '了解详情 ->',
     },
     {
@@ -22,7 +22,7 @@ const FeatureList = [
           一碰互传，美图、视频或好物，随时随地轻松分享。跨设备互通，手机相机一键调用，素材一扫即得。
         </>
       ),
-      readMore: 'connect',
+      readMore: 'feature/connect',
       readMoreText: '了解详情 ->',
     }
   ],
@@ -35,7 +35,7 @@ const FeatureList = [
           识屏对话，论文精读，指关节圈选直接抠图、问答、购物，更有业界首创小艺声音修复。
         </>
       ),
-      readMore: 'ai',
+      readMore: 'feature/ai',
       readMoreText: '了解详情 ->',
     },
     {
@@ -46,7 +46,7 @@ const FeatureList = [
           禁止开放9类不合理权限，从源头降低隐私泄露风险。安全访问，仅给选定的数据，权限授权弹大幅减少。
         </>
       ),
-      readMore: 'security',
+      readMore: 'feature/security',
       readMoreText: '了解详情 ->',
     }
   ],
@@ -59,7 +59,7 @@ const FeatureList = [
           系统流畅，相应更及时，动效更跟手。游戏流畅，图形加速，高帧稳定。应用流畅，使用更丝滑，纵享流畅应用体验。
         </>
       ),
-      readMore: 'smooth',
+      readMore: 'feature/smooth',
       readMoreText: '了解详情 ->',
     },
     {
@@ -70,7 +70,7 @@ const FeatureList = [
           全新应用市场，带来高品质应用，纯净安全下载。
         </>
       ),
-      readMore: 'application',
+      readMore: 'feature/application',
       readMoreText: '了解详情 ->',
     }
   ]

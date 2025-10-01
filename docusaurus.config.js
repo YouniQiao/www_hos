@@ -105,6 +105,38 @@ const config = {
           {
             type: 'dropdown',
             position: 'left',
+            label: '核心特征',
+            items: [
+              {
+                label: '原生精致',
+                to:'feature/delicate'
+              },
+              {
+                label: '原生互联',
+                to:'feature/connect'
+              },
+              {
+                label: '原生智能',
+                to:'feature/ai'
+              },
+              {
+                label: '原生安全',
+                to:'feature/security'
+              },
+              {
+                label: '原生流畅',
+                to:'feature/smooth'
+              },
+              {
+                label: '原生应用',
+                to:'feature/application'
+              },
+              
+          ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
             label: '选择',
             items: [
               {
@@ -163,8 +195,6 @@ const config = {
               },                  
             ],
           },
-
-        
           {
             type: 'search',
             position: 'right',
