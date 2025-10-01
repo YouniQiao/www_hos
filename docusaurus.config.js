@@ -149,7 +149,7 @@ const config = {
               },
               {
                 label: '支持机型',
-                to:'models-next'
+                to:'support-device'
               },
               
           ],

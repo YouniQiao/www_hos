@@ -268,7 +268,7 @@ function TechStack() {
               即刻升级体验
             </h1>
             <p className="text-left">
-              进入<a href="/models-next">"支持机型"</a>页面，查看当前公测机型。
+              进入<a href="support-device">"支持机型"</a>页面，查看当前公测机型。
             </p>
             <p className="text-left">
               进入“我的华为”应用，选择“升级尝鲜”查看你的手机是否可以升级。

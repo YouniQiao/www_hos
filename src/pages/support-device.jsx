@@ -10,91 +10,85 @@ const SupportedDevices = () => {
   // 手机设备列表
   const phones = [
     {
-      name: "华为Mate 70系列",
-      models: ["Mate 70", "Mate 70 Pro", "Mate 70 Pro+", "Mate 70 RS"],
-      date: "2024年Q4",
+      name: "Mate X系列",
+      models: ["Mate XTs", "Mate XT", "Mate X6", "Mate X6 典藏版", "Mate X5", "Mate X5 典藏版"],
       image: "mate70"
     },
     {
-      name: "华为Pura 70系列",
-      models: ["Pura 70", "Pura 70 Pro", "Pura 70 Ultra"],
-      date: "2024年Q4",
-      image: "pura70"
-    },
-    {
-      name: "华为Mate 60系列",
-      models: ["Mate 60", "Mate 60 Pro", "Mate 60 Pro+"],
-      date: "2024年Q4",
+      name: "Pure X系列",
+      models: ["Pure X"],
       image: "mate60"
     },
     {
-      name: "华为Mate X6系列",
-      models: ["Mate X6", "Mate X6 Pro"],
-      date: "2024年Q4",
-      image: "matex6"
+      name: "Mate 70系列",
+      models: ["Mate 70", "Mate 70 Pro", "Mate 70 Pro+", "Mate 70 RS", "Mate 70 Pro 优享版"],
+      image: "mate70"
     },
     {
-      name: "华为Nova 13系列",
-      models: ["Nova 13", "Nova 13 Pro", "Nova 13 Ultra"],
-      date: "2025年Q1",
+      name: "Pura 70系列",
+      models: ["Pura 70", "Pura 70 Pro", "Pura 70 Pro+","Pura 70 Ultra","Pura 70 北斗卫星消息版"],
+      image: "pura70"
+    },
+    {
+      name: "Mate 60系列",
+      models: ["Mate 60", "Mate 60 Pro", "Mate 60 Pro+", "Mate 60 RS"],
+      image: "mate60"
+    },
+    {
+      name: "nova 13系列",
+      models: ["nova 13", "nova 13 Pro"],
       image: "nova13"
     },
     {
-      name: "华为Nova 12系列",
-      models: ["Nova 12", "Nova 12 Pro", "Nova 12 Ultra"],
-      date: "2025年Q1",
+      name: "nova 12系列",
+      models: ["nova 12", "nova 12 Pro", "nova 12 Ultra","nova 12 Ultra星耀版"],
       image: "nova12"
-    }
+    },
+    {
+      name: "nova Flip",
+      models: ["nova Flip"],
+      image: "nova13"
+    },
+    {
+      name: "Pocket系列",
+      models: ["Pocket 2", "Pocket 2 艺术定制版"],
+      image: "nova13"
+    },
+    
   ];
 
   // 平板设备列表
   const tablets = [
     {
-      name: "MatePad Pro 13.2",
-      models: ["Wi-Fi版", "5G版"],
-      date: "2024年Q4",
+      name: "MatePad Pro",
+      models: ["13.2英寸2025/2023/2023典藏款", "12.2英寸2024", "11英寸2024"],
       image: "matepad-pro-13"
     },
     {
-      name: "MatePad Pro 11",
-      models: ["2024款"],
-      date: "2024年Q4",
+      name: "MatePad Air",
+      models: ["2024"],
       image: "matepad-pro-11"
     },
     {
-      name: "MatePad Pro 12.2",
-      models: ["Wi-Fi版", "5G版"],
-      date: "2024年Q4",
+      name: "MatePad",
+      models: ["11.5'S", "11.5'S 灵动款"],
       image: "matepad-pro-12"
     },
-    {
-      name: "MatePad Air 12",
-      models: ["Wi-Fi版", "5G版"],
-      date: "2025年Q1",
-      image: "matepad-air"
-    }
+    
   ];
 
   // 穿戴设备列表
   const wearables = [
     {
-      name: "HUAWEI FreeBuds Pro 4",
-      models: ["标准版", "特别版"],
-      date: "2024年Q4",
+      name: "WATCH系列",
+      models: ["WATCH 5", "WATCH D2"],
       image: "freebuds-pro4"
     },
     {
-      name: "HUAWEI WATCH GT 4",
-      models: ["46mm", "42mm"],
-      date: "2025年Q1",
+      name: "WATCH GT系列",
+      models: ["WATCH GT 6", "WATCH GT 5 Pro","WATCH GT 5"],
       image: "watch-gt4"
     },
-    {
-      name: "HUAWEI WATCH Ultimate",
-      models: ["标准版"],
-      date: "2025年Q1",
-      image: "watch-ultimate"
-    }
   ];
 
   // 更新时间线
@@ -106,8 +100,8 @@ const SupportedDevices = () => {
     },
     {
       period: "2025年第一季度",
-      description: "Nova系列、MatePad系列及穿戴设备扩展升级",
-      devices: ["Nova 12/13系列", "MatePad全系列", "FreeBuds Pro 4", "WATCH GT 4"]
+      description: "Nova系列、MatePad系列",
+      devices: ["Nova 12/13系列", "MatePad系列"]
     },
     {
       period: "2025年第二季度及以后",
@@ -128,9 +122,6 @@ const SupportedDevices = () => {
         <div className="device-models">
           {device.models.join(" · ")}
         </div>
-        <div className="device-date">
-        升级时间: {device.date}
-        </div>
       </div>
     </div>
   );
@@ -146,6 +137,7 @@ const SupportedDevices = () => {
             <div className="hero-content">
               <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
+              <p className="device-date">本页面更新时间：2025.10.1</p>
             </div>
           </div>
         </section>
