@@ -200,6 +200,11 @@ const config = {
             ],
           },
           {
+            to: '/update',
+            label: '更新记录',
+            position: 'left',
+          },
+          {
             type: 'search',
             position: 'right',
           },

@@ -35,6 +35,11 @@ const SupportedDevices = () => {
       image: "mate60"
     },
     {
+      name: "nova 14系列",
+      models: ["nova 14", "nova 14 Pro", "nova 14 Ultra"],
+      image: "nova14"
+    },
+    {
       name: "nova 13系列",
       models: ["nova 13", "nova 13 Pro"],
       image: "nova13"
@@ -46,24 +51,39 @@ const SupportedDevices = () => {
     },
     {
       name: "nova Flip",
-      models: ["nova Flip"],
+      models: ["nova Flip","nova Flip S"],
       image: "nova13"
     },
     {
       name: "Pocket系列",
-      models: ["Pocket 2", "Pocket 2 艺术定制版"],
+      models: ["Pocket 2", "Pocket 2 艺术定制版", "Pocket 2 优享版"],
       image: "nova13"
     },
     
   ];
 
-  // 平板设备列表
+  // 手机设备列表 5.1
+  const phones51 = [
+    {
+      name: "同6.0机型",
+      models: ["请升级到HarmonyOS 6.0", ],
+      image: "matepad-pro-13"
+    },
+    
+  ];
+
+  // 平板设备列表 6.0
   const tablets = [
     {
       name: "MatePad Pro",
-      models: ["13.2英寸2025/2023/2023典藏款", "12.2英寸2024", "11英寸2024"],
+      models: ["13.2英寸2025/2023/2023典藏款", "12.2英寸2025/2024", "11英寸2024"],
       image: "matepad-pro-13"
     },
+    
+  ];
+
+  // 平板设备列表 5.1
+  const tablets51 = [
     {
       name: "MatePad Air",
       models: ["2024"],
@@ -77,19 +97,55 @@ const SupportedDevices = () => {
     
   ];
 
-  // 穿戴设备列表
+
+  // 电脑设备列表 6.0
+  const pcs = [
+    {
+      name: "MateBook Fold",
+      models: ["非凡大师",],
+      image: "matepad-pro-12"
+    },
+    {
+      name: "MateBook",
+      models: ["Pro", ],
+      image: "matepad-pro-12"
+    },
+  ];
+
+  // 电脑设备列表 5.1
+  const pcs51 = [
+    {
+      name: "同6.0设备",
+      models: ["请升级到HarmonyOS 6.0"],
+      image: "freebuds-pro4"
+    },
+    
+  ];
+
+  // 穿戴设备列表 6.0
   const wearables = [
     {
       name: "WATCH系列",
-      models: ["WATCH 5", "WATCH D2"],
+      models: ["WATCH 5",],
       image: "freebuds-pro4"
     },
     {
       name: "WATCH GT系列",
-      models: ["WATCH GT 6", "WATCH GT 5 Pro","WATCH GT 5"],
+      models: ["WATCH GT 5 Pro","WATCH GT 5"],
       image: "watch-gt4"
     },
   ];
+
+  // 穿戴设备列表 5.1
+  const wearables51 = [
+    {
+      name: "同6.0设备",
+      models: ["请升级到HarmonyOS 6.0"],
+      image: "freebuds-pro4"
+    },
+    
+  ];
+
 
   // 更新时间线
   const timeline = [
@@ -100,11 +156,16 @@ const SupportedDevices = () => {
     },
     {
       period: "2025年第一季度",
-      description: "Nova系列、MatePad系列",
-      devices: ["Nova 12/13系列", "MatePad系列"]
+      description: "nova系列、MatePad系列",
+      devices: ["nova 12/13系列", "MatePad系列"]
     },
     {
-      period: "2025年第二季度及以后",
+      period: "2025年第三季度",
+      description: "nova系列",
+      devices: ["nova 14系列"]
+    },
+    {
+      period: "2025年第4四季度及以后",
       description: "更多老机型逐步适配，扩大HarmonyOS NEXT生态",
       devices: ["更多老款机型持续更新中"]
     }
@@ -137,7 +198,7 @@ const SupportedDevices = () => {
             <div className="hero-content">
               <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
-              <p className="device-date">本页面更新时间：2025.10.1</p>
+              <p className="device-date">本页面更新时间：2025.11.1</p>
             </div>
           </div>
         </section>
@@ -159,6 +220,12 @@ const SupportedDevices = () => {
                 💻 平板设备
               </button>
               <button 
+                className={`tab ${activeTab === 'pcs' ? 'active' : ''}`}
+                onClick={() => setActiveTab('pcs')}
+              >
+                💻 电脑设备
+              </button>
+              <button 
                 className={`tab ${activeTab === 'wearables' ? 'active' : ''}`}
                 onClick={() => setActiveTab('wearables')}
               >
@@ -173,27 +240,56 @@ const SupportedDevices = () => {
           <div className="container">
             {activeTab === 'phones' && (
               <>
-                <h2 className="section-title">手机设备</h2>
+                <h2 className="section-title">手机 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {phones.map(renderDeviceCard)}
+                </div>
+                 <br/><br/>
+                 <h2 className="section-title">手机 HarmonyOS 5.1支持机型</h2>
+                 <div className="devices-grid">
+                  {phones51.map(renderDeviceCard)}
                 </div>
               </>
             )}
             
             {activeTab === 'tablets' && (
               <>
-                <h2 className="section-title">平板设备</h2>
+                <h2 className="section-title">平板 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {tablets.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
+                 <h2 className="section-title">平板 HarmonyOS 5.1支持机型</h2>
+                 <div className="devices-grid">
+                  {tablets51.map(renderDeviceCard)}
+                </div>
+              </>
+            )}
+
+            {activeTab === 'pcs' && (
+              <>
+                <h2 className="section-title">电脑 HarmonyOS 6.0支持机型</h2>
+                <div className="devices-grid">
+                  {pcs.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
+                 <h2 className="section-title">电脑 HarmonyOS 5.1支持机型</h2>
+                 <div className="devices-grid">
+                  {pcs51.map(renderDeviceCard)}
                 </div>
               </>
             )}
             
             {activeTab === 'wearables' && (
               <>
-                <h2 className="section-title">穿戴设备</h2>
+                <h2 className="section-title">穿戴 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {wearables.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
+                 <h2 className="section-title">穿戴 HarmonyOS 5.1支持机型</h2>
+                 <div className="devices-grid">
+                  {wearables51.map(renderDeviceCard)}
                 </div>
               </>
             )}
