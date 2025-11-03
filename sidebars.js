@@ -82,6 +82,7 @@ const sidebars = {
         'quick-start/changlian',
         'quick-start/key-navigation',
         'quick-start/edit-shortcut-switch',
+        'quick-start/scan',
 
       ],
     },
@@ -97,6 +98,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'ai/xiaoyi-problem-solving',
         'ai/screen-recognition',
         'ai/finger-joint-circle-selection',
         'ai/answer-devices-question',
@@ -129,6 +131,8 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'security/privacy-protection',
+        'security/family-ties-prevent-fraud',
         'security/privacy-light',
         'security/manage-app-permission',
         'security/app-lock',
@@ -158,6 +162,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'camera/one-click-image-creation',
         'camera/zoom-ring',
         'camera/one-hand-camera-operation',
         'camera/adjust-camera-setting',
@@ -186,6 +191,9 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'setting/fat-hands-theme',
+        'setting/lock-screen-signature',
+        'setting/memo-shorthand',
         'setting/weather-theme',
         'setting/raindrop-theme',
         'setting/stack-cards',
@@ -212,6 +220,9 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'full-scene/cross-device-image-editing',
+        'full-scene/touch-and-share-between-phone-pc',
+        'full-scene/touch-and-share-between-phones',
         'full-scene/huawei-share',
         'full-scene/super-device',
         'full-scene/seamless-connection',

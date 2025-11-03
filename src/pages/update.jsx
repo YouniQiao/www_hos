@@ -7,6 +7,68 @@ export default function ContentUpdates() {
   const {siteConfig} = useDocusaurusContext();
 
   const updates = [
+    
+    {
+      date: "2025-11-03",
+      items: [
+        {
+          text: "防窥保护，守护隐私安全",
+          link: "/docs/security/privacy-protection",
+          category: "手机内容"
+        },
+        {
+          text: "亲情防诈，为家人守护设备安全",
+          link: "/docs/security/family-ties-prevent-fraud",
+          category: "手机内容"
+        },
+        {
+          text: "扫一扫，无惧远距离、破损码",
+          link: "/docs/quick-start/scan",
+          category: "手机内容"
+        },
+        {
+          text: "小艺深度解题，金牌智能助教",
+          link: "/ai/xiaoyi-problem-solving",
+          category: "手机内容"
+        },
+        {
+          text: "一键成片，图片巧变动态视频",
+          link: "/camera/one-click-image-creation",
+          category: "手机内容"
+        },
+        {
+          text: "萌趣小胖手，猜拳赢手饰盲盒",
+          link: "/docs/setting/fat-hands-theme",
+          category: "手机内容"
+        },
+        {
+          text: "锁屏艺术签名，创作个性壁纸",
+          link: "/docs/setting/lock-screen-signature",
+          category: "手机内容"
+        },
+        {
+          text: "备忘录速记，速览摘要和原文",
+          link: "/docs/setting/memo-shorthand",
+          category: "手机内容"
+        },
+        {
+          text: "图片编辑跨设备无缝接续",
+          link: "/docs/full-scene/cross-device-image-editing",
+          category: "手机内容"
+        },
+        {
+          text: "碰一碰，手机电脑即刻分享",
+          link: "/docs/full-scene/touch-and-share-between-phone-pc",
+          category: "手机内容"
+        },
+        {
+          text: "碰一碰，手机间趣味分享",
+          link: "/docs/full-scene/touch-and-share-between-phones",
+          category: "手机内容"
+        },
+        
+      ]
+    },
     {
       date: "2025-11-01",
       items: [
