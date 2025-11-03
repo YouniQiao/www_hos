@@ -218,6 +218,16 @@ const config = {
       footer: {
         style: "light",
         links: [
+        
+          {
+            title: '更新记录',
+            items: [
+              {
+                label: '更新记录',
+                href: '/update',
+              },
+            ],
+          },
           {
             title: 'More',
             items: [
