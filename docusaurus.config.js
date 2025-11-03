@@ -208,11 +208,11 @@ const config = {
             type: 'search',
             position: 'right',
           },
-          //{
-          //  label: 'Developer',
-          //  position:'right',
-          //  href: 'https://developer.harmonyos.cool',
-          //},
+          {
+            label: 'Developer',
+            position:'right',
+            href: 'https://developer.huawei.com/consumer/cn/',
+          },
         ],
       },
       footer: {
@@ -228,15 +228,15 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Developer',
-                href: 'https://developer.huawei.com/consumer/cn/',
-              },
-            ],
-          },
+          //{
+          //  title: 'More',
+          //  items: [
+          //    {
+          //      label: 'Developer',
+          //      href: 'https://developer.huawei.com/consumer/cn/',
+          //    },
+          //  ],
+          //},
         ],
         copyright: `Copyright © ${new Date().getFullYear()} HarmonyOS Cool.`,
       },
