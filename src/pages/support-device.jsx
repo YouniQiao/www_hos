@@ -165,7 +165,7 @@ const SupportedDevices = () => {
       devices: ["nova 14系列"]
     },
     {
-      period: "2025年第4四季度及以后",
+      period: "2025年第四季度及以后",
       description: "更多老机型逐步适配，扩大HarmonyOS NEXT生态",
       devices: ["更多老款机型持续更新中"]
     }

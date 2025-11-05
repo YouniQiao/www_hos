@@ -58,15 +58,6 @@ const FeatureList = [
       </>
     ),
     readMore: '/docs/category/phone-full-scene'
-  },
-  {
-    title: '新功能',
-    description: (
-      <>
-        探索HarmonyOS NEXT新功能。
-      </>
-    ),
-    readMore: '/docs/category/phone-new-features'
   }
 ];
 
@@ -202,15 +193,6 @@ const FeatureListTablet = [
       </>
     ),
     readMore: '/docs/category/tablet-full-scene'
-  },
-  {
-    title: '新功能',
-    description: (
-      <>
-        探索HarmonyOS NEXT新功能。
-      </>
-    ),
-    readMore: '/docs/category/tablet-new-features'
   }
 ];
 

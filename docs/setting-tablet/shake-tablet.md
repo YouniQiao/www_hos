@@ -4,12 +4,12 @@ last_update:
   author: 油腻樵夫
 ---
 
-# 晃动手机，营造随动心情
+# 晃动平板，营造随动心情
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202508111clkwd/zh-cn/image/figure/10044753_f004_Theme.png" width="560" height=""/>
 
 
-设置随动心情主题，为您带来趣味空间互动体验。转动手机，呈现全新裸眼 3D 视觉效果；晃一晃手机，小球表情随力度变化。
+设置随动心情主题，为您带来趣味空间互动体验。转动平板，呈现全新裸眼 3D 视觉效果；晃一晃平板，小球表情随力度变化。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
@@ -20,5 +20,5 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
-+   在锁屏界面，保持人脸正对手机注视片刻，待底部小球向上弹起，即可解锁趣味空间互动。
++   在锁屏界面，保持人脸正对平板注视片刻，待底部小球向上弹起，即可解锁趣味空间互动。
 +   使用该功能前，请将您的设备升级到最新版本。
