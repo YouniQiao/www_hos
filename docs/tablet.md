@@ -10,7 +10,6 @@ last_update:
 
 通过以下链接快速访问对应的内容分类：
 
-* [新功能](/docs/category/tablet-new-features)，探索HarmonyOS新功能。
 * [快速上手](/docs/category/tablet-quickstart)，了解手势导航、截图等基础操作。
 * [智慧体验](/docs/category/tablet-ai)，体验智慧功能带来的高效生活。
 * [纯净安全](/docs/category/tablet-security)，时刻守护你的隐私安全。
