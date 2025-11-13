@@ -432,6 +432,15 @@ const sidebars = {
        
       ],
     },
+
+    {
+      type: 'category',
+      label: '其它说明',
+      collapsed: true,
+      items: [
+        'devices-for-pc',
+      ],
+    },
   ],
 
   tabletSidebar: [

@@ -7,7 +7,18 @@ export default function ContentUpdates() {
   const {siteConfig} = useDocusaurusContext();
 
   const updates = [
-    
+    {
+      date: "2025-11-03",
+      items: [
+        {
+          text: "新增鸿蒙电脑外设兼容清单查询链接",
+          link: "/docs/devices-for-pc",
+          category: "电脑内容"
+        },
+        
+        
+      ]
+    },
     {
       date: "2025-11-03",
       items: [
