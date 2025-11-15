@@ -8,7 +8,7 @@ export default function ContentUpdates() {
 
   const updates = [
     {
-      date: "2025-11-03",
+      date: "2025-11-13",
       items: [
         {
           text: "新增鸿蒙电脑外设兼容清单查询链接",
