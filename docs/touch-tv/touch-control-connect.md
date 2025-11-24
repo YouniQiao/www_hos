@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# 华为灵犀悬浮触控与华为智慧屏如何配对
+# 如何与华为智慧屏如何配对
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>华为灵犀悬浮触控适用于华为智慧屏 MateTV 系列，其中 Pro 版本为标配，更多适配机型后续逐步加入，敬请期待。
 

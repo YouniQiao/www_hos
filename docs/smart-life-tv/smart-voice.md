@@ -10,9 +10,9 @@ last_update:
 
 ## 对着遥控器说
 
-按住遥控器语音键![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002462606129.png)，无需唤醒词，直接对着遥控器麦克风（距离5cm~30cm）说出您想要的，松开按键，智慧屏将自动识别语音。
+按住遥控器语音键<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002462606129.png" width="24" height="24"/>，无需唤醒词，直接对着遥控器麦克风（距离5cm~30cm）说出您想要的，松开按键，智慧屏将自动识别语音。
 
-例如：您可以按住遥控器语音键![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002429127652.png)，试着这样说：“声音大一点。”
+例如：您可以按住遥控器语音键<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002429127652.png" width="24" height="24"/>，试着这样说：“声音大一点。”
 
 ## 对着智慧屏说
 

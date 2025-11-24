@@ -625,12 +625,28 @@ const sidebars = {
       },
       items: [
         'quick-start-tv/connect',
-        'quick-start-tv/control',
         'quick-start-tv/desktop',
         'quick-start-tv/center',
         'quick-start-tv/wallpaper',
         'quick-start-tv/install-app',
         'quick-start-tv/watch-tv',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '灵犀指向遥控',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '灵犀指向遥控',
+        description: '了解如何使用灵犀指向遥控器',
+        slug: '/category/tv-remote-control',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'point-to-tv/control',
+        'point-to-tv/pair-and-replace',
       ],
     },
 
@@ -692,6 +708,7 @@ const sidebars = {
       items: [
         'smart-life-tv/smart-voice',
         'smart-life-tv/movie-master',
+        'smart-life-tv/smart-recognize',
         'smart-life-tv/live-window',
         'smart-life-tv/smart-frame',
         'smart-life-tv/minor-mode',
@@ -713,12 +730,30 @@ const sidebars = {
       },
       items: [
         'full-scene-tv/phone-tv',
+        'full-scene-tv/phone-remote-control',
         'full-scene-tv/remote-watch',
         'full-scene-tv/remote-assistance',
         'full-scene-tv/huawei-share',
         'full-scene-tv/super-desktop',
         'full-scene-tv/phone-control-card',
         'full-scene-tv/application-continuation',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: '灵犀悬浮触控',
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        title: '灵犀悬浮触控',
+        description: '了解如何使用灵犀悬浮触控',
+        slug: '/category/tv-touch-control',
+        image: '/img/docusaurus.png',
+      },
+      items: [
+        'touch-tv/touch-control-overview',
+        'touch-tv/touch-control-connect',
       ],
     },
 
@@ -735,9 +770,9 @@ const sidebars = {
       },
       items: [
         'more-tv/system-update',
-        'more-tv/touch-control-overview',
-        'more-tv/touch-control-connect',
+        'more-tv/home-theater',
         'more-tv/external-storage',
+        'more-tv/nas',
       ],
     },
   ],

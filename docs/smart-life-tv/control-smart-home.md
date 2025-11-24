@@ -8,9 +8,7 @@ last_update:
 
 您可以通过华为智慧屏中的智慧生活应用控制智能家居设备。
 
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
-
-具体支持的智能家居设备以实际情况为准。
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>具体支持的智能家居设备以实际情况为准。
 
 具体操作方法如下：
 

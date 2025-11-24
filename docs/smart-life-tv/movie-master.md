@@ -8,9 +8,7 @@ last_update:
 
 你可以通过呼叫智慧屏“小艺小艺”进行多维度的影片搜索，并且在观影时可以边看边聊，让您在观影时不再孤单，享受更加沉浸与丰富的观影体验。
 
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
-
-当前仅支持华为视频。
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>当前仅支持华为视频。
 
 ## 影片搜索
 

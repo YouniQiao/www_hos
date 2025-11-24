@@ -8,9 +8,7 @@ last_update:
 
 智慧屏实况窗可显示当前任务的实时信息。如：在畅连通话时，即使切换到其他应用，您也可通过实况窗了解通话时长、联系人等信息。
 
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
-
-仅部分应用支持实况窗，请以实际情况为准。
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>仅部分应用支持实况窗，请以实际情况为准。
 
 ## 实况窗胶囊态
 
@@ -20,13 +18,9 @@ last_update:
 
 ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002422457624.png)
 
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。
 
-配图仅供参考，请以产品实际为准。
-
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
-
-如某应用的实时任务未在实况窗显示，请进入设置 > 应用 ，点击对应应用，确认该应用通知权限已开启。
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>如某应用的实时任务未在实况窗显示，请进入设置 > 应用 ，点击对应应用，确认该应用通知权限已开启。
 
 ## 实况窗卡片态
 
@@ -36,6 +30,4 @@ last_update:
 
 ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002422298696.png)
 
-![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)
-
-配图仅供参考，请以产品实际为准。
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。

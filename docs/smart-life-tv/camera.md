@@ -17,7 +17,7 @@ last_update:
 
 使用相机时，根据使用习惯调整相机设置，可以让您更快捷地拍摄。
 
-1.  在智慧屏桌面选择相机![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002454788733.png)。
+1.  在智慧屏桌面选择相机<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002454788733.png" width="24" height="24"/>。
 2.  按遥控器菜单键，进入设置页面。
     +   录像分辨率：分辨率越高，视频越清晰，最后生成的视频文件越大，请根据实际需要选择。
     +   拍照镜像：打开拍照镜像时，所拍图片与真实场景相反，与拍照预览一致。 关闭自拍镜像时，所拍图片与真实场景相同，与拍照预览相反。

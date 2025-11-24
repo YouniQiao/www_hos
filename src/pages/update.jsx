@@ -8,6 +8,41 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-11-23",
+      items: [
+        {
+          text: "灵犀指向遥控",
+          link: "/docs/category/tv-remote-control",
+          category: "智慧屏内容"
+        },
+        {
+          text: "灵犀悬浮触控",
+          link: "/docs/category/tv-touch-control",
+          category: "智慧屏内容"
+        },
+        {
+          text: "智慧识人",
+          link: "/docs/smart-life-tv/smart-recognize",
+          category: "智慧屏内容"
+        },
+        {
+          text: "手机变身遥控器",
+          link: "/docs/full-scene-tv/phone-remote-control",
+          category: "智慧屏内容"
+        },
+         {
+          text: "分布式家庭影院",
+          link: "/docs/more-tv/home-theater",
+          category: "智慧屏内容"
+        },
+         {
+          text: "华为智慧屏如何访问NAS设备",
+          link: "/docs/more-tv/nas",
+          category: "智慧屏内容"
+        },
+      ]
+    },
+    {
       date: "2025-11-13",
       items: [
         {
@@ -15,8 +50,6 @@ export default function ContentUpdates() {
           link: "/docs/devices-for-pc",
           category: "电脑内容"
         },
-        
-        
       ]
     },
     {
