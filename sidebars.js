@@ -754,6 +754,7 @@ const sidebars = {
       items: [
         'touch-tv/touch-control-overview',
         'touch-tv/touch-control-connect',
+        'touch-tv/touch-control-key',
       ],
     },
 

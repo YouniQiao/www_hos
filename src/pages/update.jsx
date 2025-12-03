@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-03",
+      items: [
+        {
+          text: "新增智慧屏悬浮触控肩键设置方法",
+          link: "/docs/touch-tv/touch-control-key",
+          category: "智慧屏内容"
+        },
+      ]
+    },
+    {
       date: "2025-11-23",
       items: [
         {
