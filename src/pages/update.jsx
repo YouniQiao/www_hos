@@ -8,6 +8,87 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-05",
+      items: [
+        {
+          text: "应用中心，高效管理应用",
+          link: "/docs/quick-start/app-center",
+          category: "手机内容"
+        },
+        {
+          text: "日历课程表，随时查看课程安排",
+          link: "/docs/ai/calendar-schedule",
+          category: "手机内容"
+        },
+        {
+          text: "沉浸式翻译，轻松浏览外文",
+          link: "/docs/ai/xiaoyi-translate",
+          category: "手机内容"
+        },
+        {
+          text: "小艺智能体，一步开启专业技能",
+          link: "/docs/ai/xiaoyi-ai-agent",
+          category: "手机内容"
+        },
+        {
+          text: "小艺帮帮忙，轻松搞定大小事",
+          link: "/docs/ai/xiaoyi-help",
+          category: "手机内容"
+        },
+        {
+          text: "用机有疑问？试试找小艺",
+          link: "/docs/ai/xiaoyi-solve-problem",
+          category: "手机内容"
+        },
+        {
+          text: "安全访问，保护隐私数据",
+          link: "/docs/security/secure-access",
+          category: "手机内容"
+        },
+        {
+          text: "智能隐藏横幅通知内容",
+          link: "/docs/security/hide-notification",
+          category: "手机内容"
+        },
+        {
+          text: "设备丢失，星闪精确查找",
+          link: "/docs/security/lost-device-nearlink",
+          category: "手机内容"
+        },
+        {
+          text: "个性色卡，拍照更出彩",
+          link: "/docs/camera/color-card",
+          category: "手机内容"
+        },
+        {
+          text: "AI辅助构图，推荐拍照角度",
+          link: "/docs/camera/ai-composition",
+          category: "手机内容"
+        },
+        {
+          text: "智能去除照片反光",
+          link: "/docs/camera/remove-reflections",
+          category: "手机内容"
+        },
+        {
+          text: "最佳表情，调整出满意的合照",
+          link: "/docs/camera/best-expression",
+          category: "手机内容"
+        },
+        {
+          text: "锁定桌面布局",
+          link: "/docs/setting/lock-layout",
+          category: "手机内容"
+        },
+        {
+          text: "元气心情主题，锁屏奇趣解压",
+          link: "/docs/setting/mood-theme",
+          category: "手机内容"
+        },
+        
+      ]
+    },
+    {
       date: "2025-12-03",
       items: [
         {
@@ -82,12 +163,12 @@ export default function ContentUpdates() {
         },
         {
           text: "小艺深度解题，金牌智能助教",
-          link: "/ai/xiaoyi-problem-solving",
+          link: "/docs/ai/xiaoyi-problem-solving",
           category: "手机内容"
         },
         {
           text: "一键成片，图片巧变动态视频",
-          link: "/camera/one-click-image-creation",
+          link: "/docs/camera/one-click-image-creation",
           category: "手机内容"
         },
         {

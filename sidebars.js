@@ -35,6 +35,7 @@ const sidebars = {
         'quick-start/gesture-navigation',
         'quick-start/lock-task',
         'quick-start/volume',
+        'quick-start/app-center',
         'quick-start/lock-screen-tool',
         'quick-start/lock-screen',
         'quick-start/card-to-desktop',
@@ -91,7 +92,11 @@ const sidebars = {
         'ai/intelligent-control-key',
         'ai/intelligent-notification',
         'ai/eye-flipping',
-
+        'ai/calendar-schedule',
+        'ai/xiaoyi-ai-agent',
+        'ai/xiaoyi-help',
+        'ai/xiaoyi-solve-problem',
+        'ai/xiaoyi-translate',
       ],
     },
     {
@@ -122,7 +127,9 @@ const sidebars = {
         'security/search-lost-device',
         'security/external-storage',
         'security/satellite-communication',
-
+        'security/hide-notification',
+        'security/lost-device-nearlink',
+        'security/secure-access',
       ],
     },
     {
@@ -153,7 +160,10 @@ const sidebars = {
         'camera/refine-photo',
         'camera/magic-photo',
         'camera/dynamic-photo',
-
+        'camera/ai-composition',
+        'camera/best-expression',
+        'camera/color-card',
+        'camera/remove-reflections',
       ],
     },
 
@@ -189,7 +199,8 @@ const sidebars = {
         'setting/movie-camera',
         'setting/touch-share',
         'setting/agenda-share',
-
+        'setting/lock-layout',
+        'setting/mood-theme',
       ],
     },
 
