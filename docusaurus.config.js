@@ -49,7 +49,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "/",
+          //editUrl: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.scss"),
@@ -200,12 +200,18 @@ const config = {
             ],
           },
           {
-            to: '/update',
-            label: '更新记录',
-            position: 'left',
+            to: 'blog', 
+            label: '博客', 
+            position: 'left'
           },
+          
           {
             type: 'search',
+            position: 'right',
+          },
+          {
+            to: '/update',
+            label: '更新记录',
             position: 'right',
           },
           {

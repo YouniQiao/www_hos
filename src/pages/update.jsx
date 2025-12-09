@@ -8,6 +8,21 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-10",
+      items: [
+        {
+          text: "搜索哪些应用支持纯血鸿蒙",
+          link: "/blog/search-apps",
+          category: "博客"
+        },
+        {
+          text: "新增博客功能",
+          link: "/blog",
+          category: "网站页面"
+        },
+      ]
+    },
+    {
       date: "2025-12-05",
       items: [
         {
