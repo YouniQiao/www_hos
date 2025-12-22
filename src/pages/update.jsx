@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-22",
+      items: [
+        {
+          text: "更新支持机型",
+          link: "/support-device",
+          category: "网站页面"
+        },
+      ]
+    },
+    {
       date: "2025-12-10",
       items: [
         {

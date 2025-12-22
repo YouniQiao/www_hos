@@ -11,17 +11,27 @@ const SupportedDevices = () => {
   const phones = [
     {
       name: "Mate X系列",
-      models: ["Mate XTs", "Mate XT", "Mate X6", "Mate X6 典藏版", "Mate X5", "Mate X5 典藏版"],
+      models: ["Mate XTs 非凡大师", "Mate XT 非凡大师", "Mate X7","Mate X6", "Mate X6 典藏版", "Mate X5", "Mate X5 典藏版"],
       image: "mate70"
     },
     {
       name: "Pure X系列",
-      models: ["Pure X"],
+      models: ["Pure X","Pure X 典藏版"],
       image: "mate60"
     },
     {
+      name: "Mate 80系列",
+      models: ["Mate 80", "Mate 80 Pro", "Mate 80 Pro Max",  "Mate 80 RS 非凡大师"],
+      image: "mate80"
+    },
+    {
+      name: "Pura 80系列",
+      models: ["Pura 70", "Pura 70 Pro", "Pura 70 Pro+","Pura 70 Ultra"],
+      image: "pura80"
+    },
+    {
       name: "Mate 70系列",
-      models: ["Mate 70", "Mate 70 Pro", "Mate 70 Pro+", "Mate 70 RS", "Mate 70 Pro 优享版"],
+      models: ["Mate 70", "Mate 70 Air","Mate 70 Pro", "Mate 70 Pro+", "Mate 70 RS", "Mate 70 Pro 优享版"],
       image: "mate70"
     },
     {
@@ -31,12 +41,17 @@ const SupportedDevices = () => {
     },
     {
       name: "Mate 60系列",
-      models: ["Mate 60", "Mate 60 Pro", "Mate 60 Pro+", "Mate 60 RS"],
+      models: ["Mate 60", "Mate 60 Pro", "Mate 60 Pro+", "Mate 60 RS 非凡大师"],
       image: "mate60"
     },
     {
+      name: "nova 15系列",
+      models: ["nova 15", "nova 15 Pro", "nova 15 Ultra"],
+      image: "nova14"
+    },
+    {
       name: "nova 14系列",
-      models: ["nova 14", "nova 14 Pro", "nova 14 Ultra"],
+      models: ["nova 14", "nova 14 Pro", "nova 14 Ultra","nova 14 活力版"],
       image: "nova14"
     },
     {
@@ -75,8 +90,38 @@ const SupportedDevices = () => {
   // 平板设备列表 6.0
   const tablets = [
     {
-      name: "MatePad Pro",
-      models: ["13.2英寸2025/2023/2023典藏款", "12.2英寸2025/2024", "11英寸2024"],
+      name: "MatePad Edge",
+      models: [ "Edge"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 13.2英寸",
+      models: ["2023/2023典藏款/2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 12.2英寸",
+      models: ["2024/2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 11英寸",
+      models: [ "2024"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad 11.5 S",
+      models: ["2025/灵动款2025/活力版2025","2024/灵动款2024"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Air",
+      models: ["2024","2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Mini",
+      models: ["Mini",],
       image: "matepad-pro-13"
     },
     
@@ -198,7 +243,7 @@ const SupportedDevices = () => {
             <div className="hero-content">
               <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
-              <p className="device-date">本页面更新时间：2025.11.1</p>
+              <p className="device-date">本页面更新时间：2025.12.22</p>
             </div>
           </div>
         </section>
