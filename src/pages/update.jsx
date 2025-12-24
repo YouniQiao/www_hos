@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-24",
+      items: [
+        {
+          text: "绕开华为应用市场安装应用",
+          link: "/blog/install-apps",
+          category: "博客"
+        },
+      ]
+    },
+    {
       date: "2025-12-22",
       items: [
         {
