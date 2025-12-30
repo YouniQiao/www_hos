@@ -8,6 +8,123 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2025-12-30",
+      items: [
+        {
+          text: "控制中心个性编辑",
+          link: "/docs/quick-start-pc/control-center-edit",
+          category: "电脑内容"
+        },
+        {
+          text: "日历课程表，随时查看课程安排",
+          link: "/docs/quick-start-pc/calendar-course-schedule",
+          category: "电脑内容"
+        },
+        {
+          text: "涂鸦创作，还能一键还原",
+          link: "/docs/quick-start-pc/graffiti-creation-and-restoration",
+          category: "电脑内容"
+        },
+        {
+          text: "碰一碰，手机电脑即刻互传",
+          link: "/docs/full-scene-pc/touch-to-share-phone-pc-transfer",
+          category: "电脑内容"
+        },
+        {
+          text: "手眼同行，文件随目光拖放",
+          link: "/docs/full-scene-pc/hand-eye-coordination-drag-files",
+          category: "电脑内容"
+        },
+        {
+          text: "文档助理，快速总结摘要和问答",
+          link: "/docs/ai-pc/xiaoyi-document-assistant-summary-qa",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺圈选，快速提取搜索",
+          link: "/docs/ai-pc/xiaoyi-circle-to-search",
+          category: "电脑内容"
+        },
+        {
+          text: "深度研究，助您深度搜索和分析",
+          link: "/docs/ai-pc/xiaoyi-deep-research",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺知识库，您的专属知识管家",
+          link: "/docs/ai-pc/xiaoyi-knowledge-base-guide",
+          category: "电脑内容"
+        },
+        {
+          text: "智能分类，指定文件自动归类",
+          link: "/docs/ai-pc/smart-file-categorization",
+          category: "电脑内容"
+        },
+        {
+          text: "智能推荐，关联文档一键直达",
+          link: "/docs/ai-pc/smart-recommendation-related-documents",
+          category: "电脑内容"
+        },
+        {
+          text: "智慧划词，即刻解答",
+          link: "/docs/ai-pc/smart-text-selection",
+          category: "电脑内容"
+        },
+        {
+          text: "智能相册分类",
+          link: "/docs/ai-pc/smart-album-classification",
+          category: "电脑内容"
+        },
+        {
+          text: "单指沿右边缘上下滑动以调节音量",
+          link: "/docs/gesture/adjust-volume-touchpad-gesture",
+          category: "电脑内容"
+        },
+        {
+          text: "单指沿左边缘上下滑动以调节亮度",
+          link: "/docs/gesture/adjust-brightness-touchpad-left-edge",
+          category: "电脑内容"
+        },
+        {
+          text: "跨设备隔空传送文件",
+          link: "/docs/gesture/cross-device-air-transfer",
+          category: "电脑内容"
+        },
+        {
+          text: "隔空手势滑动屏幕",
+          link: "/docs/gesture/air-gestures-scrolling-screen",
+          category: "电脑内容"
+        },
+        {
+          text: "隔空手势抓取截屏",
+          link: "/docs/gesture/air-gesture-screenshot",
+          category: "电脑内容"
+        },
+        {
+          text: "图片转PPT，助您高效创作",
+          link: "/docs/work/image-to-ppt-efficient-creation",
+          category: "电脑内容"
+        },
+        {
+          text: "收纳夹，桌面灵活布局",
+          link: "/docs/work/desktop-storage",
+          category: "电脑内容"
+        },
+        {
+          text: "安全防护，实时防护病毒威胁",
+          link: "/docs/security-pc/security-protection",
+          category: "电脑内容"
+        },
+        {
+          text: "开启未成年人模式",
+          link: "/docs/setting-pc/enable-minors-mode",
+          category: "电脑内容"
+        },
+        
+      
+      ]
+    },
+    {
       date: "2025-12-24",
       items: [
         {

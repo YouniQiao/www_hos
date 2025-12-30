@@ -253,12 +253,15 @@ const sidebars = {
         'quick-start-pc/app-center',
         'quick-start-pc/control-center',
         'quick-start-pc/desktop-card',
+        'quick-start-pc/control-center-edit',
         'quick-start-pc/data-clone',
         'quick-start-pc/screenshot',
         'quick-start-pc/screen-recording',
         'quick-start-pc/split-screen',
         'quick-start-pc/notice',
         'quick-start-pc/start',
+        'quick-start-pc/calendar-course-schedule',
+        'quick-start-pc/graffiti-creation-and-restoration',
       ],
     },
 
@@ -286,7 +289,8 @@ const sidebars = {
         'full-scene-pc/communication-sharing',
         'full-scene-pc/wireless-screen-mirroring',
         'full-scene-pc/broadcasting-center',
-        
+        'full-scene-pc/hand-eye-coordination-drag-files',
+        'full-scene-pc/touch-to-share-phone-pc-transfer',
       ],
     },
     
@@ -311,7 +315,14 @@ const sidebars = {
         'ai-pc/xiaoyi-subtitle',
         'ai-pc/xiaoyi-noise-reduction',
         'ai-pc/xiaoyi-ktv',
-        
+        'ai-pc/xiaoyi-circle-to-search',
+        'ai-pc/xiaoyi-deep-research',
+        'ai-pc/xiaoyi-document-assistant-summary-qa',
+        'ai-pc/xiaoyi-knowledge-base-guide',
+        'ai-pc/smart-album-classification',
+        'ai-pc/smart-file-categorization',
+        'ai-pc/smart-recommendation-related-documents',
+        'ai-pc/smart-text-selection',
       ],
     },
 
@@ -334,7 +345,11 @@ const sidebars = {
         'gesture/three-finger-sliding-upwards',
         'gesture/three-finger-slideup-pause',
         'gesture/right-click',
-        
+        'gesture/adjust-brightness-touchpad-left-edge',
+        'gesture/adjust-volume-touchpad-gesture',
+        'gesture/air-gesture-screenshot',
+        'gesture/air-gestures-scrolling-screen',
+        'gesture/cross-device-air-transfer',
 
         
       ],
@@ -391,6 +406,8 @@ const sidebars = {
         'work/extract-image-text',
         'work/jiasaw-puzzle',
         'work/search-file',
+        'work/desktop-storage',
+        'work/image-to-ppt-efficient-creation',
       ],
     },
 
@@ -417,7 +434,7 @@ const sidebars = {
         'security-pc/hide-privacy-file',
         'security-pc/external-storage-backup',
         'security-pc/find-device',
-       
+        'security-pc/security-protection',
       ],
     },
 
@@ -440,7 +457,7 @@ const sidebars = {
         'setting-pc/screen-auto-turn-off-duration',
         'setting-pc/dark-mode',
         'setting-pc/intelligent-charging',
-       
+        'setting-pc/enable-minors-mode',
       ],
     },
 
