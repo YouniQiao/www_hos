@@ -15,9 +15,9 @@ last_update:
 1.  打开多个应用时，光标移至当前活动状态的应用窗口右上角![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_maxmize.png)（或![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_norm.png)）并停留，在弹框中单击窗口显示在屏幕左侧或窗口显示在屏幕右侧，开启分屏。
 2.  在桌面另一侧的备选应用中，单击待分屏的应用，进入分屏。
 3.  分屏状态下，您可根据需要，执行以下操作：
-    +   **分屏互换：**光标移至左侧处于活动状态的应用窗口右上角![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_norm.png)并停留，在弹出框中单击窗口显示在屏幕右侧。
-    +   **调整分屏比例：**向左/右拖动分屏分隔线。
-    +   **退出分屏：**单击分屏应用窗口右上角![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_norm.png)（或![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/ic_window_minimize.png)、![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/ic_window_close.png)），或向左/右拖动分屏分隔线直至另外一个分屏应用窗口消失。
+    +   **分屏互换：** 光标移至左侧处于活动状态的应用窗口右上角![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_norm.png)并停留，在弹出框中单击窗口显示在屏幕右侧。
+    +   **调整分屏比例：** 向左/右拖动分屏分隔线。
+    +   **退出分屏：** 单击分屏应用窗口右上角![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_window_norm.png)（或![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/ic_window_minimize.png)、![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/ic_window_close.png)），或向左/右拖动分屏分隔线直至另外一个分屏应用窗口消失。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

@@ -16,9 +16,9 @@ last_update:
 
 您可通过以下任一方式截取全屏：
 
-+   **桌面图标截屏：**单击桌面右下角 ![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_public_chevron_up.png) > ![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_screenshot_fullscreen.png) ，截取当前屏幕画面。
-+   **快捷键截屏：**Fn 键指示灯熄灭时，点按 F11 键。
-+   **指关节截屏：**单指指关节在触控板上同一位置连续敲击两下。使用此功能前，请先进入设置 > 触控板 > 更多手势，确认已开启指关节手势的开关。
++   **桌面图标截屏：** 单击桌面右下角 ![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_public_chevron_up.png) > ![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_screenshot_fullscreen.png) ，截取当前屏幕画面。
++   **快捷键截屏：** Fn 键指示灯熄灭时，点按 F11 键。
++   **指关节截屏：** 单指指关节在触控板上同一位置连续敲击两下。使用此功能前，请先进入设置 > 触控板 > 更多手势，确认已开启指关节手势的开关。
 
 **区域截屏**
 

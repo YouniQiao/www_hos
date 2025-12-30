@@ -15,8 +15,8 @@ last_update:
 1.  单击桌面底部快捷栏中的![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/icon/appicon_settings.png)打开设置，单击左侧边栏的触控板。
 2.  在右侧界面，单击更多手势页签，然后单击开启指关节手势的开关。
 3.  根据需要，使用指关节进行截屏或录屏：
-    +   **截取全屏：**单指关节在触控板同一位置连续敲击两下。
-    +   **录制屏幕：**双指关节在触控板同一位置连续敲击两下，开始录屏；双指关节再次在触控板同一位置连续敲击两下，可结束录屏。
+    +   **截取全屏：** 单指关节在触控板同一位置连续敲击两下。
+    +   **录制屏幕：** 双指关节在触控板同一位置连续敲击两下，开始录屏；双指关节再次在触控板同一位置连续敲击两下，可结束录屏。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
