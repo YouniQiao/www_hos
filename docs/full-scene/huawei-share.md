@@ -12,7 +12,7 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
-**在接收设备上：**从屏幕顶部下滑出控制中心，点击华为分享，首次被分享时，选择所有人可见 (10 分钟)。
+**在接收设备上：** 从屏幕顶部下滑出控制中心，点击华为分享，首次被分享时，选择所有人可见 (10 分钟)。
 
-1.  **发送方：**选中要分享的文件（如：图片），点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/common/buttons/ic_Celia_share.png" width="24" height="24"/>，点击华为分享，选中接收设备后发送文件。
-2.  **接收方：**收到文件分享提示后，点击接收。
+1.  **发送方：** 选中要分享的文件（如：图片），点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/common/buttons/ic_Celia_share.png" width="24" height="24"/>，点击华为分享，选中接收设备后发送文件。
+2.  **接收方：** 收到文件分享提示后，点击接收。

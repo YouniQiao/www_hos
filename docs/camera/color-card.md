@@ -15,7 +15,7 @@ last_update:
 打开相机，在相机底部点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/ic_camera_up.png" width="24" height="24"/>，调出百宝箱，点击XMAGE 风格，左滑开启个性色卡。您可以：
 
 +   **使用预设色卡**：在取景框中左右滑动切换预设色卡。您还可在屏幕顶端点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/ic_custom_styles_on.png" width="24" height="24"/>，选择预设的自然、胶片、电影、动漫等色卡。
-+   **自定义色卡**：在调色盘中滑动，调整**色温**、**饱和度**；在调色盘侧边光影条上下滑动，调整**光影。**调整完成后，您还可点击 ![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/phone_ic_more.png) > 另存为，输入色卡名称并保存，方便下次调用。
++   **自定义色卡**：在调色盘中滑动，调整**色温**、**饱和度**；在调色盘侧边光影条上下滑动，调整**光影。**调整完成后，您还可点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/phone_ic_more.png" width="24" height="24"/> > 另存为，输入色卡名称并保存，方便下次调用。
 +   **关闭个性色卡**：在屏幕顶端点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/ic_custom_styles_on.png" width="24" height="24"/>，选择原色。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示

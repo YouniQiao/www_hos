@@ -12,9 +12,9 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
-**恢复全屏显示：**点击悬浮窗顶部的<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508061ZsslO/zh-cn/image/common/buttons/ic_muti_window_maximize1.png" width="24" height="24"/>。
+**恢复全屏显示：** 点击悬浮窗顶部的<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508061ZsslO/zh-cn/image/common/buttons/ic_muti_window_maximize1.png" width="24" height="24"/>。
 
-**最小化悬浮窗：**点击悬浮窗顶部的<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508061ZsslO/zh-cn/image/common/buttons/ic_muti_window_bar.png" width="24" height="24"/>，点击最小化，最小化为侧边条。点击侧边条，或向内滑动贴边隐藏的侧边条，可恢复悬浮窗。
+**最小化悬浮窗：** 点击悬浮窗顶部的<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508061ZsslO/zh-cn/image/common/buttons/ic_muti_window_bar.png" width="24" height="24"/>，点击最小化，最小化为侧边条。点击侧边条，或向内滑动贴边隐藏的侧边条，可恢复悬浮窗。
 
 **切换为分屏**：非桌面场景下，轻触悬浮窗顶部状态栏，并拖动至屏幕左右方（横屏时）或上下方（竖屏时），悬停片刻后松手。
 

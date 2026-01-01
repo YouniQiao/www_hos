@@ -13,7 +13,7 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
-**返回上一级：**从屏幕左、右边缘向内滑。
+**返回上一级：** 从屏幕左、右边缘向内滑。
 
 **返回桌面**：从屏幕底部边缘向上滑。
 
