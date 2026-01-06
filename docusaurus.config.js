@@ -96,6 +96,10 @@ const config = {
                 to:'hmos51'
               },
               {
+                label: 'HarmonyOS 5.0',
+                to:'hmos50'
+              },
+              {
                 label: '使用Android应用',
                 to:'android-app'
               },
