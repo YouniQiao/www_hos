@@ -6,6 +6,7 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
+    icon: "/device/phone.png",
     title: '快速上手',
     description: (
       <>
@@ -15,6 +16,7 @@ const FeatureList = [
     readMore: '/docs/category/phone-quickstart'
   },
   {
+    icon: "/device/phone.png",
     title: '智慧体验',
     description: (
       <>
@@ -24,6 +26,7 @@ const FeatureList = [
     readMore: '/docs/category/phone-ai'
   },
   {
+    icon: "/device/phone.png",
     title: '纯净安全',
     description: (
       <>
@@ -33,6 +36,7 @@ const FeatureList = [
     readMore: '/docs/category/phone-security'
   },
   {
+    icon: "/device/phone.png",
     title: '精彩影像',
     description: (
       <>
@@ -42,6 +46,7 @@ const FeatureList = [
     readMore: '/docs/category/phone-camera'
   },
   {
+    icon: "/device/phone.png",
     title: '个性设置',
     description: (
       <>
@@ -51,6 +56,7 @@ const FeatureList = [
     readMore: '/docs/category/phone-setting'
   },
   {
+    icon: "/device/phone.png",
     title: '全场景',
     description: (
       <>
@@ -65,6 +71,7 @@ const FeatureList = [
 
 const FeatureListPC = [
   {
+    icon: "/device/pc.png",
     title: '新机上手',
     description: (
       <>
@@ -74,6 +81,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-quickstart'
   },
   {
+     icon: "/device/pc.png",
     title: '全场景',
     description: (
       <>
@@ -83,6 +91,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-full-scene'
   },
   {
+     icon: "/device/pc.png",
     title: '智慧体验',
     description: (
       <>
@@ -92,6 +101,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-ai'
   },
   {
+     icon: "/device/pc.png",
     title: '常用手势',
     description: (
       <>
@@ -101,6 +111,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-gesture'
   },
   {
+     icon: "/device/pc.png",
     title: '快捷键',
     description: (
       <>
@@ -110,6 +121,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-shortcut-key'
   },
   {
+     icon: "/device/pc.png",
     title: '高效办公',
     description: (
       <>
@@ -119,6 +131,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-work'
   },
   {
+     icon: "/device/pc.png",
     title: '纯净安全',
     description: (
       <>
@@ -128,6 +141,7 @@ const FeatureListPC = [
     readMore: '/docs/category/pc-security'
   },
   {
+     icon: "/device/pc.png",
     title: '个性设置',
     description: (
       <>
@@ -141,6 +155,7 @@ const FeatureListPC = [
 
 const FeatureListTablet = [
   {
+    icon: "/device/pad.png",
     title: '快速上手',
     description: (
       <>
@@ -150,6 +165,7 @@ const FeatureListTablet = [
     readMore: '/docs/category/tablet-quickstart'
   },
   {
+    icon: "/device/pad.png",
     title: '智慧体验',
     description: (
       <>
@@ -159,6 +175,7 @@ const FeatureListTablet = [
     readMore: '/docs/category/tablet-ai'
   },
   {
+    icon: "/device/pad.png",
     title: '纯净安全',
     description: (
       <>
@@ -168,6 +185,7 @@ const FeatureListTablet = [
     readMore: '/docs/category/tablet-security'
   },
   {
+    icon: "/device/pad.png",
     title: '精彩影像',
     description: (
       <>
@@ -177,6 +195,7 @@ const FeatureListTablet = [
     readMore: '/docs/category/tablet-camera'
   },
   {
+    icon: "/device/pad.png",
     title: '个性设置',
     description: (
       <>
@@ -186,6 +205,7 @@ const FeatureListTablet = [
     readMore: '/docs/category/tablet-setting'
   },
   {
+    icon: "/device/pad.png",
     title: '全场景',
     description: (
       <>
@@ -198,6 +218,7 @@ const FeatureListTablet = [
 
 const FeatureListWearable = [
   {
+    icon: "/device/watch.png",
     title: 'WATCH GT 6系列',
     description: (
       <>
@@ -207,6 +228,7 @@ const FeatureListWearable = [
     readMore: '/docs/wearable'
   },
   {
+    icon: "/device/watch.png",
     title: 'WATCH 5',
     description: (
       <>
@@ -220,6 +242,7 @@ const FeatureListWearable = [
 
 const FeatureListTV = [
   {
+    icon: "/device/tv.png",
     title: '新机上手',
     description: (
       <>
@@ -229,6 +252,7 @@ const FeatureListTV = [
     readMore: '/docs/category/tv-quickstart'
   },
   {
+    icon: "/device/tv.png",
     title: '投屏方法',
     description: (
       <>
@@ -238,6 +262,7 @@ const FeatureListTV = [
     readMore: '/docs/category/tv-mirror'
   },
   {
+    icon: "/device/tv.png",
     title: '畅连通话',
     description: (
       <>
@@ -247,6 +272,7 @@ const FeatureListTV = [
     readMore: '/docs/category/tv-changlian'
   },
   {
+    icon: "/device/tv.png",
     title: '智享生活',
     description: (
       <>
@@ -256,6 +282,7 @@ const FeatureListTV = [
     readMore: '/docs/category/tv-smart-life'
   },
   {
+    icon: "/device/tv.png",
     title: '全场景协同',
     description: (
       <>
@@ -265,6 +292,7 @@ const FeatureListTV = [
     readMore: '/docs/category/tv-full-scene'
   },
   {
+    icon: "/device/tv.png",
     title: '更多技巧',
     description: (
       <>
@@ -278,6 +306,7 @@ const FeatureListTV = [
 
 const FeatureListCar = [
   {
+    icon: "/device/car.png",
     title: '新机上手',
     description: (
       <>
@@ -289,16 +318,20 @@ const FeatureListCar = [
   
 ];
 
-function Feature({ Svg, title, description, readMore }) {
+function Feature({ icon, title, description, readMore }) {
   return (
     <div>
       <div className="card p-8 box-border">
+        <div className="dev-features-icon flex justify-center items-center">
+          <img src={icon} alt={title} width={40} height={40} />
+        </div>
         <h3 className='mb-2'>{title}</h3>
         <div className='mb-2'>{description}</div>
         {<Link
           to={readMore}>
           了解更多
         </Link>}
+        
       </div>
     </div>
   );
