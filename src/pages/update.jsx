@@ -8,6 +8,129 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-01-09",
+      items: [
+        {
+          text: "应用中心，高效管理应用",
+          link: "/docs/quick-start-tablet/app-center-efficient-management",
+          category: "平板内容"
+        },
+        {
+          text: "扫一扫，无惧远距离、破损码",
+          link: "/docs/quick-start-tablet/easy-scan-guide",
+          category: "平板内容"
+        },
+        {
+          text: "编辑控制中心",
+          link: "/docs/quick-start-tablet/edit-control-center",
+          category: "平板内容"
+        },
+        {
+          text: "笔记，无纸化学习办公新体验",
+          link: "/docs/quick-start-tablet/notes-paperless-experience",
+          category: "平板内容"
+        },
+        {
+          text: "实时调整手写字迹",
+          link: "/docs/quick-start-tablet/real-time-handwriting-adjustment",
+          category: "平板内容"
+        },
+        {
+          text: "提笔成文，落笔成画",
+          link: "/docs/quick-start-tablet/writing-and-drawing-with-stylus",
+          category: "平板内容"
+        },
+        {
+          text: "用机有疑问？试试找小艺",
+          link: "/docs/ai-tablet/ask-celia-for-device-help",
+          category: "平板内容"
+        },
+        {
+          text: "日历课程表，随时查看课程安排",
+          link: "/docs/ai-tablet/calendar-curriculum-schedule",
+          category: "平板内容"
+        },
+        {
+          text: "小艺智能体，一步开启专业技能",
+          link: "/docs/ai-tablet/celia-agents-professional-skills",
+          category: "平板内容"
+        },
+        {
+          text: "小艺深度解题，金牌智能助教",
+          link: "/docs/ai-tablet/celia-deep-problem-solving",
+          category: "平板内容"
+        },
+        {
+          text: "小艺任务，一句话执行任务",
+          link: "/docs/ai-tablet/celia-tasks-voice-execution",
+          category: "平板内容"
+        },
+        {
+          text: "沉浸式翻译，轻松浏览外文",
+          link: "/docs/ai-tablet/immersive-translation-easy-browsing",
+          category: "平板内容"
+        },
+        {
+          text: "亲情防诈，为家人守护设备安全",
+          link: "/docs/security-tablet/family-anti-fraud-protection",
+          category: "平板内容"
+        },
+        {
+          text: "设备丢失，关机也能找",
+          link: "/docs/security-tablet/find-device-even-when-powered-off",
+          category: "平板内容"
+        },
+        {
+          text: "安全访问，保护隐私数据",
+          link: "/docs/security-tablet/secure-access-protect-privacy-data",
+          category: "平板内容"
+        },
+        {
+          text: "一键成片，图片巧变动态视频",
+          link: "/docs/camera-tablet/instant-movie-images-to-dynamic-videos",
+          category: "平板内容"
+        },
+        {
+          text: "萌趣小胖手，猜拳赢手饰盲盒",
+          link: "/docs/setting-tablet/cute-chubby-hand-theme-game",
+          category: "平板内容"
+        },
+        {
+          text: "深色模式，暗下来更舒适",
+          link: "/docs/setting-tablet/dark-mode-comfort",
+          category: "平板内容"
+        },
+        {
+          text: "锁定桌面布局",
+          link: "/docs/setting-tablet/lock-home-screen-layout",
+          category: "平板内容"
+        },
+        {
+          text: "锁屏艺术签名，创作个性壁纸",
+          link: "/docs/setting-tablet/lock-screen-artistic-signature",
+          category: "平板内容"
+        },
+        {
+          text: "元气心情主题，锁屏奇趣解压",
+          link: "/docs/setting-tablet/mood-match-theme-lock-screen",
+          category: "平板内容"
+        },
+        {
+          text: "备忘录速记，速览摘要和原文",
+          link: "/docs/setting-tablet/notes-quick-note-summary-and-original-text",
+          category: "平板内容"
+        },
+        {
+          text: "图片编辑跨设备无缝接续",
+          link: "/docs/full-scene-tablet/seamless-cross-device-image-editing",
+          category: "平板内容"
+        },
+      
+      ]
+    },
+
+
+    {
       date: "2025-12-30",
       items: [
         {
@@ -386,6 +509,10 @@ export default function ContentUpdates() {
   }, {});
 
   const monthNames = {
+    "2026-03": "2026年03月",
+    "2026-02": "2026年02月",
+    "2026-01": "2026年01月",
+    "2025-12": "2025年12月",
     "2025-11": "2025年11月",
     "2025-10": "2025年10月",
     "2024-12": "2024年12月",
