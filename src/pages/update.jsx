@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-01-12",
+      items: [
+        {
+          text: "鸿蒙系统安装安卓应用的几种方式",
+          link: "/blog/install-android-apps",
+          category: "博客"
+        },
+      ]
+    },
+    {
       date: "2026-01-09",
       items: [
         {
