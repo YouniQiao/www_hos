@@ -219,6 +219,16 @@ const FeatureListTablet = [
 const FeatureListWearable = [
   {
     icon: "/device/watch.png",
+    title: 'WATCH Ultimate系列',
+    description: (
+      <>
+        Ultimate系列鸿蒙手表。
+      </>
+    ),
+    readMore: '/docs/wearable'
+  },
+  {
+    icon: "/device/watch.png",
     title: 'WATCH GT 6系列',
     description: (
       <>

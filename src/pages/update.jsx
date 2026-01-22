@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-01-22",
+      items: [
+        {
+          text: "新增Watch非凡大师系列鸿蒙手表",
+          link: "/docs/wearable",
+          category: "穿戴内容"
+        },
+      ]
+    },
+    {
       date: "2026-01-12",
       items: [
         {

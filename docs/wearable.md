@@ -10,6 +10,8 @@ last_update:
 
 通过以下链接快速访问对应的设备内容：
 
+* [WATCH Ultimate系列](https://tips-drcn.platform.dbankcloud.cn/hwtips/scene/device/index.html?lang=zh-CN&prodId=M0EX&cid=11065)，Watch非凡大师系列鸿蒙手表。
+
 * [WATCH GT 6系列](https://tips-drcn.platform.dbankcloud.cn/hwtips/scene/device/index.html?lang=zh-CN&prodId=M0ER&cid=11065)，GT系列鸿蒙手表。
 * [WATCH 5](https://tips-drcn.platform.dbankcloud.cn/hwtips/scene/device/index.html?lang=zh-CN&prodId=M0EB&cid=11065)，首款AI智能手表。
 
