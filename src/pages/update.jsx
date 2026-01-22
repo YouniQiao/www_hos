@@ -15,6 +15,11 @@ export default function ContentUpdates() {
           link: "/docs/wearable",
           category: "穿戴内容"
         },
+        {
+          text: "更新支持机型，新增畅享70X，以及穿戴部分机型",
+          link: "/support-device",
+          category: "网站页面"
+        },
       ]
     },
     {

@@ -74,6 +74,11 @@ const SupportedDevices = () => {
       models: ["Pocket 2", "Pocket 2 艺术定制版", "Pocket 2 优享版"],
       image: "nova13"
     },
+    {
+      name: "华为畅享系列",
+      models: ["畅享 70X",],
+      image: "nova13"
+    },
     
   ];
 
@@ -170,6 +175,11 @@ const SupportedDevices = () => {
   // 穿戴设备列表 6.0
   const wearables = [
     {
+      name: "WATCH非凡大师系列",
+      models: ["非凡大师 紫金款","Ultimate 2",],
+      image: "freebuds-pro4"
+    },
+    {
       name: "WATCH系列",
       models: ["WATCH 5",],
       image: "freebuds-pro4"
@@ -177,6 +187,11 @@ const SupportedDevices = () => {
     {
       name: "WATCH GT系列",
       models: ["WATCH GT 5 Pro","WATCH GT 5"],
+      image: "watch-gt4"
+    },
+    {
+      name: "WATCH Fit系列",
+      models: ["WATCH Fit 4 Pro","WATCH Fit 4"],
       image: "watch-gt4"
     },
   ];
@@ -243,7 +258,7 @@ const SupportedDevices = () => {
             <div className="hero-content">
               <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
-              <p className="device-date">本页面更新时间：2025.12.22</p>
+              <p className="device-date">本页面更新时间：2026.1.22</p>
             </div>
           </div>
         </section>
