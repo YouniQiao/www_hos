@@ -1,10 +1,68 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageWebDevFeatures from "@site/src/components/HomepageWebDevFeatures";
 import CodeBlock from "@theme/CodeBlock";
 import HomepageEcommerceFeatures from "../components/HomepageEcommerceFeatures";
+
+const useHarmonyInstallStats = () => {
+  const [data, setData] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        setLoading(true);
+        const response = await fetch('https://harmony5.cn/install');
+        const html = await response.text();
+        
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(html, 'text/html');
+        
+        const tables = doc.querySelectorAll('table');
+        if (tables.length > 0) {
+          const rows = tables[0].querySelectorAll('tr');
+          const tableData = [];
+          
+          for (let i = 1; i < rows.length; i++) {
+            const cells = rows[i].querySelectorAll('td');
+            if (cells.length >= 4) {
+              const date = cells[0].textContent.trim();
+              const installCount = cells[1].textContent.trim();
+              const dailyIncrease = cells[2].textContent.trim();
+              const dailyGrowth = cells[3].textContent.trim();
+              
+              tableData.push({
+                date: date,
+                installCount: installCount,
+                dailyIncrease: dailyIncrease,
+                dailyGrowth: dailyGrowth
+              });
+            }
+          }
+          
+          setData(tableData);
+        }
+      } catch (err) {
+        setError(err.message);
+        setData([{
+          date: '01-22',
+          installCount: '4000.10万',
+          dailyIncrease: '+15.53万',
+          dailyGrowth: '+0.4%'
+        }]);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, []);
+
+  return { data, loading, error };
+};
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -33,6 +91,7 @@ function HomepageHeader() {
             <Github role={"img"} />
           </a>
         </div> */}
+        <HarmonyInstallStats />
         <div className="flex flex-col md:flex-row md:space-y-0 justify-center mt-10">
           <div>
             <div className="flex justify-center">
@@ -47,6 +106,40 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
+  );
+}
+
+function HarmonyInstallStats() {
+  const { data, loading, error } = useHarmonyInstallStats();
+
+  if (loading || !data || data.length === 0) {
+    return null;
+  }
+
+  const latestData = data[0];
+
+  return (
+    <div className="flex justify-center items-center gap-6 mb-8 px-8">
+      <div className="text-center">
+        <div className="text-sm text-gray-500 mb-3">更新日期</div>
+        <div className="text-2xl font-bold text-gray-800">{latestData.date}</div>
+      </div>
+      <div className="h-12 w-px bg-gray-300 hidden md:block"></div>
+      <div className="text-center">
+        <div className="text-sm text-gray-500 mb-3">鸿蒙装机量</div>
+        <div className="text-4xl font-bold text-blue-600">{latestData.installCount}</div>
+      </div>
+      <div className="h-12 w-px bg-gray-300 hidden md:block"></div>
+      <div className="text-center">
+        <div className="text-sm text-gray-500 mb-3">日增量</div>
+        <div className="text-2xl font-bold text-green-600">{latestData.dailyIncrease}</div>
+      </div>
+      <div className="h-12 w-px bg-gray-300 hidden md:block"></div>
+      <div className="text-center">
+        <div className="text-sm text-gray-500 mb-3">日增幅</div>
+        <div className="text-2xl font-bold text-green-600">{latestData.dailyGrowth}</div>
+      </div>
+    </div>
   );
 }
 
