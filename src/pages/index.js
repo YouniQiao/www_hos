@@ -5,6 +5,12 @@ import Layout from "@theme/Layout";
 import HomepageWebDevFeatures from "@site/src/components/HomepageWebDevFeatures";
 import CodeBlock from "@theme/CodeBlock";
 import HomepageEcommerceFeatures from "../components/HomepageEcommerceFeatures";
+import { createClient } from '@supabase/supabase-js';
+
+// 初始化Supabase客户端
+const supabaseUrl = 'https://ylgmbuvrkugskhxqtgap.supabase.co';
+const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlsZ21idXZya3Vnc2toeHF0Z2FwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk4MjE3OTgsImV4cCI6MjA4NTM5Nzc5OH0.n9nFD3ldj0HSI6RSY5FZsd4VE6seiKJh4Wsvs9bg40k';
+const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
 const useHarmonyInstallStats = () => {
   const [data, setData] = useState([]);
@@ -15,40 +21,49 @@ const useHarmonyInstallStats = () => {
     const fetchData = async () => {
       try {
         setLoading(true);
-        const response = await fetch('https://harmony5.cn/install');
-        const html = await response.text();
+        console.log('尝试从Supabase数据库获取鸿蒙装机量数据...');
         
-        const parser = new DOMParser();
-        const doc = parser.parseFromString(html, 'text/html');
+        // 查询数据库，按日期降序排列，获取最新数据
+        const { data: stats, error: supabaseError } = await supabase
+          .from('harmony_daily_stats')
+          .select('record_date, total_installations, installation_increment, growth_rate')
+          .order('record_date', { ascending: false })
+          .limit(1); // 只获取最近10条记录
         
-        const tables = doc.querySelectorAll('table');
-        if (tables.length > 0) {
-          const rows = tables[0].querySelectorAll('tr');
-          const tableData = [];
-          
-          for (let i = 1; i < rows.length; i++) {
-            const cells = rows[i].querySelectorAll('td');
-            if (cells.length >= 4) {
-              const date = cells[0].textContent.trim();
-              const installCount = cells[1].textContent.trim();
-              const dailyIncrease = cells[2].textContent.trim();
-              const dailyGrowth = cells[3].textContent.trim();
-              
-              tableData.push({
-                date: date,
-                installCount: installCount,
-                dailyIncrease: dailyIncrease,
-                dailyGrowth: dailyGrowth
-              });
-            }
-          }
+        if (supabaseError) {
+          throw new Error(`Supabase查询失败: ${supabaseError.message}`);
+        }
+        
+        console.log('从Supabase获取到的数据:', stats);
+        
+        if (stats && stats.length > 0) {
+          // 转换数据格式
+          const tableData = stats.map(item => ({
+            date: item.record_date,
+            installCount: item.total_installations,
+            dailyIncrease: item.installation_increment,
+            dailyGrowth: item.growth_rate
+          }));
           
           setData(tableData);
+          setError(null);
+          console.log('数据转换成功:', tableData);
+        } else {
+          console.log('Supabase数据库中没有数据，使用默认数据');
+          setError('数据库中没有数据，使用默认数据');
+          setData([{
+            date: '01-28',
+            installCount: '4000.10万',
+            dailyIncrease: '+15.53万',
+            dailyGrowth: '+0.4%'
+          }]);
         }
       } catch (err) {
+        console.error('获取数据失败:', err.message);
         setError(err.message);
+        // 使用默认数据作为后备
         setData([{
-          date: '01-22',
+          date: '01-28',
           installCount: '4000.10万',
           dailyIncrease: '+15.53万',
           dailyGrowth: '+0.4%'
