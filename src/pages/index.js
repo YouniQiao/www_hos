@@ -133,6 +133,7 @@ function HarmonyInstallStats() {
 
   const latestData = data[0];
 
+  /* 鸿蒙装机量区域 - 暂时注释掉
   return (
     <div className="flex justify-center items-center gap-6 mb-8 px-8">
       <div className="text-center">
@@ -156,6 +157,8 @@ function HarmonyInstallStats() {
       </div>
     </div>
   );
+  */
+  return null;
 }
 
 function QuickStart() {
