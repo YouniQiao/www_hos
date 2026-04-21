@@ -53,6 +53,8 @@ const sidebars = {
         'quick-start/key-navigation',
         'quick-start/edit-shortcut-switch',
         'quick-start/scan',
+        'quick-start/priority-notification',
+        'quick-start/smart-grip',
 
       ],
     },
@@ -130,6 +132,7 @@ const sidebars = {
         'security/hide-notification',
         'security/lost-device-nearlink',
         'security/secure-access',
+        'security/star-shield-anti-fraud',
       ],
     },
     {
@@ -164,6 +167,8 @@ const sidebars = {
         'camera/best-expression',
         'camera/color-card',
         'camera/remove-reflections',
+        'camera/color-dip',
+        'camera/xmage-style',
       ],
     },
 
@@ -201,6 +206,7 @@ const sidebars = {
         'setting/agenda-share',
         'setting/lock-layout',
         'setting/mood-theme',
+        'setting/immersive-light',
       ],
     },
 
@@ -231,6 +237,8 @@ const sidebars = {
         'full-scene/super-desktop',
         'full-scene/huawei-hicar',
         'full-scene/air-transfer',
+        'full-scene/star-river-interop-ios',
+        'full-scene/communication-sharing',
       ],
     },
   ],

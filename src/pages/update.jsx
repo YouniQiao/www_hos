@@ -8,6 +8,51 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-04-17",
+      items: [
+        {
+          text: "全新沉浸光感，让界面更通透",
+          link: "/docs/setting/immersive-light",
+          category: "手机内容"
+        },
+        {
+          text: "一键星盾防诈，守护用机安全",
+          link: "/docs/security/star-shield-anti-fraud",
+          category: "手机内容"
+        },
+        {
+          text: "优先通知，重要通知不错过",
+          link: "/docs/quick-start/priority-notification",
+          category: "手机内容"
+        },
+        {
+          text: "一键沾色，快速调整图片色调",
+          link: "/docs/camera/color-dip",
+          category: "手机内容"
+        },
+        {
+          text: "鸿蒙星河互联，与 iOS 设备互传文件",
+          link: "/docs/full-scene/star-river-interop-ios",
+          category: "手机内容"
+        },
+        {
+          text: "XMAGE 风格，拍照更出彩",
+          link: "/docs/camera/xmage-style",
+          category: "手机内容"
+        },
+        {
+          text: "智感握姿，单手操作更顺手",
+          link: "/docs/quick-start/smart-grip",
+          category: "手机内容"
+        },
+        {
+          text: "靠近连接，共享手机通信能力",
+          link: "/docs/full-scene/communication-sharing",
+          category: "手机内容"
+        },
+      ]
+    },
+    {
       date: "2026-01-24",
       items: [
         {
