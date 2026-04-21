@@ -270,6 +270,7 @@ const sidebars = {
         'quick-start-pc/start',
         'quick-start-pc/calendar-course-schedule',
         'quick-start-pc/graffiti-creation-and-restoration',
+        'quick-start-pc/per-app-volume',
       ],
     },
 
@@ -299,6 +300,9 @@ const sidebars = {
         'full-scene-pc/broadcasting-center',
         'full-scene-pc/hand-eye-coordination-drag-files',
         'full-scene-pc/touch-to-share-phone-pc-transfer',
+        'full-scene-pc/multi-screen-collaboration-multi-window',
+        'full-scene-pc/wireless-projection-tablet',
+        'full-scene-pc/landscape-large-window',
       ],
     },
     
@@ -443,6 +447,7 @@ const sidebars = {
         'security-pc/external-storage-backup',
         'security-pc/find-device',
         'security-pc/security-protection',
+        'security-pc/smart-security-protection',
       ],
     },
 

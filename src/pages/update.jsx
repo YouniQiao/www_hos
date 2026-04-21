@@ -25,6 +25,31 @@ export default function ContentUpdates() {
           link: "/docs/full-scene-tablet/star-river-interop-ios",
           category: "平板内容"
         },
+        {
+          text: "多屏协同，打开多个手机窗口",
+          link: "/docs/full-scene-pc/multi-screen-collaboration-multi-window",
+          category: "电脑内容"
+        },
+        {
+          text: "无线投屏，协同平板扩展屏幕",
+          link: "/docs/full-scene-pc/wireless-projection-tablet",
+          category: "电脑内容"
+        },
+        {
+          text: "横屏大窗口，大屏显示手机应用",
+          link: "/docs/full-scene-pc/landscape-large-window",
+          category: "电脑内容"
+        },
+        {
+          text: "智能安全防护，守护通话安全",
+          link: "/docs/security-pc/smart-security-protection",
+          category: "电脑内容"
+        },
+        {
+          text: "单应用音量调节",
+          link: "/docs/quick-start-pc/per-app-volume",
+          category: "电脑内容"
+        },
       ]
     },
     {
