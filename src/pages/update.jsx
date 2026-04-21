@@ -8,6 +8,26 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-04-22",
+      items: [
+        {
+          text: "优先通知，重要通知不错过",
+          link: "/docs/quick-start-tablet/priority-notification",
+          category: "平板内容"
+        },
+        {
+          text: "靠近连接，共享手机通信能力",
+          link: "/docs/full-scene-tablet/communication-sharing",
+          category: "平板内容"
+        },
+        {
+          text: "鸿蒙星河互联，与 iOS 设备互传文件",
+          link: "/docs/full-scene-tablet/star-river-interop-ios",
+          category: "平板内容"
+        },
+      ]
+    },
+    {
       date: "2026-04-17",
       items: [
         {

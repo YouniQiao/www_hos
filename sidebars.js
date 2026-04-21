@@ -517,6 +517,7 @@ const sidebars = {
         'quick-start-tablet/notes-paperless-experience',
         'quick-start-tablet/real-time-handwriting-adjustment',
         'quick-start-tablet/writing-and-drawing-with-stylus',
+        'quick-start-tablet/priority-notification',
 
       ],
     },
@@ -661,6 +662,8 @@ const sidebars = {
         'full-scene-tablet/connect-phone-tablet',
         'full-scene-tablet/wireless-screen-mirroring',
         'full-scene-tablet/seamless-cross-device-image-editing',
+        'full-scene-tablet/communication-sharing',
+        'full-scene-tablet/star-river-interop-ios',
       ],
     },
   ],
