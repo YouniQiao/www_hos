@@ -50,6 +50,11 @@ export default function ContentUpdates() {
           link: "/docs/quick-start-pc/per-app-volume",
           category: "电脑内容"
         },
+        {
+          text: "HarmonyOS 6.1 探索页面上线",
+          link: "/hmos61",
+          category: "网站页面"
+        },
       ]
     },
     {

@@ -1,0 +1,380 @@
+/* ===== HarmonyOS 6.1 专属样式 ===== */
+/* 设计风格：深色渐变 Hero + 简洁特性卡片 + 现代布局 */
+
+/* ---------- Hero 区域 ---------- */
+.heroSection {
+  position: relative;
+  background: linear-gradient(160deg, #0a0e27 0%, #1a1a4e 40%, #2d1b69 100%);
+  padding: 140px 0 100px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.heroBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(ellipse 600px 400px at 25% 80%, rgba(99, 102, 241, 0.2) 0%, transparent 70%),
+    radial-gradient(ellipse 500px 500px at 75% 30%, rgba(168, 85, 247, 0.15) 0%, transparent 70%),
+    radial-gradient(ellipse 300px 300px at 50% 50%, rgba(59, 130, 246, 0.1) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.heroContent {
+  position: relative;
+  z-index: 2;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.heroTitle {
+  font-size: 4.5rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #818cf8 0%, #c084fc 50%, #f0abfc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin-bottom: 0.8rem;
+  letter-spacing: -0.03em;
+}
+
+.heroSubtitle {
+  font-size: 1.6rem;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 1.2rem;
+  font-weight: 300;
+}
+
+.heroDescription {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.6);
+  line-height: 1.8;
+  max-width: 640px;
+  margin: 0 auto 2rem;
+}
+
+.heroTags {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.heroTag {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.85);
+  padding: 0.4rem 1.2rem;
+  border-radius: 100px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  backdrop-filter: blur(8px);
+}
+
+/* ---------- 主内容 ---------- */
+.mainContent {
+  background: #ffffff;
+}
+
+/* ---------- 特性区域 ---------- */
+.featuresSection {
+  padding: 80px 0;
+  background: #fafbfc;
+}
+
+.sectionHeader {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 0 24px;
+}
+
+.sectionHeader h2 {
+  font-size: 2.2rem;
+  color: #1a1a2e;
+  margin-bottom: 0.6rem;
+  font-weight: 700;
+}
+
+.sectionHeader p {
+  font-size: 1.05rem;
+  color: #888;
+}
+
+/* 三列网格卡片 */
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.featureCard {
+  background: white;
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.04);
+  border: 1px solid #f0f0f5;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.featureCard:hover {
+  box-shadow: 0 8px 30px rgba(99, 102, 241, 0.08);
+  transform: translateY(-3px);
+}
+
+.featureEmoji {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  background: #f5f3ff;
+}
+
+.featureCard:nth-child(1) .featureEmoji { background: linear-gradient(135deg, #ede9fe, #e0e7ff); }
+.featureCard:nth-child(2) .featureEmoji { background: linear-gradient(135deg, #dcfce7, #d1fae5); }
+.featureCard:nth-child(3) .featureEmoji { background: linear-gradient(135deg, #fce7f3, #fde2e4); }
+.featureCard:nth-child(4) .featureEmoji { background: linear-gradient(135deg, #fef3c7, #fde68a); }
+.featureCard:nth-child(5) .featureEmoji { background: linear-gradient(135deg, #ffe4e6, #fecdd3); }
+.featureCard:nth-child(6) .featureEmoji { background: linear-gradient(135deg, #cffafe, #a5f3fc); }
+
+.featureTitle {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #1a1a2e;
+  margin-bottom: 0.5rem;
+}
+
+.featureDesc {
+  font-size: 0.9rem;
+  color: #777;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* 标签列表 */
+.featureTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: auto;
+}
+
+.featureTagItem {
+  background: #f5f3ff;
+  color: #6366f1;
+  padding: 0.25rem 0.7rem;
+  border-radius: 100px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.featureCard:nth-child(2) .featureTagItem { background: #f0fdf4; color: #16a34a; }
+.featureCard:nth-child(3) .featureTagItem { background: #fdf2f8; color: #db2777; }
+.featureCard:nth-child(4) .featureTagItem { background: #fffbeb; color: #d97706; }
+.featureCard:nth-child(5) .featureTagItem { background: #fff1f2; color: #e11d48; }
+.featureCard:nth-child(6) .featureTagItem { background: #ecfeff; color: #0891b2; }
+
+/* ---------- 关键数据 ---------- */
+.specsSection {
+  padding: 80px 0;
+  background: white;
+}
+
+.specsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.specCard {
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  padding: 1.8rem 1.5rem;
+  border-radius: 16px;
+  text-align: center;
+  border: 1px solid #e2e8f0;
+  transition: transform 0.25s ease;
+}
+
+.specCard:hover {
+  transform: translateY(-4px);
+}
+
+.specLabel {
+  font-size: 0.8rem;
+  color: #94a3b8;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.5rem;
+}
+
+.specValue {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #1a1a2e;
+}
+
+/* ---------- 升级信息 ---------- */
+.updateSection {
+  padding: 80px 0;
+  background: #fafbfc;
+}
+
+.updateContent {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.updateContent > h2 {
+  text-align: center;
+  font-size: 2.2rem;
+  color: #1a1a2e;
+  margin-bottom: 2.5rem;
+  font-weight: 700;
+}
+
+.updateGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.updateCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  border-left: 4px solid #818cf8;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+.updateCard h3 {
+  color: #1a1a2e;
+  margin-bottom: 0.8rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.updateCard p {
+  color: #666;
+  line-height: 1.7;
+  font-size: 0.95rem;
+}
+
+/* ---------- 展望 ---------- */
+.visionSection {
+  padding: 80px 0;
+  background: linear-gradient(160deg, #0a0e27 0%, #1a1a4e 40%, #2d1b69 100%);
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.visionSection::before {
+  content: '';
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(129, 140, 248, 0.15) 0%, transparent 70%);
+  top: -100px;
+  right: -100px;
+}
+
+.visionContent {
+  position: relative;
+  z-index: 2;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.visionIcon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.visionContent h2 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.visionContent p {
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* ---------- 响应式 ---------- */
+@media (max-width: 960px) {
+  .featuresGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .heroSection {
+    padding: 100px 0 60px;
+  }
+
+  .heroTitle {
+    font-size: 2.8rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.2rem;
+  }
+
+  .featuresGrid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .featureCard {
+    padding: 1.5rem;
+  }
+
+  .updateGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .specsGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .visionContent h2 {
+    font-size: 1.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .heroTitle {
+    font-size: 2.2rem;
+  }
+
+  .heroTags {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .specsGrid {
+    grid-template-columns: 1fr;
+  }
+}

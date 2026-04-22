@@ -88,6 +88,10 @@ const config = {
             label: '探索',
             items: [
               {
+                label: 'HarmonyOS 6.1',
+                to:'hmos61'
+              },
+              {
                 label: 'HarmonyOS 6.0',
                 to:'hmos60'
               },
