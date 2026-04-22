@@ -82,6 +82,87 @@ const SupportedDevices = () => {
     
   ];
 
+  // 手机 HarmonyOS 6.1 支持机型
+  const phones61 = [
+    // 正式版
+    {
+      name: "Mate 80系列",
+      models: ["Mate 80", "Mate 80 Pro", "Mate 80 Pro Max", "Mate 80 RS 非凡大师"],
+      image: "mate80"
+    },
+    {
+      name: "Pura 80系列",
+      models: ["Pura 80", "Pura 80 Pro", "Pura 80 Pro+", "Pura 80 Ultra"],
+      image: "pura80"
+    },
+    {
+      name: "Mate 70系列",
+      models: ["Mate 70", "Mate 70 Pro", "Mate 70 Pro 优享版", "Mate 70 Pro+", "Mate 70 RS 非凡大师", "Mate 70 Air"],
+      image: "mate70"
+    },
+    {
+      name: "Pura 70系列",
+      models: ["Pura 70", "Pura 70 北斗卫星消息版", "Pura 70 Pro", "Pura 70 Pro+", "Pura 70 Ultra"],
+      image: "pura70"
+    },
+    {
+      name: "Pura X系列",
+      models: ["Pura X", "Pura X 典藏版"],
+      image: "pura70"
+    },
+    {
+      name: "Mate 60系列",
+      models: ["Mate 60", "Mate 60 Pro", "Mate 60 Pro+", "Mate 60 RS 非凡大师"],
+      image: "mate60"
+    },
+    {
+      name: "Mate X系列",
+      models: ["Mate X7", "Mate X7 典藏版", "Mate X6", "Mate X6 典藏版", "Mate XTs 非凡大师"],
+      image: "mate70"
+    },
+    {
+      name: "nova 15系列",
+      models: ["nova 15", "nova 15 Pro", "nova 15 Ultra"],
+      image: "nova14"
+    },
+    // 公测版
+    {
+      name: "Mate X5系列 (公测)",
+      models: ["Mate X5", "Mate X5 典藏版", "Mate XT 非凡大师"],
+      image: "mate60"
+    },
+    {
+      name: "Pocket系列 (公测)",
+      models: ["Pocket 2", "Pocket 2 艺术定制版", "Pocket 2 优享版"],
+      image: "nova13"
+    },
+    {
+      name: "nova 14系列 (公测)",
+      models: ["nova 14", "nova 14 Pro", "nova 14 Ultra", "nova 14 活力版"],
+      image: "nova14"
+    },
+    {
+      name: "nova 13系列 (公测)",
+      models: ["nova 13", "nova 13 Pro"],
+      image: "nova13"
+    },
+    {
+      name: "nova 12系列 (公测)",
+      models: ["nova 12", "nova 12 Pro", "nova 12 Ultra", "nova 12 Ultra 星耀版"],
+      image: "nova12"
+    },
+    {
+      name: "nova Flip系列 (公测)",
+      models: ["nova Flip", "nova Flip S"],
+      image: "nova13"
+    },
+    {
+      name: "华为畅享系列 (公测)",
+      models: ["畅享 70X", "畅享 70X 尊享版"],
+      image: "nova13"
+    },
+  ];
+
   // 手机设备列表 5.1
   const phones51 = [
     {
@@ -132,6 +213,67 @@ const SupportedDevices = () => {
     
   ];
 
+  // 平板 HarmonyOS 6.1 支持机型
+  const tablets61 = [
+    // 正式版
+    {
+      name: "MatePad Edge",
+      models: ["Edge"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 13.2英寸",
+      models: ["2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 12.2英寸",
+      models: ["2025", "2024"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Air",
+      models: ["2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad 11.5",
+      models: ["2026"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad 11.5 S",
+      models: ["2025", "灵动款 2025", "活力版 2025"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Mini",
+      models: ["Mini"],
+      image: "matepad-pro-13"
+    },
+    // 公测版
+    {
+      name: "MatePad Pro 13.2英寸 (公测)",
+      models: ["2023", "2023 典藏版"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Air (公测)",
+      models: ["2024"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad 11.5 S (公测)",
+      models: ["2024", "灵动款 2024"],
+      image: "matepad-pro-13"
+    },
+    {
+      name: "MatePad Pro 11英寸 (公测)",
+      models: ["2024"],
+      image: "matepad-pro-13"
+    },
+  ];
+
   // 平板设备列表 5.1
   const tablets51 = [
     {
@@ -158,6 +300,25 @@ const SupportedDevices = () => {
     {
       name: "MateBook",
       models: ["Pro", ],
+      image: "matepad-pro-12"
+    },
+  ];
+
+  // 电脑 HarmonyOS 6.1 支持机型 (公测)
+  const pcs61 = [
+    {
+      name: "MateBook Fold",
+      models: ["非凡大师"],
+      image: "matepad-pro-12"
+    },
+    {
+      name: "MateBook",
+      models: ["Pro"],
+      image: "matepad-pro-12"
+    },
+    {
+      name: "MateBook 14",
+      models: ["鸿蒙版"],
       image: "matepad-pro-12"
     },
   ];
@@ -192,6 +353,32 @@ const SupportedDevices = () => {
     {
       name: "WATCH Fit系列",
       models: ["WATCH Fit 4 Pro","WATCH Fit 4"],
+      image: "watch-gt4"
+    },
+  ];
+
+  // 穿戴 HarmonyOS 6.1 支持机型
+  const wearables61 = [
+    // 正式版
+    {
+      name: "WATCH GT 6系列",
+      models: ["WATCH GT 6", "WATCH GT 6 Pro"],
+      image: "watch-gt4"
+    },
+    // 公测版
+    {
+      name: "WATCH Ultimate (公测)",
+      models: ["Ultimate 2 非凡探索", "ULTIMATE DESIGN 非凡大师 紫金款"],
+      image: "freebuds-pro4"
+    },
+    {
+      name: "WATCH系列 (公测)",
+      models: ["WATCH 5"],
+      image: "freebuds-pro4"
+    },
+    {
+      name: "WATCH Fit系列 (公测)",
+      models: ["WATCH FIT 4", "WATCH FIT 4 Pro"],
       image: "watch-gt4"
     },
   ];
@@ -258,7 +445,7 @@ const SupportedDevices = () => {
             <div className="hero-content">
               <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
-              <p className="device-date">本页面更新时间：2026.1.22</p>
+              <p className="device-date">本页面更新时间：2026.4.22</p>
             </div>
           </div>
         </section>
@@ -300,6 +487,11 @@ const SupportedDevices = () => {
           <div className="container">
             {activeTab === 'phones' && (
               <>
+                <h2 className="section-title">手机 HarmonyOS 6.1支持机型</h2>
+                <div className="devices-grid">
+                  {phones61.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
                 <h2 className="section-title">手机 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {phones.map(renderDeviceCard)}
@@ -314,6 +506,11 @@ const SupportedDevices = () => {
             
             {activeTab === 'tablets' && (
               <>
+                <h2 className="section-title">平板 HarmonyOS 6.1支持机型</h2>
+                <div className="devices-grid">
+                  {tablets61.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
                 <h2 className="section-title">平板 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {tablets.map(renderDeviceCard)}
@@ -328,6 +525,11 @@ const SupportedDevices = () => {
 
             {activeTab === 'pcs' && (
               <>
+                <h2 className="section-title">电脑 HarmonyOS 6.1支持机型</h2>
+                <div className="devices-grid">
+                  {pcs61.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
                 <h2 className="section-title">电脑 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {pcs.map(renderDeviceCard)}
@@ -342,6 +544,11 @@ const SupportedDevices = () => {
             
             {activeTab === 'wearables' && (
               <>
+                <h2 className="section-title">穿戴 HarmonyOS 6.1支持机型</h2>
+                <div className="devices-grid">
+                  {wearables61.map(renderDeviceCard)}
+                </div>
+                <br/><br/>
                 <h2 className="section-title">穿戴 HarmonyOS 6.0支持机型</h2>
                 <div className="devices-grid">
                   {wearables.map(renderDeviceCard)}

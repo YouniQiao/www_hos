@@ -55,6 +55,11 @@ export default function ContentUpdates() {
           link: "/hmos61",
           category: "网站页面"
         },
+        {
+          text: "支持机型页面新增 HarmonyOS 6.1 支持机型",
+          link: "/support-device",
+          category: "网站页面"
+        },
       ]
     },
     {
