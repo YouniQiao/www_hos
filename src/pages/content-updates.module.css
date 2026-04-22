@@ -132,16 +132,21 @@
 }
 
 .updateCards {
-  display: grid;
-  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .updateCard {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   background: #f8f9fa;
-  border-radius: 12px;
-  padding: 1.5rem;
-  border: 1px solid rgba(0, 0, 0, 0.05);
-  transition: all 0.3s ease;
+  border-radius: 8px;
+  padding: 10px 16px;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+  transition: all 0.2s ease;
+  text-decoration: none;
   position: relative;
   overflow: hidden;
 }
@@ -152,28 +157,27 @@
   left: 0;
   top: 0;
   bottom: 0;
-  width: 4px;
+  width: 3px;
   background: linear-gradient(to bottom, #0070f3, #00bd59);
-  opacity: 0.7;
+  opacity: 0.5;
+  border-radius: 3px 0 0 3px;
 }
 
 .updateCard:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
   background: white;
-}
-
-.cardHeader {
-  margin-bottom: 0.8rem;
+  border-color: rgba(0, 112, 243, 0.15);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
 .categoryTag {
-  padding: 0.3rem 0.8rem;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 /* 分类标签颜色 */
@@ -252,17 +256,15 @@
   color: #28a745;
 }
 
-.updateLink {
+.updateText {
   color: #1a1a1a;
-  text-decoration: none;
   font-weight: 500;
-  font-size: 1.1rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  line-height: 1.4;
   transition: color 0.2s ease;
-  display: block;
 }
 
-.updateLink:hover {
+.updateCard:hover .updateText {
   color: #0070f3;
 }
 

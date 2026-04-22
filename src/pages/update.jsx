@@ -689,18 +689,14 @@ export default function ContentUpdates() {
                       <div className={styles.timelineContent}>
                         <div className={styles.updateCards}>
                           {update.items.map((item, itemIndex) => (
-                            <div key={itemIndex} className={styles.updateCard}>
-                              <div className={styles.cardHeader}>
-                                <span className={`${styles.categoryTag} ${styles[item.category]}`}>
-                                  {item.category}
-                                </span>
-                              </div>
-                              <div className={styles.cardContent}>
-                                <a href={item.link} className={styles.updateLink}>
-                                  {item.text}
-                                </a>
-                              </div>
-                            </div>
+                            <a key={itemIndex} href={item.link} className={styles.updateCard}>
+                              <span className={`${styles.categoryTag} ${styles[item.category]}`}>
+                                {item.category}
+                              </span>
+                              <span className={styles.updateText}>
+                                {item.text}
+                              </span>
+                            </a>
                           ))}
                         </div>
                       </div>
