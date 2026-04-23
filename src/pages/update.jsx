@@ -8,6 +8,16 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-04-23",
+      items: [
+        {
+          text: "博客：鸿蒙电脑上使用Linux",
+          link: "/blog/linux-on-harmonyos",
+          category: "博客"
+        },
+      ]
+    },
+    {
       date: "2026-04-22",
       items: [
         {
