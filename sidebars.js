@@ -19,10 +19,11 @@ const sidebars = {
   // But you can create a sidebar manually
   
   phoneSidebar: [
-    'phone',
+    {type: 'doc', id: 'phone', className: 'sidebar-device-phone'},
     {
       type: 'category',
       label: '快速上手',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -61,6 +62,7 @@ const sidebars = {
     {
       type: 'category',
       label: '智慧体验',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -104,6 +106,7 @@ const sidebars = {
     {
       type: 'category',
       label: '纯净安全',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -138,6 +141,7 @@ const sidebars = {
     {
       type: 'category',
       label: '精彩影像',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -175,6 +179,7 @@ const sidebars = {
     {
       type: 'category',
       label: '个性设置',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -213,6 +218,7 @@ const sidebars = {
     {
       type: 'category',
       label: '全场景',
+
       collapsed: true,
       link: {
         type: 'generated-index',
@@ -244,7 +250,7 @@ const sidebars = {
   ],
 
   pcSidebar: [
-    'pc',
+    {type: 'doc', id: 'pc', className: 'sidebar-device-pc'},
     {
       type: 'category',
       label: '新机上手',
@@ -485,7 +491,7 @@ const sidebars = {
   ],
 
   tabletSidebar: [
-    'tablet',
+    {type: 'doc', id: 'tablet', className: 'sidebar-device-tablet'},
     {
       type: 'category',
       label: '快速上手',
@@ -674,11 +680,11 @@ const sidebars = {
   ],
 
   wearableSidebar: [
-    'wearable',
+    {type: 'doc', id: 'wearable', className: 'sidebar-device-watch'},
   ],
 
   tvSidebar: [
-    'tv',
+    {type: 'doc', id: 'tv', className: 'sidebar-device-tv'},
     {
       type: 'category',
       label: '快速上手',
@@ -846,10 +852,10 @@ const sidebars = {
   ],
 
   carSidebar: [
-    
     {
       type: 'category',
       label: '新机上手',
+      className: 'sidebar-device-car',
       items: [
         'quick-start-car/start',
       ],
