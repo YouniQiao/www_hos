@@ -6,7 +6,7 @@ last_update:
 
 # 小艺慧记，快速获取会议要点
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_XiaoyiHuiji.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_XiaoyiHuiji.png" width="720" height=""/>
 
 在线开会时，开启小艺慧记，可识别发言人音色并将语音实时转换成文本；会议结束后，根据发言内容生成总结摘要，帮您节省时间、快速掌握会议要点。
 
@@ -24,7 +24,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 若选择保存后退出或![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_public_save.png)，慧记转写及摘要总结将保存在备忘录的备忘 > 小艺慧记中。
-
-
 
 

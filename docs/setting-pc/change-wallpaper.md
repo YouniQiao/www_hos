@@ -6,7 +6,7 @@ last_update:
 
 # 更换壁纸
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_wallpaper.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_wallpaper.png" width="720" height=""/>
 
 您可挑选喜欢的图片，设置为桌面壁纸和锁屏背景，使您的电脑桌面与众不同。
 

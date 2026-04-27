@@ -16,7 +16,7 @@ last_update:
 1.  进入设置 > 系统 > 智感扫码，根据界面提示开启智感扫码开关。
 2.  在桌面场景下，将手机背面上半部分正对二维码，手机识别后将轻微振动并弹出二维码提示框。
 3.  双击手机背面或直接点击提示框，即可跳转至对应服务页面，您可按界面提示完成操作。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

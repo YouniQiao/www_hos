@@ -9,7 +9,6 @@ last_update:
 <iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202509181mmlk4/zh-cn/image/video/20005697_f001_LockingTasks.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
 
 
-
 在多任务中心锁定任务，方便快速启用，同时可避免被一键清理。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法

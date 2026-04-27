@@ -15,13 +15,13 @@ last_update:
 使用前，在手机进入设置 > 多设备协同 > 超级桌面，确保超级桌面开关已开启。
 
 1.  从手机顶部右侧下滑出控制中心，开启蓝牙和 NFC。
-    
+
 2.  在中控屏状态栏，点击蓝牙开关，开启蓝牙。
-    
+
 3.  打开手机上要流转的应用（如：打开Petal地图，选择地点、路线或导航），在中控屏亮屏时，将手机背部 NFC 区域靠近中控屏 NFC 感应区域，振动后拿开。
-    
+
 4.  根据手机与中控屏的界面提示操作后，即可完成流转。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

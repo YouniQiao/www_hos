@@ -13,11 +13,11 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  当前屏幕停留在外文网站或应用界面，长按屏幕底部导航条，唤醒小艺。
-    
+
 2.  点击连续翻译，选择源语言和目标语言，将自动翻译当前页面。
-    
+
 3.  如需退出，再次点击导航条，在小艺翻译助手点击结束翻译。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

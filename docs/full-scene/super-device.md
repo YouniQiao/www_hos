@@ -17,6 +17,6 @@ last_update:
 
 1.  手机、平板打开蓝牙、WLAN 开关，并登录同一华为账号。
 2.  从本机顶部右侧下滑出控制中心，在超级终端中点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/ic_super_device.png" width="24" height="24"/>。
-    
+
 3.  点击待协同设备，即可发起协同。
 

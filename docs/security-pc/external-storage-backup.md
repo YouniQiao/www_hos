@@ -6,7 +6,7 @@ last_update:
 
 # 使用外部存储备份数据
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ExternalStorage_Backup.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ExternalStorage_Backup.png" width="720" height=""/>
 
 使用外部存储设备（如 U 盘、移动硬盘），可将重要数据轻松备份，并可随时恢复。
 
@@ -21,7 +21,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 首次备份时，请根据界面提示创建备份密码，数据将加密备份。
-
-
 
 

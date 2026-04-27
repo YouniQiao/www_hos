@@ -13,9 +13,9 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  打开相机，选择拍照、人像或夜景模式 。
-    
+
 2.  在快门下方点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/ic_camera_up.png" width="24" height="24"/>，调出百宝箱，点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025033026fVij/zh-cn/image/common/buttons/ic_AI_composition.png" width="24" height="24"/>开启 AI 辅助构图。
-    
+
 3.  将镜头对准拍摄对象，根据拍摄对象操作：
     +   **人物**：如有推荐拍摄角度，取景框中会显示黄色和白色圆圈，根据提示调整手机的俯仰角度，直至两个圆重合。调整角度后，如有推荐取景区域，取景框中会显示中心环和推荐目标点。
     +   **风景**：如有推荐取景区域，取景框中会显示中心环和推荐目标点。

@@ -6,7 +6,7 @@ last_update:
 
 # 了解设备安全状态
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_SafetyBoard.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_SafetyBoard.png" width="720" height=""/>
 
 通过隐私安全中心，您可查看设备安全建议、隐私数据等，并根据需要修改隐私和安全的配置，让您的电脑更安全。
 

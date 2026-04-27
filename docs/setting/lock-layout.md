@@ -13,8 +13,8 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入设置 > 桌面和个性化 > 桌面设置，打开锁定布局开关。
-    
+
 2.  开启后，桌面上的应用图标、文件夹、卡片等元素将被锁定，不能移动或删除。
-    
+
 
 如需解除桌面锁定，可关闭锁定布局开关。

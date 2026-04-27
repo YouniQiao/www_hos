@@ -7,7 +7,6 @@ last_update:
 # 锁屏界面，个性装扮
 
 
-
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202508111clkwd/zh-cn/image/figure/20005688_f002_lockScreen.png" width="560" height=""/>
 
 在锁屏界面双指捏合，您可更改时钟样式、添加闹钟天气等锁屏卡片、设置锁屏签名，还可快速更换壁纸和主题，让锁屏更加美观实用。

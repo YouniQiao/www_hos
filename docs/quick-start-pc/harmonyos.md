@@ -6,7 +6,7 @@ last_update:
 
 # HarmonyOS 5 桌面新体验
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_desktop.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_desktop.png" width="720" height=""/>
 
 HarmonyOS 5 桌面提供了快捷栏、小艺搜索、控制中心等功能，操作便捷，助您高效使用。
 

@@ -14,11 +14,11 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入设置 > 卫星网络 > 天通卫星通信，开启启用天通卫星通信开关。
-    
+
 2.  在向南开阔无遮挡的地方，根据界面提示，调整设备角度对准卫星。
-    
+
 3.  连接成功后，即可拨打电话或发送信息。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

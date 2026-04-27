@@ -6,7 +6,7 @@ last_update:
 
 # 拖入小艺，提取图片信息
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202410131vcl7z/zh-cn/image/figure/10044717_f012_tuoruxiaoyi.png" width="360" height="486"/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202410131vcl7z/zh-cn/image/figure/10044717_f012_tuoruxiaoyi.png" width="360" height="486"/>
 
 
 将图片拖入小艺后，让小艺帮您快速提取表格或文字。

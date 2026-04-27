@@ -22,9 +22,9 @@ last_update:
 1.  从手机状态栏右侧向下滑出控制中心，点击无线投屏。
 2.  在连接设备列表中，选择需要连接的智慧屏。首次连接时，在智慧屏的提示框中，点击始终信任/仅本次信任。
 3.  请点击屏幕上方<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002298063720.png" width="60" height="230"/> 图标，弹出设置对话框，进行更多设置。
-    
+
     +   隐私保护 ：投屏时手机来电提醒、消息、闹钟等通知默认只显示在手机，不在智慧屏显示。如需修改，请关闭此开关。
-    
+
     +   电脑模式：智慧屏显示电脑化桌面，可配合键盘鼠标（需要连接到手机）或手机触控板使用，获得电脑般体验。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>

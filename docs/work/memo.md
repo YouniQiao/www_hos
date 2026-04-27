@@ -6,7 +6,7 @@ last_update:
 
 # 备忘录，记录奇思妙想
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_notepad_note_edit.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_notepad_note_edit.png" width="720" height=""/>
 
 使用备忘录，帮您留住一闪而过的想法和灵感。
 

@@ -6,7 +6,7 @@ last_update:
 
 # 玩转鸿蒙手机
 
-<img src="/img/phone.png" width="480" height=""/> 
+<img src="/img/phone.png" width="480" height=""/>
 
 通过以下链接快速访问对应的内容分类：
 

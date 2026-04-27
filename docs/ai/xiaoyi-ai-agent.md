@@ -16,7 +16,7 @@ last_update:
 以小艺翻译助手智能体为例：
 
 1.  在桌面打开小艺应用，点击广场 > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202504042smqrg/zh-cn/image/common/buttons/ic_search.png" width="24" height="24"/> ，搜索“小艺翻译助手”并进入。
-    
+
 2.  在小艺翻译助手中，您可按提示翻译所需内容。
-    
+
 3.  点击右上角 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202504042smqrg/zh-cn/image/common/buttons/phone_ic_more.png" width="24" height="24"/> > 添加至桌面，可创建小艺翻译助手桌面快捷方式。

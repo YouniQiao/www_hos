@@ -14,7 +14,7 @@ last_update:
 
 您可通过以下任一方式开启未成年人模式：
 
-  
+
 | 序号| 操作方法| 图片示例|
 | --- | --- | --- |
 | 方式1| 在智慧屏桌面打开设置 > 未成年人模式，点击同意并开启。| ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002443463197.jpg) ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg)配图仅供参考，请以产品实际为准。|

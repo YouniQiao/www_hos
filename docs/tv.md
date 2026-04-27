@@ -6,7 +6,7 @@ last_update:
 
 # 玩转鸿蒙智慧屏
 
-<img src="/img/tv.png" width="480" height=""/> 
+<img src="/img/tv.png" width="480" height=""/>
 
 通过以下链接快速访问对应的内容分类：
 

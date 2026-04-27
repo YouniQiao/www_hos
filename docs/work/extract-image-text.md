@@ -6,7 +6,7 @@ last_update:
 
 # 智能提取图片中的文字
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_gallery_extract_text.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_gallery_extract_text.png" width="720" height=""/>
 
 轻松提取图片中的文字内容，帮您提高工作和学习效率。
 

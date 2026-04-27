@@ -6,7 +6,7 @@ last_update:
 
 # 自动填充账号和密码
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_PasswordVault.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_PasswordVault.png" width="720" height=""/>
 
 使用密码保险箱，首次登录时可保存应用或网站的账号、密码，方便下次快捷登录应用或网站。其他人包括系统均无法获取您的数据。
 
@@ -20,6 +20,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 部分应用和网站不支持密码保险箱，请以实际情况为准。
-
 
 

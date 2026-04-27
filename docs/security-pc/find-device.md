@@ -6,7 +6,7 @@ last_update:
 
 # 设备丢失，如何查找
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_FindDevice.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_FindDevice.png" width="720" height=""/>
 
 开启查找设备，可对您的电脑、手机、平板等设备发起定位查找，保护您的设备和数据安全。
 
@@ -24,7 +24,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 电脑未连接网络或已关机时，设备处于离线状态，您可设置上线通知，待电脑上线后将发送通知给您。
-
-
 
 

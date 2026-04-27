@@ -44,9 +44,9 @@ last_update:
 长按遥控器菜单键<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002414279797.png" width="24" height="24"/>或者在智慧屏桌面状态栏，点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002418824981.png" width="24" height="24"/>，打开控制中心:
 
 +   点击快捷开关，开启、关闭或者设置相应功能。
-    
+
 +   点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002380671330.png" width="24" height="24"/>进入设置界面。
-    
+
 
 ## 通知中心
 

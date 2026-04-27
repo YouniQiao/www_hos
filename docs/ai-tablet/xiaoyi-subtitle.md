@@ -13,8 +13,8 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  在播放视频时，长按屏幕底部导航条，打开小艺后，说出指令：“打开小艺字幕”。
-    
+
 2.  在悬浮窗中，点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/ic_stylus_settings.png" width="24" height="24"/> 进入设置界面，在声音源选择媒体声音，根据视频语种选择字幕语言。
-    
+
 3.  播放视频时，字幕会实时显示。
 

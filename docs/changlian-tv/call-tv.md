@@ -27,19 +27,19 @@ last_update:
 
 1.  手机智慧生活App中已添加智慧屏，请参考：[在智慧生活App中添加华为智慧屏](https://consumer.huawei.com/cn/support/content/zh-cn16064466/)。
 2.  手机端打开智慧生活App，选择对应的智慧屏卡片，点击 功能 > 畅连通话。
-    
-    表 1. 手机呼叫智慧屏  
+
+    表 1. 手机呼叫智慧屏
     | 手机版本| 操作|
     | --- | --- |
     | HarmonyOS 5及以上| 直接呼叫您手机绑定的智慧屏。|
     | HarmonyOS 4.3及以下/iOS设备/安卓手机| 在联系人页面，选择需要呼叫的联系人或智慧屏，点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002462473885.png" width="24" height="24"/>或<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002428875256.png" width="24" height="24"/>即可呼叫。在通话页面，选择已通话过的联系人或智慧屏进行呼叫。|
-    
+
 
 ## 更多功能介绍
 
 视频通话过程中，智慧屏有更多特色功能，具体如下：
 
-表 2. 智慧屏端主要图标  
+表 2. 智慧屏端主要图标
 | 图标| 含义|
 | --- | --- |
 | <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002298153680.png" width="24" height="24"/>| 点击摄像头，即可关闭，再次点击可重新开启。|

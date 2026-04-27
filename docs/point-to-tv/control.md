@@ -13,10 +13,10 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。
 
-  
 
 
-  
+
+
 ## 移动光标
 
 ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002417927849.png)
@@ -45,7 +45,6 @@ last_update:
 ## 不同方向连续滑动
 
 ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002393050512.png)
-
 
 
 灵犀指向遥控支持连续滑动，该功能非常适合**长视频连续快进/快退调节进度**，**阅读文字**，**查看评论**等。

@@ -6,7 +6,7 @@ last_update:
 
 # 日程共享，协作更高效
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ShareSchedule.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ShareSchedule.png" width="720" height=""/>
 
 您可将会议通知、出差计划等日程共享给同事，实现一人创建、多人查看，变更实时同步。
 
@@ -22,6 +22,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 此功能目前仅支持在 HarmonyOS 5 及以上版本的设备间使用。
-
 
 

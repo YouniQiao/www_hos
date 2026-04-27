@@ -11,11 +11,11 @@ last_update:
 ## 人脸/声音信息录入
 
 1.  在智慧屏桌面点击设置 > 小艺，打开智慧识人。
-    
+
     ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002508732065.png)
-    
+
     <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。
-    
+
 2.  根据界面提示录入家庭成员信息，在添加家庭成员时，可以根据您的情况，录入人脸及声音信息，方便后续使用各项功能。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>
@@ -63,11 +63,11 @@ last_update:
 +   关闭管控指令：您可以使用智慧语音说：“解除时长管控”。
 +   解除时长管控指令，会触发声音密码验证流程。声音密码开启步骤如下：
     1.  通过设置 > 小艺 > 智慧识人 进入成员信息页面。
-        
+
         ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002476769682.png)
-        
+
         <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。
-        
+
     2.  打开支持声音密码开关。
     3.  编辑成员生日信息，确保该成员年龄大于18岁。
 

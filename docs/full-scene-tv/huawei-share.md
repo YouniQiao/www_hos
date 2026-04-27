@@ -11,13 +11,13 @@ last_update:
 ## 开启华为分享
 
 1.  在智慧屏上，进入设置 > 多设备协同 > 华为分享或长按遥控器菜单键，在控制中心中，点击华为分享，开启华为分享的开关。
-    
+
     <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>部分场景下（如：版本升级或回退、恢复出厂等），若选择仅分享过的设备可见后无法被发现，建议您选择所有人可见 (10 分钟) 。
-    
+
 2.  在手机/平板上，从顶部右侧下滑出控制中心，点亮华为分享。
-    
+
     <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>部分设备首次被分享时，开启华为分享后需选择所有人可见（10 分钟），才可被发现。
-    
+
 3.  在华为电脑上开启华为分享的开关。
 
 ## 由智慧屏端传输至手机/平板/华为电脑端

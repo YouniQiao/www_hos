@@ -6,7 +6,7 @@ last_update:
 
 # 手眼同行，跨设备快速切换键鼠
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_KeyboardMouseSharing_GazePointer.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_KeyboardMouseSharing_GazePointer.png" width="720" height=""/>
 
 使用手眼同行，在多设备键鼠共享时，可通过注视屏幕，同时使用 Ctrl 键，切换光标至所注视的设备屏幕上。
 

@@ -6,7 +6,7 @@ last_update:
 
 # 查看通知消息
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_NotificationPanel.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_NotificationPanel.png" width="720" height=""/>
 
 通过通知中心，让您了解临近的日程或待办提醒、系统通知等，以免错过重要约会或待办事项。
 
@@ -18,7 +18,5 @@ last_update:
 +   **查看单个应用的所有通知消息：** 单击某个应用（如日历、备忘录）的消息卡片，展开该应用的所有通知消息，根据需要单击某条通知消息进入详情界面查看。
 +   **通知消息设置：** 右键单击某条通知消息以执行更多操作，如关闭此应用通知。
 +   **通知管理：** 单击通知中心卡片右上角的![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_notice_bell_set.png)进入通知和状态栏界面，根据需要开启或关闭横幅通知、设置单个应用的通知方式（如置顶显示通知、提醒方式、响铃等）。
-
-
 
 

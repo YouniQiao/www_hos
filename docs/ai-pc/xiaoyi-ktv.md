@@ -6,7 +6,7 @@ last_update:
 
 # AI智慧伴唱，随时K歌
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_SoundVocal.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_SoundVocal.png" width="720" height=""/>
 
 使用 AI 音效实时分离音乐中的人声和背景伴奏，智能突显音乐伴奏或人声，随时享受 K 歌体验。
 

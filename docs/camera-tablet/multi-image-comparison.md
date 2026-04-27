@@ -13,13 +13,13 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入图库，在照片页签或相册中，点击右上角多选进入选择模式。
-    
+
 2.  勾选图片后，点击左下方<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/ic_gallery_compare.png" width="24" height="24"/>对比，所选图片会同屏显示。
-    
+
 3.  双指张开或捏合图片，可同步缩放所有图片，也可点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/ic_gallery_comparison.png" width="24" height="24"/>取消同步，单独缩放某一张图片。
-    
+
 4.  对比差异后，可删除或保留图片。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

@@ -6,7 +6,7 @@ last_update:
 
 # 数据克隆，换机数据迁移
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_DataClone.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_DataClone.png" width="720" height=""/>
 
 使用数据克隆，将旧电脑上的基础数据（如文档、图片、应用等）迁移至新电脑，简单快速、换机无忧。
 
@@ -25,7 +25,5 @@ last_update:
 +   Windows 系统电脑（旧电脑）需支持无线网卡功能（博通网卡、Wireless-AC 3165 网卡除外）。
 +   Windows 系统电脑（旧电脑）仅 Windows 10（64 位）/ Windows 11（64 位） 系统支持 PC 克隆。
 +   部分数据和应用不支持迁移，请以实际情况为准。
-
-
 
 

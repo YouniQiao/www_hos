@@ -6,7 +6,7 @@ last_update:
 
 # 全新小艺，随心唤醒
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_celia_wakeup.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_celia_wakeup.png" width="720" height=""/>
 
 多种方式，随心唤醒小艺，快速获取问题的答案、创建日程、更改系统设置等。
 

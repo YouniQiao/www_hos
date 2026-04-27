@@ -13,11 +13,11 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入设置 > 系统 > 智感支付，根据界面提示开启智感支付开关。
-    
+
 2.  返回主屏幕，将屏幕上半部分对准扫码设备，手机识别后将轻微振动并弹出付款码。
-    
+
 3.  扫码设备扫描付款码后，按界面提示完成支付。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 

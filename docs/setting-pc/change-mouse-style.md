@@ -6,7 +6,7 @@ last_update:
 
 # 更改鼠标光标样式
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_mouse.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_mouse.png" width="720" height=""/>
 
 您可根据需要，更改光标速度、颜色、大小等，使光标易于查看、使用。
 
@@ -16,7 +16,5 @@ last_update:
 
 +   拖动滑块调节光标速度或滚动速度。
 +   更改光标填充颜色、光标大小。
-
-
 
 

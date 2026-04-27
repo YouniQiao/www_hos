@@ -23,4 +23,3 @@ last_update:
 此功能目前仅支持在 HarmonyOS 5 及以上版本的设备间使用。
 
 
-

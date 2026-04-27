@@ -6,7 +6,7 @@ last_update:
 
 # 快速查看文件
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_FileManager_preview.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_FileManager_preview.png" width="720" height=""/>
 
 使用文件预览，快速查看文件详情，无需打开其他应用服务。
 

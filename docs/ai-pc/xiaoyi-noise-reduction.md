@@ -6,7 +6,7 @@ last_update:
 
 # AI 智能降噪，让沟通更清晰
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_SoundEffects.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_SoundEffects.png" width="720" height=""/>
 
 在喧嚣的环境中在线开会、上网课时，可开启 HUAWEI SOUND AI 音效，降低噪音干扰（如周围人声、键盘敲击声等）、增强人声，让您享受纯净音效体验。
 

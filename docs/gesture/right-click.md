@@ -17,4 +17,3 @@ last_update:
 单击桌面底部快捷栏中的![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/icon/appicon_filemanager.png)打开文件管理，光标移至待处理的文件图标区域，然后按压触控板右键调出快捷菜单，可执行复制、分享等操作。
 
 
-

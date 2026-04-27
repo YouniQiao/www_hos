@@ -9,7 +9,7 @@ last_update:
 <iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/video/vid_Keyboard_Fn_hotkey.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="720" height="540"> </iframe>
 
 快捷键以使用热键模式
- 
+
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 在热键模式下（Fn 键指示灯熄灭时），通过以下方式快捷调节屏幕亮度或音量。

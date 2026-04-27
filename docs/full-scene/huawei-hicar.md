@@ -13,11 +13,11 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  从手机屏幕顶部右侧下滑出控制中心，打开蓝牙和 WLAN 开关。
-    
+
 2.  点击车机屏幕上的 HUAWEI HiCar 图标，也可以长按或短按方向盘上的语音按键（取决于您的车型）。
-    
+
 3.  按照车机屏幕和手机提示操作，如：输入连接码等，完成连接。
-    
+
 4.  如需断开连接，点击手机上的实况胶囊驾驶中，点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202509181mmlk4/zh-cn/image/common/buttons/ic_connection_off.png" width="24" height="24"/>。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示

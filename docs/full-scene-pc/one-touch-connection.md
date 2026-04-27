@@ -6,7 +6,7 @@ last_update:
 
 # 一碰连接电脑和手机
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_pc_TouchConnect.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_pc_TouchConnect.png" width="720" height=""/>
 
 轻轻一碰，快速连接电脑和手机。协同连接后，在电脑上使用键鼠操控手机（如拖拽互传文件、复制粘贴文本、编辑手机文件等），助您高效办公。
 

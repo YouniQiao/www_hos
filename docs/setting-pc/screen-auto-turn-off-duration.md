@@ -6,7 +6,7 @@ last_update:
 
 # 设置屏幕自动熄屏时长
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_ScreenSleep_time.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_ScreenSleep_time.png" width="720" height=""/>
 
 一段时间不操作电脑时，电脑将自动熄屏。您可根据需要，更改自动熄屏的时长。
 

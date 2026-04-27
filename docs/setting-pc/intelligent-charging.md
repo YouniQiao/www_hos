@@ -6,7 +6,7 @@ last_update:
 
 # 智能充电，延长电池使用寿命
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_SmartCharging.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_SmartCharging.png" width="720" height=""/>
 
 开启智能充电模式，系统会自动学习您的充电习惯，进行智能充电管理，避免电池长时间处于满电状态，以延缓电池老化速度和延长电池使用寿命。
 
@@ -18,7 +18,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 智能充电模式与自定义充电模式只能二选一，建议您根据实际需求选择合适的充电模式。
-
-
 
 

@@ -6,7 +6,7 @@ last_update:
 
 # 无线投屏，畅享大屏体验
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_wireless_projection.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_wireless_projection.png" width="720" height=""/>
 
 无需连线，将电脑屏幕快速投送至大屏设备，让办公、娱乐更畅快。
 

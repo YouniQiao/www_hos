@@ -30,9 +30,9 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>HarmonyOS 5及以上版本的华为手机暂不支持此功能。
 
 1.  在手机端智慧生活App **首页**，选择对应的智慧屏卡片，点击 功能 > 畅连通话，进入畅连通话详情界面。
-    
-    
+
+
     <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>点击智慧屏卡片，WiFi环境下会自动同时下载智慧屏插件和畅连通话插件，数据流量环境会提示是否下载应用插件。
-    
+
 
 2.  根据界面提示，点击立即开启。（如果是首次注册，请根据引导页面进行注册）。

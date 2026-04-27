@@ -6,7 +6,7 @@ last_update:
 
 # 拖入小艺，提取图片信息
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_TableExtraction.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_TableExtraction.png" width="720" height=""/>
 
 您可将包含表格或文字内容的图片，将其拖入小艺，让小艺帮您快速生成表格文件或提取文字。
 

@@ -6,7 +6,7 @@ last_update:
 
 # 小艺字幕，声音实时转为字幕
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_subtitles.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_subtitles.png" width="720" height=""/>
 
 在电脑上聆听外文音乐或观看外文视频时，可启用小艺字幕，将播放的声音实时转为目标语言文字，并以字幕形式显示在电脑桌面，让您畅享外文视听盛宴、语言理解无障碍。
 
@@ -22,6 +22,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 小艺字幕仅支持部分语种，请以实际情况为准。
-
 
 

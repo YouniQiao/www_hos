@@ -16,15 +16,15 @@ last_update:
 ## 进入手机遥控器
 
 1.  在手机端智慧生活App首页选择对应的智慧屏卡片，点击功能 > 遥控器，进入手机遥控器控制界面。
-    
+
     ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002460514158.png)
-    
+
 2.  通过点击界面图标可实现以下功能：
-    
+
     +   快进/快退：用手指在滑动页面区域左/右滑动可实现快进/快退。
     +   音量调节：点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002493749613.png" width="24" height="24"/>按键，会弹出下拉框，可以滑动调节音量条来调节智慧屏音量大小。
     +   熄屏/亮屏：点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002460790060.png" width="24" height="24"/>按键，可对智慧屏进行熄屏/亮屏。
     +   移动光标：点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002493869537.png" width="24" height="24"/>按键，可完成光标移动和点击操作。
     +   返回主界面：点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002493752157.png" width="24" height="24"/>按键，可回到系统主界面
-    
+
     ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002493633669.png)

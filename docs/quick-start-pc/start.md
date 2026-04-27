@@ -6,7 +6,7 @@ last_update:
 
 # 开盖即开机，快速启动电脑
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_OpenCover_start.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_settings_OpenCover_start.png" width="720" height=""/>
 
 无需点按电源键，开盖即开机，减少您的开机等待时间。
 
@@ -20,6 +20,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 此功能默认关闭，新机首次开机不支持开盖开机。
-
 
 

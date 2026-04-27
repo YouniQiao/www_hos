@@ -14,7 +14,7 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入设置 > 健康使用设备，点击开启未成年人模式，设置密码和密保问题。
-    
+
 2.  在健康使用设备页面，可管理屏幕使用时间和内容访问。
-    
+
 3.  打开部分视频类应用时，默认进入未成年人模式。

@@ -16,14 +16,14 @@ last_update:
 
 1.  在手机端打开 智慧生活App ，在App首页选择对应的智慧屏卡片，选择功能 > 亲情互动 > 远程协助，手机将向该智慧屏发起远程协助。
 2.  智慧屏收到远程协助提醒后，选择√同意，此时在智慧屏弹框中选择允许。智慧屏端完成操作后，手机端自动切换到远程协助界面。
-    
+
     ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002455938853.png)
-    
+
     <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>配图仅供参考，请以产品实际为准。
-    
+
 3.  您可以在手机上通过触控方式操作智慧屏，可进行开关麦克风，开启控制中心，退出协助等操作。
-    
-     
+
+
     | 图标| 功能|
     | --- | --- |
     | ![](https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/zh-cn_image_0000002429134058.png)| 退出远程协助|

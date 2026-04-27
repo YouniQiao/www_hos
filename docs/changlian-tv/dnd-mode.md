@@ -24,9 +24,9 @@ last_update:
 您也可以自由设置智慧屏熄屏勿扰时段：
 
 1.  在智慧屏桌面进入畅连 > 右上角头像 > 勿扰模式。
-    
+
     您还可以在智慧屏桌面进入设置 > 畅连通信 > 勿扰模式。
-    
+
 2.  在熄屏勿扰设置中点击熄屏勿扰时段，设置开始和结束时间。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/V0FM/zh-CN/images/icon-note.svg" width="24" height="24"/>当熄屏勿扰开关设置为关闭状态时，将全天支持畅连通话熄屏来电提醒。

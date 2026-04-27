@@ -14,7 +14,7 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  在桌面上双指捏合，点击卡片，点击推荐卡片或应用名称。
-    
+
 2.  左右滑动选择喜欢的卡片样式，点击添加至桌面。
 
 

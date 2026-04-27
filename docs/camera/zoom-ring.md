@@ -13,7 +13,7 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 +   点击快捷变焦倍数，可直接快速切换焦距。
-    
+
 +   按住快捷变焦倍数，在展开的变焦环区域中，左右（竖屏时）或上下（横屏时）滑动，快速调节焦距。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示

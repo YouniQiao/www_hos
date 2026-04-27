@@ -22,4 +22,3 @@ last_update:
 此功能要求双方手机升级至 HarmonyOS 5 及以上版本，多人分享需发送端设备支持 HarmonyOS 6 及以上版本。
 
 
-

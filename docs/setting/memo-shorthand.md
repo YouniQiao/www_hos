@@ -23,4 +23,3 @@ last_update:
 +   首次使用速记功能时，需从屏幕顶部右侧下滑出控制中心，点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_controlpanel_edit.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_quickswitch_add.png" width="24" height="24"/> 展开快捷开关面板，点击速记上的 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_quickswitch_add1.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_choose_done.png" width="24" height="24"/> 将其添加到控制中心。
 
 
-

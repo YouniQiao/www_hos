@@ -15,4 +15,3 @@ last_update:
 点按（键盘上）鸿蒙键![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/keyboard/HM_keyboard_OH_1.png) + C 组合键，打开控制中心，可快速更改设置，例如拖动![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/ic_public_brightness_filled.png)滑块调节屏幕亮度、单击![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_public_hwshare.png)开启/关闭华为分享。再次点按可关闭。
 
 
-

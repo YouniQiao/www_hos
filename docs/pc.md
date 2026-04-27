@@ -6,7 +6,7 @@ last_update:
 
 # 玩转鸿蒙电脑
 
-<img src="/img/pc.png" width="480" height=""/> 
+<img src="/img/pc.png" width="480" height=""/>
 
 通过以下链接快速访问对应的内容分类：
 

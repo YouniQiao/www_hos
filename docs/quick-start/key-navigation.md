@@ -17,7 +17,7 @@ last_update:
 +   点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512240Vrnk1/zh-cn/image/common/buttons/navigation_back.png" width="24" height="24"/> ，返回上一级。
 +   点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512240Vrnk1/zh-cn/image/common/buttons/navigation_home.png" width="24" height="24"/> ，返回桌面。
 +   点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512240Vrnk1/zh-cn/image/common/buttons/navigation_task.png" width="24" height="24"/> ，查看最近任务。
-    
+
 +   长按三键导航栏并横向拖动，可调整位置。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示

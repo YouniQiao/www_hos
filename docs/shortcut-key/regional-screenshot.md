@@ -15,4 +15,3 @@ last_update:
 点按（键盘上）鸿蒙键![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/keyboard/HM_keyboard_OH_1.png) + Shift + S 组合键，光标变成![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/HM_screenshot_partial_cursor.png)后移至待截取区域的起始位置，单指按压触控板（或鼠标左键）并移动，确定截取区域后松开手指。
 
 
-

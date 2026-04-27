@@ -23,12 +23,12 @@ last_update:
 在桌面向上滑动，进入应用中心：
 
 +   搜索或查找应用，可直接打开使用。
-    
+
 +   长按应用并拖拽至桌面，可将其添加至桌面。
-    
+
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 +   使用该功能前，请将您的设备升级到最新版本。
-    
+
 +   若选择卸载应用，则将从桌面和应用中心同步卸载，无法在应用中心重新查找使用。

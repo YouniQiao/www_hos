@@ -7,7 +7,7 @@ last_update:
 # 多设备通信能力共享
 
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_CommunicationSharing.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_CommunicationSharing.png" width="720" height=""/>
 
 开启通信共享，在电脑无网络或网络不佳时，可共享手机移动网络，随时随地便捷上网。您还可以在使用电脑时，共享手机的移动通信能力接打电话和收发短信。
 
@@ -30,7 +30,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 目前仅支持设备间一对一通信共享。
-
-
 
 

@@ -15,8 +15,8 @@ last_update:
 1.  在图库中，选择要编辑的照片，点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/ic_edit.png" width="24" height="24"/> > AI 修图 > 消除。
 2.  根据需要，选择一种消除方式：
     +   智选：在要消除的对象内部画线，点击一键消除。
-        
+
     +   手动：滑动滑块或点击选择消除笔的粗细，在要消除的对象上涂抹，点击一键消除。为提升效果，对要消除的整个物体，需要一次完成涂抹。
-        
+
 3.  点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24"/>保存照片。
 

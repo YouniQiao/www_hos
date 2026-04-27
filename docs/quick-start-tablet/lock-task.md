@@ -9,7 +9,6 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202508111clkwd/zh-cn/image/figure/20005697_f001_LockingTasks.png" width="560" height=""/>
 
 
-
 在多任务中心锁定任务，方便快速启用，同时可避免被一键清理。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法

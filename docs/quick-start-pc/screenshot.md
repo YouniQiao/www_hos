@@ -6,7 +6,7 @@ last_update:
 
 # 轻松截屏，定格精彩瞬间
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ScreenShot.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_ScreenShot.png" width="720" height=""/>
 
 多种截屏方式，轻松截取屏幕精彩内容。
 
@@ -28,10 +28,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
 截屏文件默认保存在图库的来自应用 > 截图中。
-
-
-
-
-
 
 

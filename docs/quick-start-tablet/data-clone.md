@@ -15,7 +15,7 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  在新平板上，进入设置 > 系统 > 数据克隆，点击这是新设备，并选择旧设备类型。
-    
+
 2.  在旧平板上，打开克隆应用，点击这是旧设备，然后扫码建立连接。
-    
+
 3.  选择需要迁移的数据，根据界面提示完成克隆。

@@ -15,4 +15,3 @@ last_update:
 点按（键盘上）鸿蒙键![](https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/keyboard/HM_keyboard_OH_1.png) + ? 组合键，打开快捷键提示面板，了解更多快捷键操作。再次点按可关闭。
 
 
-

@@ -6,7 +6,7 @@ last_update:
 
 # 使用应用中心
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AppCenter.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AppCenter.png" width="720" height=""/>
 
 应用中心集合了电脑中所有已安装的应用，并提供搜索功能，便于您快速查看、操作应用。
 
@@ -24,7 +24,5 @@ last_update:
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 应用市场上架的应用持续更新中，请以实际情况为准。
-
-
 
 

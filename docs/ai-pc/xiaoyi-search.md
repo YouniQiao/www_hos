@@ -7,7 +7,7 @@ last_update:
 # 小艺搜索，一搜即得
 
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_search.png" width="720" height=""/> 
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/figure/fig_AI_search.png" width="720" height=""/>
 
 小艺搜索不仅支持文件名、文件内容的搜索，还支持多维度属性组合和复杂语义的搜索。一按即搜，搜索结果智能分类、一触即览。
 

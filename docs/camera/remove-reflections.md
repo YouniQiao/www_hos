@@ -13,5 +13,5 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  在图库中，选择要编辑的照片，点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202504042smqrg/zh-cn/image/common/buttons/ic_edit.png" width="24" height="24"/> > AI 修图 > 去反光。
-    
+
 2.  点击一键去除，生成后点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202504042smqrg/zh-cn/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24"/>，根据提示保存照片。

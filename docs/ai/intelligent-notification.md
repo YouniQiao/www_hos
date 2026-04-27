@@ -14,7 +14,7 @@ last_update:
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
 1.  进入设置 > 生物识别和密码 > 人脸识别，根据界面提示录入人脸信息，开启人脸解锁。
-    
+
 2.  进入设置 > 通知和状态栏 > 更多设置，开启智能提醒开关。
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
