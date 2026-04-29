@@ -11,7 +11,7 @@ last_update:
 应用卡片设置，如添加卡片或
 ## 添加卡片
 1. 在手表表盘界面左滑屏幕进入卡片页面，长按任意卡片进入卡片编辑页面。
-2. 点击卡片下方的 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0EB/zh-CN/zh-cn_image_0000002200805644.png" width="24" /> ，。
+2. 点击卡片下方的 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0EB/zh-CN/zh-cn_image_0000002200805644.png" width="24" /> 。
 
 3. 点击上键保存，在手表表盘界面左滑屏幕可查看添加的卡片。
 ## 编辑组合卡片

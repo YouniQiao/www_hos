@@ -878,7 +878,6 @@ const sidebars = {
         'wearable-quickstart/pair-ios',
         'wearable-quickstart/pair-android',
         'wearable-quickstart/replace-new-phone',
-        'wearable-quickstart/replace-phone-gt6',
         'wearable-quickstart/dual-mode',
         'wearable-quickstart/connect-network',
         'wearable-quickstart/custom-card',
