@@ -11,6 +11,11 @@ export default function ContentUpdates() {
       date: "2026-09-15",
       items: [
         {
+          text: "HarmonyOS 7.0 探索页面上线",
+          link: "/hmos70",
+          category: "网站页面"
+        },
+        {
           text: "更新支持机型，新增 HarmonyOS 7 支持机型（含音频、智慧生活分类）",
           link: "/support-device",
           category: "网站页面"
