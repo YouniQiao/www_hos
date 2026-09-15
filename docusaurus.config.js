@@ -21,7 +21,11 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "zh",
-    locales: ["zh"],
+    locales: ["zh", "en"],
+    localeConfigs: {
+      zh: { label: "简体中文", htmlLang: "zh-Hans" },
+      en: { label: "English", htmlLang: "en" },
+    },
   },
   scripts: [
     {src: 'https://hm.baidu.com/hm.js?14831dd539c30be31abf43fcc7170e9d',  async: true},
@@ -219,6 +223,10 @@ const config = {
           
           {
             type: 'search',
+            position: 'right',
+          },
+          {
+            type: 'localeDropdown',
             position: 'right',
           },
           {

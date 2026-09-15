@@ -1,0 +1,126 @@
+{
+  "title": {
+    "message": "HarmonyOS",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "HarmonyOS",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.探索": {
+    "message": "Explore",
+    "description": "Navbar item with label 探索"
+  },
+  "item.label.核心特征": {
+    "message": "Features",
+    "description": "Navbar item with label 核心特征"
+  },
+  "item.label.选择": {
+    "message": "Choose",
+    "description": "Navbar item with label 选择"
+  },
+  "item.label.玩转设备": {
+    "message": "Devices",
+    "description": "Navbar item with label 玩转设备"
+  },
+  "item.label.博客": {
+    "message": "Blog",
+    "description": "Navbar item with label 博客"
+  },
+  "item.label.更新记录": {
+    "message": "Release Notes",
+    "description": "Navbar item with label 更新记录"
+  },
+  "item.label.Developer": {
+    "message": "Developer",
+    "description": "Navbar item with label Developer"
+  },
+  "item.label.HarmonyOS 7.0": {
+    "message": "HarmonyOS 7.0",
+    "description": "Navbar item with label HarmonyOS 7.0"
+  },
+  "item.label.HarmonyOS 6.1": {
+    "message": "HarmonyOS 6.1",
+    "description": "Navbar item with label HarmonyOS 6.1"
+  },
+  "item.label.HarmonyOS 6.0": {
+    "message": "HarmonyOS 6.0",
+    "description": "Navbar item with label HarmonyOS 6.0"
+  },
+  "item.label.HarmonyOS 5.1": {
+    "message": "HarmonyOS 5.1",
+    "description": "Navbar item with label HarmonyOS 5.1"
+  },
+  "item.label.HarmonyOS 5.0": {
+    "message": "HarmonyOS 5.0",
+    "description": "Navbar item with label HarmonyOS 5.0"
+  },
+  "item.label.使用Android应用": {
+    "message": "Use Android Apps",
+    "description": "Navbar item with label 使用Android应用"
+  },
+  "item.label.使用海外应用": {
+    "message": "Use Overseas Apps",
+    "description": "Navbar item with label 使用海外应用"
+  },
+  "item.label.原生精致": {
+    "message": "Native Refinement",
+    "description": "Navbar item with label 原生精致"
+  },
+  "item.label.原生互联": {
+    "message": "Native Interconnect",
+    "description": "Navbar item with label 原生互联"
+  },
+  "item.label.原生智能": {
+    "message": "Native Intelligence",
+    "description": "Navbar item with label 原生智能"
+  },
+  "item.label.原生安全": {
+    "message": "Native Security",
+    "description": "Navbar item with label 原生安全"
+  },
+  "item.label.原生流畅": {
+    "message": "Native Smoothness",
+    "description": "Navbar item with label 原生流畅"
+  },
+  "item.label.原生应用": {
+    "message": "Native Apps",
+    "description": "Navbar item with label 原生应用"
+  },
+  "item.label.为什么选择HarmonyOS": {
+    "message": "Why HarmonyOS",
+    "description": "Navbar item with label 为什么选择HarmonyOS"
+  },
+  "item.label.迁移至HarmonyOS": {
+    "message": "Migrate to HarmonyOS",
+    "description": "Navbar item with label 迁移至HarmonyOS"
+  },
+  "item.label.支持机型": {
+    "message": "Supported Devices",
+    "description": "Navbar item with label 支持机型"
+  },
+  "item.label.手机": {
+    "message": "Phone",
+    "description": "Navbar item with label 手机"
+  },
+  "item.label.平板": {
+    "message": "Tablet",
+    "description": "Navbar item with label 平板"
+  },
+  "item.label.电脑": {
+    "message": "PC",
+    "description": "Navbar item with label 电脑"
+  },
+  "item.label.穿戴": {
+    "message": "Wearable",
+    "description": "Navbar item with label 穿戴"
+  },
+  "item.label.智慧屏": {
+    "message": "HUAWEI Vision",
+    "description": "Navbar item with label 智慧屏"
+  },
+  "item.label.智能座舱": {
+    "message": "Smart Cockpit",
+    "description": "Navbar item with label 智能座舱"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "link.title.更新记录": {
+    "message": "Release Notes",
+    "description": "The title of the footer links column with title=更新记录 in the footer"
+  },
+  "link.item.label.更新记录": {
+    "message": "Release Notes",
+    "description": "The label of footer link with label=更新记录 linking to /update"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 HarmonyOS Cool.",
+    "description": "The footer copyright"
+  }
+}
