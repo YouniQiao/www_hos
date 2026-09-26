@@ -1,5 +1,5 @@
 # Native Connectivity
-HarmonyOS NEXT is built on the new distributed soft bus. Through collaboration across software, hardware, devices, and the cloud, it delivers 3x faster cross-device connections at lower power consumption and can connect up to 4 devices simultaneously. It enables a range of cross-device experiences, including cross-device scanning, cross-device Gallery, and a cross-device clipboard. With proximity sensing, simply bring two devices close together and tap to quickly share photos, Taobao links, Bilibili videos, or team up for a run on KEEP.
+HarmonyOS is built on the new distributed soft bus. Through collaboration across software, hardware, devices, and the cloud, it delivers 3x faster cross-device connections at lower power consumption and can connect up to 4 devices simultaneously. It enables a range of cross-device experiences, including cross-device scanning, cross-device Gallery, and a cross-device clipboard. With proximity sensing, simply bring two devices close together and tap to quickly share photos, Taobao links, Bilibili videos, or team up for a run on KEEP.
 
 ## Share Anytime
 

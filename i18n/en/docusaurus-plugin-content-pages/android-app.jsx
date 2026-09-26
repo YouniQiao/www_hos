@@ -6,11 +6,11 @@ import "@site/src/pages/UsingAndroidApps.css";
 const UsingAndroidApps = () => {
   const { siteConfig } = useDocusaurusContext();
 
-  // Zhuoyitong Features Overview
+  // DroiTong Features Overview
   const features = [
   {
     title: "App Compatibility",
-    description: "With Zhuoyitong technology, HarmonyOS NEXT can run some Android apps with compatibility.",
+    description: "With DroiTong technology, HarmonyOS can run some Android apps with compatibility.",
     icon: "🔄"
   },
   {
@@ -34,15 +34,15 @@ const UsingAndroidApps = () => {
   const usageSteps = [
   {
     step: "1",
-    title: "Install the Zhuoyitong Environment",
-    description: "After installing Zhuoyitong from AppGallery, the Zhuoyitong runtime environment is installed automatically on first use.",
+    title: "Install the DroiTong Environment",
+    description: "After installing DroiTong from AppGallery, the DroiTong runtime environment is installed automatically on first use.",
     tip: "Make sure the device has enough storage space (about 2-3 GB).",
     url: "/img/android2.jpg"
   },
   {
     step: "2",
     title: "Get Android Apps",
-    description: "Get Android apps from AppGallery, the in-app Zhuoyitong store, or on your own.",
+    description: "Get Android apps from AppGallery, the in-app DroiTong store, or on your own.",
     tip: "We recommend choosing verified apps from AppGallery first.",
     url: "/img/android1.jpg"
   },
@@ -65,34 +65,34 @@ const UsingAndroidApps = () => {
   // FAQ
   const faqs = [
   {
-    question: "What is Zhuoyitong?",
-    answer: "Zhuoyitong is a compatibility layer technology in HarmonyOS NEXT that allows some Android apps to run on HarmonyOS, providing transitional app compatibility support for users."
+    question: "What is DroiTong?",
+    answer: "DroiTong is a compatibility layer technology in HarmonyOS that allows some Android apps to run on HarmonyOS, providing transitional app compatibility support for users."
   },
   {
     question: "Can all Android apps run on HarmonyOS?",
-    answer: "Not all Android apps run perfectly. HUAWEI provides compatibility support for most common Android apps through Zhuoyitong technology, but some apps may have feature limitations or performance issues."
+    answer: "Not all Android apps run perfectly. HUAWEI provides compatibility support for most common Android apps through DroiTong technology, but some apps may have feature limitations or performance issues."
   },
   {
     question: "Will using Android apps affect system security?",
-    answer: "Android apps run in Zhuoyitong's secure sandbox environment, isolated from the HarmonyOS core system, so they do not affect overall system security."
+    answer: "Android apps run in DroiTong's secure sandbox environment, isolated from the HarmonyOS core system, so they do not affect overall system security."
   },
   {
-    question: "Is Zhuoyitong a permanent solution?",
-    answer: "Zhuoyitong is a transitional solution designed to help users migrate smoothly from the Android ecosystem to the HarmonyOS ecosystem. In the long run, developers are advised to build HarmonyOS native apps."
+    question: "Is DroiTong a permanent solution?",
+    answer: "DroiTong is a transitional solution designed to help users migrate smoothly from the Android ecosystem to the HarmonyOS ecosystem. In the long run, developers are advised to build HarmonyOS native apps."
   }];
 
 
   return (
     <Layout
-      title="Using Android apps on HarmonyOS NEXT."
-      description="Learn how to use Android apps on HarmonyOS NEXT via Zhuoyitong technology.">
+      title="Using Android apps on HarmonyOS."
+      description="Learn how to use Android apps on HarmonyOS via DroiTong technology.">
       <div className="android-apps-page">
         {/* Hero Section */}
         <section className="android-hero">
           <div className="container">
             <div className="hero-content">
-              <h1 className="hero-title">Using Android apps on HarmonyOS NEXT.</h1>
-              <p className="hero-subtitle">Use the Android apps you know on HarmonyOS with Zhuoyitong technology.</p>
+              <h1 className="hero-title">Using Android apps on HarmonyOS.</h1>
+              <p className="hero-subtitle">Use the Android apps you know on HarmonyOS with DroiTong technology.</p>
             </div>
           </div>
         </section>
@@ -101,12 +101,12 @@ const UsingAndroidApps = () => {
         <section className="features-section">
           <div className="container">
             <div className="section-header">
-              <h2>Zhuoyitong Features Overview</h2>
-              <p>Android app compatibility solution on HarmonyOS NEXT.</p>
+              <h2>DroiTong Features Overview</h2>
+              <p>Android app compatibility solution on HarmonyOS.</p>
             </div>
 
-            {/* Zhuoyitong Screenshots Section */}
-            <div className="zhuoyitong-screenshot">
+            {/* DroiTong Screenshots Section */}
+            <div className="droi-tong-screenshot">
               <img src="/img/android1.jpg" />
 
             </div>
@@ -132,7 +132,7 @@ const UsingAndroidApps = () => {
           <div className="container">
             <div className="section-header">
               <h2>Usage Guide</h2>
-              <p>Steps to use Android apps on HarmonyOS NEXT.</p>
+              <p>Steps to use Android apps on HarmonyOS.</p>
             </div>
 
             <div className="vertical-steps">
@@ -185,7 +185,7 @@ const UsingAndroidApps = () => {
             <div className="tips-content">
               <div className="tips-icon">ℹ️</div>
               <h2>Important Notes</h2>
-              <p>Zhuoyitong is a compatibility solution provided by HUAWEI to help users transition smoothly to the HarmonyOS ecosystem. Developers are advised to adapt HarmonyOS native apps as soon as possible for the best performance and user experience.</p>
+              <p>DroiTong is a compatibility solution provided by HUAWEI to help users transition smoothly to the HarmonyOS ecosystem. Developers are advised to adapt HarmonyOS native apps as soon as possible for the best performance and user experience.</p>
               <div className="tips-buttons">
                 <a href="https://developer.huawei.com/consumer/cn/doc/harmonyos-guides/application-dev-guide" target='_blank' className="dev-button">Developer Adaptation Guide</a>
                 <a href="https://developer.huawei.com/consumer/cn/" target='_blank' className="learn-button">Learn More</a>

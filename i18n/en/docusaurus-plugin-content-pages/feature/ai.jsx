@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-native-intelligence.module
 export default function HarmonyOSNativeIntelligence() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Native Intelligence"
-      description="Explore the native intelligence of HarmonyOS NEXT and experience Celia's innovative features in voice interaction, scenario awareness, and smart recommendations.">
+      title="HarmonyOS - Native Intelligence"
+      description="Explore the native intelligence of HarmonyOS and experience Celia's innovative features in voice interaction, scenario awareness, and smart recommendations.">
 
       <main className={styles.main}>
         {/* Hero Section */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNativeIntelligence() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>Smart companion, proactive service.</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT is built around native intelligence, making Celia your thoughtful digital assistant. Powered by advanced AI, Celia understands context, perceives scenarios, and anticipates needs, delivering an unprecedented intelligent experience.
+                HarmonyOS is built around native intelligence, making Celia your thoughtful digital assistant. Powered by advanced AI, Celia understands context, perceives scenarios, and anticipates needs, delivering an unprecedented intelligent experience.
 
               </p>
             </div>
@@ -290,7 +290,7 @@ export default function HarmonyOSNativeIntelligence() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>New Smart Living Experience</h2>
               <p className={styles.conclusionText}>
-                Celia is more than a voice assistant - it's a smart companion that understands your needs. With HarmonyOS NEXT's native intelligence, Celia provides thoughtful services in every aspect of your life, making technology truly serve people.
+                Celia is more than a voice assistant - it's a smart companion that understands your needs. With HarmonyOS's native intelligence, Celia provides thoughtful services in every aspect of your life, making technology truly serve people.
 
               </p>
               <div className={styles.intelligenceBadges}>

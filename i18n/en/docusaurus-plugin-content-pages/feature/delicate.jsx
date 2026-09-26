@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-next.module.css";
 export default function HarmonyOSNext() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Natively Refined"
-      description="Explore the natively refined features of HarmonyOS NEXT, including a unified design language, fluid motion, refined visuals, and innovative interactions.">
+      title="HarmonyOS - Natively Refined"
+      description="Explore the natively refined features of HarmonyOS, including a unified design language, fluid motion, refined visuals, and innovative interactions.">
 
       <main className={styles.main}>
         {/* Hero Section - update style to match other pages */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNext() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>Natively refined, defining the future experience</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT embraces a natively refined design philosophy to deliver a unified, fluid, and intelligent OS experience. From visuals to interactions, every detail is meticulously polished.
+                HarmonyOS embraces a natively refined design philosophy to deliver a unified, fluid, and intelligent OS experience. From visuals to interactions, every detail is meticulously polished.
 
               </p>
             </div>
@@ -140,7 +140,7 @@ export default function HarmonyOSNext() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>Opening a new chapter of native refinement</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT is more than an operating system — it is a relentless pursuit of the perfect experience. From design language to interaction innovation, every detail reflects a deep understanding of user needs and the ultimate display of technical strength.
+                HarmonyOS is more than an operating system — it is a relentless pursuit of the perfect experience. From design language to interaction innovation, every detail reflects a deep understanding of user needs and the ultimate display of technical strength.
 
               </p>
               <div className={styles.techBadges}>

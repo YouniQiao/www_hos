@@ -7,7 +7,7 @@ tags: [Apps]
 hide_table_of_contents: false
 ---
 
-As Huawei's brand-new operating system, HarmonyOS NEXT is fundamentally different from previous versions — it no longer supports Android APK apps and only runs native HarmonyOS apps (in .hap format). That delivers better security and performance, but it also means users have relatively few ways to install apps. Although AppGallery is rapidly expanding its HarmonyOS app ecosystem, there are still plenty of situations where we need to get apps from other sources:
+As Huawei's brand-new operating system, HarmonyOS is fundamentally different from previous versions — it no longer supports Android APK apps and only runs native HarmonyOS apps (in .hap format). That delivers better security and performance, but it also means users have relatively few ways to install apps. Although AppGallery is rapidly expanding its HarmonyOS app ecosystem, there are still plenty of situations where we need to get apps from other sources:
 
 * Installing apps that aren't yet available in AppGallery
 
@@ -15,7 +15,7 @@ As Huawei's brand-new operating system, HarmonyOS NEXT is fundamentally differen
 
 * Installing utility apps developed by the open-source community
 
-In this article, we'll walk through how to use the open-source Auto-Installer tool on GitHub to install third-party apps on a HarmonyOS NEXT device.
+In this article, we'll walk through how to use the open-source Auto-Installer tool on GitHub to install third-party apps on a HarmonyOS device.
 
 <!-- truncate -->
 
@@ -40,7 +40,7 @@ Before we begin, let's make sure the device is properly prepared:
 
 ### Download Auto-Installer
 
-Auto-Installer is an open-source tool built specifically for HarmonyOS NEXT that helps users install third-party HarmonyOS app packages (.hap files). It connects over HDC to install apps silently, bypassing the restrictions of the official app market.
+Auto-Installer is an open-source tool built specifically for HarmonyOS that helps users install third-party HarmonyOS app packages (.hap files). It connects over HDC to install apps silently, bypassing the restrictions of the official app market.
 
 You can download the exe installer from the GitHub repository at (a VPN is required): https://github.com/likuai2010/auto-installer
 

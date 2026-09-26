@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-native-fluidity.module.css
 export default function HarmonyOSNativeFluidity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Native Smoothness"
-      description="Explore the native smooth experience of HarmonyOS NEXT, including silky-smooth features such as fluid animations, instant response, intelligent scheduling, and performance optimization.">
+      title="HarmonyOS - Native Smoothness"
+      description="Explore the native smooth experience of HarmonyOS, including silky-smooth features such as fluid animations, instant response, intelligent scheduling, and performance optimization.">
 
       <main className={styles.main}>
         {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function HarmonyOSNativeFluidity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>Silky smooth, a revolutionary experience</h2>
               <p className={styles.sectionText}>
-                With native smoothness at its core, HarmonyOS NEXT delivers unprecedented operational fluidity through a deeply optimized system architecture and intelligent resource scheduling. From touch response to animation transitions, every moment is silky smooth.
+                With native smoothness at its core, HarmonyOS delivers unprecedented operational fluidity through a deeply optimized system architecture and intelligent resource scheduling. From touch response to animation transitions, every moment is silky smooth.
 
               </p>
             </div>
@@ -290,7 +290,7 @@ export default function HarmonyOSNativeFluidity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>A new level of smoothness</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT's native smooth experience redefines the fluidity standard for mobile operating systems. From the underlying architecture to the upper-level interactions, every detail has been meticulously optimized to deliver an unprecedented silky-smooth experience. Here, technology and art blend perfectly to create a seamless digital life.
+                HarmonyOS's native smooth experience redefines the fluidity standard for mobile operating systems. From the underlying architecture to the upper-level interactions, every detail has been meticulously optimized to deliver an unprecedented silky-smooth experience. Here, technology and art blend perfectly to create a seamless digital life.
 
 
               </p>

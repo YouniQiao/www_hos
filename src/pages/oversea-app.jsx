@@ -10,7 +10,7 @@ const OverseasApps = () => {
   const features = [
     {
       title: "海外应用兼容",
-      description: "通过出境易技术，在HarmonyOS NEXT上运行流行的海外应用",
+      description: "通过出境易技术，在HarmonyOS上运行流行的海外应用",
       icon: "🌍"
     },
     {
@@ -36,7 +36,7 @@ const OverseasApps = () => {
       step: "1",
       title: "安装出境易",
       description: "在华为应用市场中搜索并安装'出境易'应用",
-      tip: "确保设备已升级到HarmonyOS NEXT最新版本",
+      tip: "确保设备已升级到HarmonyOS最新版本",
       url:"/img/oversea2.png"
     },
     {
@@ -86,7 +86,7 @@ const OverseasApps = () => {
   const faqs = [
     {
       question: "出境易是什么？",
-      answer: "出境易是HarmonyOS NEXT上的兼容层解决方案，允许用户在纯血鸿蒙系统上运行海外Android应用，特别是那些依赖Google移动服务的应用:cite[7]。"
+      answer: "出境易是HarmonyOS上的兼容层解决方案，允许用户在纯血鸿蒙系统上运行海外Android应用，特别是那些依赖Google移动服务的应用:cite[7]。"
     },
     {
       question: "使用出境易需要额外付费吗？",
@@ -108,14 +108,14 @@ const OverseasApps = () => {
 
   return (
     <Layout
-      title="在HarmonyOS NEXT上使用海外应用"
-      description="了解如何通过出境易在HarmonyOS NEXT上使用海外流行应用">
+      title="在HarmonyOS上使用海外应用"
+      description="了解如何通过出境易在HarmonyOS上使用海外流行应用">
       <div className="overseas-apps-page">
         {/* 英雄区域 */}
         <section className="overseas-hero">
           <div className="container">
             <div className="hero-content">
-              <h1 className="hero-title">在HarmonyOS NEXT上使用海外应用</h1>
+              <h1 className="hero-title">在HarmonyOS上使用海外应用</h1>
               <p className="hero-subtitle">通过出境易技术，畅享全球流行应用和服务</p>
             </div>
           </div>
@@ -126,11 +126,11 @@ const OverseasApps = () => {
           <div className="container">
             <div className="section-header">
               <h2>出境易特性介绍</h2>
-              <p>HarmonyOS NEXT上的海外应用兼容解决方案</p>
+              <p>HarmonyOS上的海外应用兼容解决方案</p>
             </div>
             
             {/* 出境易截图区域 */}
-            <div className="chujingyi-screenshot">
+            <div className="easy-abroad-screenshot">
               <img src="/img/oversea2.png" />
              
             </div>
@@ -156,7 +156,7 @@ const OverseasApps = () => {
           <div className="container">
             <div className="section-header">
               <h2>使用指南</h2>
-              <p>在HarmonyOS NEXT上使用海外应用的步骤</p>
+              <p>在HarmonyOS上使用海外应用的步骤</p>
             </div>
             
             <div className="vertical-steps">

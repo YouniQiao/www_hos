@@ -5,8 +5,8 @@ import styles from './harmonyos-native-intelligence.module.css';
 export default function HarmonyOSNativeIntelligence() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生智能"
-      description="探索HarmonyOS NEXT系统的原生智能能力，体验智能小艺在语音交互、场景感知、智能推荐等方面的创新功能">
+      title="HarmonyOS - 原生智能"
+      description="探索HarmonyOS系统的原生智能能力，体验智能小艺在语音交互、场景感知、智能推荐等方面的创新功能">
       
       <main className={styles.main}>
         {/* Hero Section */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNativeIntelligence() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>智慧随行，主动服务</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 以原生智能为核心，让智能小艺成为您贴心的数字助手。
+                HarmonyOS 以原生智能为核心，让智能小艺成为您贴心的数字助手。
                 基于强大的AI能力，小艺能够理解上下文、感知场景、预测需求，提供前所未有的智能体验。
               </p>
             </div>
@@ -290,7 +290,7 @@ export default function HarmonyOSNativeIntelligence() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>智能生活新体验</h2>
               <p className={styles.conclusionText}>
-                智能小艺不仅仅是语音助手，更是懂你所需的智能伙伴。基于HarmonyOS NEXT的原生智能能力，
+                智能小艺不仅仅是语音助手，更是懂你所需的智能伙伴。基于HarmonyOS的原生智能能力，
                 小艺将在生活的每个场景中为您提供贴心服务，让科技真正为人服务。
               </p>
               <div className={styles.intelligenceBadges}>

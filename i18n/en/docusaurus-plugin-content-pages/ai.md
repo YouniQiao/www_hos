@@ -1,6 +1,6 @@
 # Native Intelligence
 
-Huawei is the first to integrate native AI capabilities into the operating system. Powered by the Pangu large model, Celia's capabilities have been comprehensively upgraded, with knowledge volume exceeding one trillion. Meanwhile, HarmonyOS NEXT debuts an AI voice restoration feature that repairs in real time the speech of people with speech impairments, so that those with speech difficulties can also "express themselves clearly" in face-to-face conversations. Technology never leaves anyone behind.
+Huawei is the first to integrate native AI capabilities into the operating system. Powered by the Pangu large model, Celia's capabilities have been comprehensively upgraded, with knowledge volume exceeding one trillion. Meanwhile, HarmonyOS debuts an AI voice restoration feature that repairs in real time the speech of people with speech impairments, so that those with speech difficulties can also "express themselves clearly" in face-to-face conversations. Technology never leaves anyone behind.
 
 ## All-New Celia
 

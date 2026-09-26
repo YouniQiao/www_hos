@@ -530,7 +530,7 @@ const SupportedDevices = () => {
   },
   {
     period: "Q4 2025 and later",
-    description: "More older models are gradually being adapted to expand the HarmonyOS NEXT ecosystem",
+    description: "More older models are gradually being adapted to expand the HarmonyOS ecosystem",
     devices: ["More older models are continuously updated"]
   },
   {
@@ -569,14 +569,14 @@ const SupportedDevices = () => {
 
   return (
     <Layout
-      title="HarmonyOS NEXT Supported Models"
-      description="View all phones, tablets, and wearables that support upgrading to HarmonyOS NEXT">
+      title="HarmonyOS Supported Models"
+      description="View all phones, tablets, and wearables that support upgrading to HarmonyOS">
       <div className="devices-page">
         {/* Hero Area */}
         <section className="devices-hero">
           <div className="container">
             <div className="hero-content">
-              <h1 className="hero-title">HarmonyOS NEXT Supported Models</h1>
+              <h1 className="hero-title">HarmonyOS Supported Models</h1>
               <p className="hero-subtitle">Explore Huawei devices that can upgrade to the next-generation operating system</p>
               <p className="device-date">Page last updated: 2026.9.15</p>
             </div>
@@ -786,7 +786,7 @@ const SupportedDevices = () => {
                 </div>
                 <div className="note-card">
                   <h3>App Compatibility</h3>
-                  <p>HarmonyOS NEXT does not support Android apps. Please make sure your frequently used apps have HarmonyOS versions.</p>
+                  <p>HarmonyOS does not support Android apps. Please make sure your frequently used apps have HarmonyOS versions.</p>
                 </div>
                 <div className="note-card">
                   <h3>Continuous Updates</h3>

@@ -10,7 +10,7 @@ const UsingAndroidApps = () => {
   const features = [
     {
       title: "应用兼容性",
-      description: "通过卓易通技术，HarmonyOS NEXT可以兼容运行部分Android应用",
+      description: "通过卓易通技术，HarmonyOS可以兼容运行部分Android应用",
       icon: "🔄"
     },
     {
@@ -66,7 +66,7 @@ const UsingAndroidApps = () => {
   const faqs = [
     {
       question: "卓易通是什么？",
-      answer: "卓易通是HarmonyOS NEXT中的兼容层技术，允许在HarmonyOS上运行部分Android应用，为用户提供过渡期的应用兼容性支持。"
+      answer: "卓易通是HarmonyOS中的兼容层技术，允许在HarmonyOS上运行部分Android应用，为用户提供过渡期的应用兼容性支持。"
     },
     {
       question: "所有Android应用都能在HarmonyOS上运行吗？",
@@ -84,14 +84,14 @@ const UsingAndroidApps = () => {
 
   return (
     <Layout
-      title="在HarmonyOS NEXT上使用Android应用"
-      description="了解如何在HarmonyOS NEXT上通过卓易通技术使用Android应用">
+      title="在HarmonyOS上使用Android应用"
+      description="了解如何在HarmonyOS上通过卓易通技术使用Android应用">
       <div className="android-apps-page">
         {/* 英雄区域 */}
         <section className="android-hero">
           <div className="container">
             <div className="hero-content">
-              <h1 className="hero-title">在HarmonyOS NEXT上使用Android应用</h1>
+              <h1 className="hero-title">在HarmonyOS上使用Android应用</h1>
               <p className="hero-subtitle">通过卓易通技术，在HarmonyOS上使用您熟悉的Android应用</p>
             </div>
           </div>
@@ -102,11 +102,11 @@ const UsingAndroidApps = () => {
           <div className="container">
             <div className="section-header">
               <h2>卓易通特性介绍</h2>
-              <p>HarmonyOS NEXT上的Android应用兼容解决方案</p>
+              <p>HarmonyOS上的Android应用兼容解决方案</p>
             </div>
             
             {/* 卓易通截图区域 */}
-            <div className="zhuoyitong-screenshot">
+            <div className="droi-tong-screenshot">
               <img src="/img/android1.jpg" />
              
             </div>
@@ -132,7 +132,7 @@ const UsingAndroidApps = () => {
           <div className="container">
             <div className="section-header">
               <h2>使用指南</h2>
-              <p>在HarmonyOS NEXT上使用Android应用的步骤</p>
+              <p>在HarmonyOS上使用Android应用的步骤</p>
             </div>
             
             <div className="vertical-steps">

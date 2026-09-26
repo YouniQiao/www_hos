@@ -109,7 +109,7 @@ const HarmonyOS51 = () => {
   return (
     <Layout
       title="HarmonyOS 5.1"
-      description="探索HarmonyOS NEXT 5.1版本的全新特性与改进">
+      description="探索HarmonyOS 5.1版本的全新特性与改进">
       <div className="harmonyos51-page">
         {/* 英雄区域 */}
         <section className="harmonyos51-hero">

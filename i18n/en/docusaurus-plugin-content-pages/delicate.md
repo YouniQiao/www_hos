@@ -1,6 +1,6 @@
 # Native Refinement
 
-HarmonyOS NEXT carries on the harmonious aesthetics of HarmonyOS. The physics rendering engine recreates the light, form, and color as well as the forces of space and time of the real world, bringing users a more immersive, more colorful, and more dynamic visual experience in every detail.
+HarmonyOS carries on the harmonious aesthetics of HarmonyOS. The physics rendering engine recreates the light, form, and color as well as the forces of space and time of the real world, bringing users a more immersive, more colorful, and more dynamic visual experience in every detail.
 
 ## Closer to the Real World
 

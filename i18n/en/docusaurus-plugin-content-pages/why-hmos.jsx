@@ -46,7 +46,7 @@ const WhyHarmonyOS = () => {
 
   return (
     <Layout
-      title="Why Choose HarmonyOS NEXT"
+      title="Why Choose HarmonyOS"
       description="A new-generation intelligent terminal operating system built for the Internet of Everything era.">
       <div className="harmony-page">
         {/* Hero Area */}
@@ -57,7 +57,7 @@ const WhyHarmonyOS = () => {
                 <div className="hero-content">
                   <h1 className="hero-title">
                     <span className="hero-title-text">{'Why choose'}</span>
-                    <span className="gradient-text">HarmonyOS NEXT</span>
+                    <span className="gradient-text">HarmonyOS</span>
                   </h1>
                   <p className="hero-subtitle">{'A new-generation all-scenario smart operating system that redefines the digital life experience.'}</p>
                   
@@ -86,7 +86,7 @@ const WhyHarmonyOS = () => {
         <section className="features-section" ref={featuresRef}>
           <div className="container">
             <div className="section-header">
-              <h2>{'HarmonyOS NEXT User Experience Advantages'}</h2>
+              <h2>{'HarmonyOS User Experience Advantages'}</h2>
               <p>{'Explore the brand-new digital life experience brought by the next-generation operating system.'}</p>
             </div>
             
@@ -128,7 +128,7 @@ const WhyHarmonyOS = () => {
               <div className="vs-badge">VS</div>
               
               <div className="comparison-item harmony">
-                <h4>HarmonyOS NEXT</h4>
+                <h4>HarmonyOS</h4>
                 <ul>
                   <li>{'Seamless cross-device collaboration'}</li>
                   <li>{'Services flow freely'}</li>
@@ -145,8 +145,8 @@ const WhyHarmonyOS = () => {
           <div className="container">
             <div className="vmall-content">
               <div className="vmall-text">
-                <h2>{'Experience HarmonyOS NEXT'}</h2>
-                <p>{'Visit VMall to purchase HUAWEI devices pre-installed with HarmonyOS NEXT and start an all-scenario smart life.'}</p>
+                <h2>{'Experience HarmonyOS'}</h2>
+                <p>{'Visit VMall to purchase HUAWEI devices pre-installed with HarmonyOS and start an all-scenario smart life.'}</p>
                 <a href="https://www.vmall.com" className="vmall-button" target="_blank" rel="noopener noreferrer">
                   {'Visit VMall'}
                 </a>

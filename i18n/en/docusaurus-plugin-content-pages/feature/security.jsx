@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-native-security.module.css
 export default function HarmonyOSNativeSecurity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Native Security"
-      description="Explore the native security capabilities of HarmonyOS NEXT, including security architecture, data protection, privacy security, payment security, and other comprehensive security protections.">
+      title="HarmonyOS - Native Security"
+      description="Explore the native security capabilities of HarmonyOS, including security architecture, data protection, privacy security, payment security, and other comprehensive security protections.">
 
       <main className={styles.main}>
         {/* Hero Section */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNativeSecurity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>Security first, privacy above all</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT is built around native security, establishing a comprehensive security protection system from chip to cloud. Through microkernel architecture, distributed security, and privacy protection technologies, it provides solid security for user data and applications.
+                HarmonyOS is built around native security, establishing a comprehensive security protection system from chip to cloud. Through microkernel architecture, distributed security, and privacy protection technologies, it provides solid security for user data and applications.
 
               </p>
             </div>
@@ -345,7 +345,7 @@ export default function HarmonyOSNativeSecurity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>A secure and trusted digital world</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT's native security capabilities create a secure and trusted digital environment for users. From chip-level security to cloud protection, from data protection to privacy security, every aspect is carefully designed so users can enjoy the convenience of technology without worry.
+                HarmonyOS's native security capabilities create a secure and trusted digital environment for users. From chip-level security to cloud protection, from data protection to privacy security, every aspect is carefully designed so users can enjoy the convenience of technology without worry.
 
 
               </p>

@@ -6,10 +6,10 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "HarmonyOS NEXT",
+  title: "HarmonyOS",
   titleDelimiter: " - ",
   tagline:
-    "HarmonyOS NEXT",
+    "HarmonyOS",
   url: "https://HarmonyOS.cool",
   baseUrl: "/",
   onBrokenLinks: "throw",

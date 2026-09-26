@@ -5,8 +5,8 @@ import styles from './harmonyos-native-fluidity.module.css';
 export default function HarmonyOSNativeFluidity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生流畅"
-      description="探索HarmonyOS NEXT系统的原生流畅体验，包括流畅动效、极速响应、智能调度、性能优化等丝滑体验特征">
+      title="HarmonyOS - 原生流畅"
+      description="探索HarmonyOS系统的原生流畅体验，包括流畅动效、极速响应、智能调度、性能优化等丝滑体验特征">
       
       <main className={styles.main}>
         {/* Hero Section */}
@@ -33,7 +33,7 @@ export default function HarmonyOSNativeFluidity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>丝滑流畅，体验革新</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 以原生流畅为核心，通过深度优化的系统架构和智能资源调度，
+                HarmonyOS 以原生流畅为核心，通过深度优化的系统架构和智能资源调度，
                 实现前所未有的操作流畅度。从触控响应到动画过渡，每一刻都如丝般顺滑。
               </p>
             </div>
@@ -290,7 +290,7 @@ export default function HarmonyOSNativeFluidity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>流畅新境界</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT 的原生流畅体验，重新定义了移动操作系统的流畅标准。
+                HarmonyOS 的原生流畅体验，重新定义了移动操作系统的流畅标准。
                 从底层架构到上层交互，每一个细节都经过精心优化，为用户带来前所未有的丝滑体验。
                 在这里，科技与艺术完美融合，创造出行云流水般的数字生活。
               </p>

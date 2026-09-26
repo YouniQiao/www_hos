@@ -5,8 +5,8 @@ import styles from './harmonyos-native-security.module.css';
 export default function HarmonyOSNativeSecurity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生安全"
-      description="探索HarmonyOS NEXT系统的原生安全能力，包括安全架构、数据保护、隐私安全、支付安全等全方位安全防护">
+      title="HarmonyOS - 原生安全"
+      description="探索HarmonyOS系统的原生安全能力，包括安全架构、数据保护、隐私安全、支付安全等全方位安全防护">
       
       <main className={styles.main}>
         {/* Hero Section */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNativeSecurity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>安全为本，隐私至上</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 以原生安全为核心，构建从芯片到云端的全方位安全防护体系。
+                HarmonyOS 以原生安全为核心，构建从芯片到云端的全方位安全防护体系。
                 通过微内核架构、分布式安全、隐私保护等技术，为用户数据和应用提供坚实的安全保障。
               </p>
             </div>
@@ -345,7 +345,7 @@ export default function HarmonyOSNativeSecurity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>安全可信的数字世界</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT 的原生安全能力，为用户构建了一个安全可信的数字环境。
+                HarmonyOS 的原生安全能力，为用户构建了一个安全可信的数字环境。
                 从芯片级安全到云端防护，从数据保护到隐私安全，每一个环节都经过精心设计，
                 让用户享受科技便利的同时，无后顾之忧。
               </p>

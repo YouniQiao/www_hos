@@ -530,7 +530,7 @@ const SupportedDevices = () => {
     },
 {
       period: "2025年第四季度及以后",
-      description: "更多老机型逐步适配，扩大HarmonyOS NEXT生态",
+      description: "更多老机型逐步适配，扩大HarmonyOS生态",
       devices: ["更多老款机型持续更新中"]
     },
 {
@@ -569,14 +569,14 @@ const SupportedDevices = () => {
 
   return (
     <Layout
-      title="HarmonyOS NEXT支持机型"
-      description="查看所有支持升级到HarmonyOS NEXT的手机、平板和穿戴设备">
+      title="HarmonyOS支持机型"
+      description="查看所有支持升级到HarmonyOS的手机、平板和穿戴设备">
       <div className="devices-page">
         {/* 英雄区域 */}
         <section className="devices-hero">
           <div className="container">
             <div className="hero-content">
-              <h1 className="hero-title">HarmonyOS NEXT 支持机型</h1>
+              <h1 className="hero-title">HarmonyOS 支持机型</h1>
               <p className="hero-subtitle">探索可升级到下一代操作系统的华为设备</p>
               <p className="device-date">本页面更新时间：2026.9.15</p>
             </div>
@@ -786,7 +786,7 @@ const SupportedDevices = () => {
                 </div>
                 <div className="note-card">
                   <h3>应用兼容性</h3>
-                  <p>HarmonyOS NEXT不支持Android应用，请确保常用应用已有HarmonyOS版本。</p>
+                  <p>HarmonyOS不支持Android应用，请确保常用应用已有HarmonyOS版本。</p>
                 </div>
                 <div className="note-card">
                   <h3>持续更新</h3>

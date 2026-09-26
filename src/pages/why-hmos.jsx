@@ -46,7 +46,7 @@ const WhyHarmonyOS = () => {
 
   return (
     <Layout
-      title="为什么选择HarmonyOS NEXT"
+      title="为什么选择HarmonyOS"
       description="新一代智能终端操作系统，为万物互联时代打造">
       <div className="harmony-page">
         {/* 英雄区域 */}
@@ -57,7 +57,7 @@ const WhyHarmonyOS = () => {
                 <div className="hero-content">
                   <h1 className="hero-title">
                     <span className="hero-title-text">为什么选择</span>
-                    <span className="gradient-text">HarmonyOS NEXT</span>
+                    <span className="gradient-text">HarmonyOS</span>
                   </h1>
                   <p className="hero-subtitle">新一代全场景智慧操作系统，重新定义数字生活体验</p>
                   
@@ -86,7 +86,7 @@ const WhyHarmonyOS = () => {
         <section className="features-section" ref={featuresRef}>
           <div className="container">
             <div className="section-header">
-              <h2>HarmonyOS NEXT 用户体验优势</h2>
+              <h2>HarmonyOS 用户体验优势</h2>
               <p>探索下一代操作系统带来的全新数字生活体验</p>
             </div>
             
@@ -128,7 +128,7 @@ const WhyHarmonyOS = () => {
               <div className="vs-badge">VS</div>
               
               <div className="comparison-item harmony">
-                <h4>HarmonyOS NEXT</h4>
+                <h4>HarmonyOS</h4>
                 <ul>
                   <li>跨设备无缝协同</li>
                   <li>服务自由流转</li>
@@ -145,8 +145,8 @@ const WhyHarmonyOS = () => {
           <div className="container">
             <div className="vmall-content">
               <div className="vmall-text">
-                <h2>体验 HarmonyOS NEXT</h2>
-                <p>前往VMall商城，选购预装HarmonyOS NEXT的华为设备，开启全场景智慧生活</p>
+                <h2>体验 HarmonyOS</h2>
+                <p>前往VMall商城，选购预装HarmonyOS的华为设备，开启全场景智慧生活</p>
                 <a href="https://www.vmall.com" className="vmall-button" target="_blank" rel="noopener noreferrer">
                   前往VMall商城
                 </a>

@@ -5,8 +5,8 @@ import styles from './harmonyos-native-connectivity.module.css';
 export default function HarmonyOSNativeConnectivity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生互联"
-      description="探索HarmonyOS NEXT系统的原生互联能力，包括跨端协同、统一播控、随时分享等创新功能">
+      title="HarmonyOS - 原生互联"
+      description="探索HarmonyOS系统的原生互联能力，包括跨端协同、统一播控、随时分享等创新功能">
       
       <main className={styles.main}>
         {/* Hero Section */}
@@ -32,7 +32,7 @@ export default function HarmonyOSNativeConnectivity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>万物互联，智慧协同</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 以原生互联为核心，打破设备边界，构建统一的数字世界。
+                HarmonyOS 以原生互联为核心，打破设备边界，构建统一的数字世界。
                 让手机、平板、电脑、智慧屏等设备协同工作，创造无缝的跨端体验。
               </p>
             </div>
@@ -237,7 +237,7 @@ export default function HarmonyOSNativeConnectivity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>连接创造价值</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT 的原生互联能力，让设备不再是孤立的个体，而是协同工作的智慧整体。
+                HarmonyOS 的原生互联能力，让设备不再是孤立的个体，而是协同工作的智慧整体。
                 从个人设备到智能家居，从办公场景到娱乐体验，连接让一切变得更简单、更智能。
               </p>
               <div className={styles.interconnectBadges}>

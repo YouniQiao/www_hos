@@ -86,7 +86,7 @@ function HomepageHeader() {
     <header className="hero hero--primary text-center">
       <div className="container text-center">
         <h1 className="hero__title mb-4">
-          {"HarmonyOS NEXT"}
+          {"HarmonyOS"}
         </h1>
         <div className="flex items-center justify-center">
           <p className="text-lg text-center text-slate-500">
@@ -113,7 +113,7 @@ function HomepageHeader() {
               <img
                 width={1054}
                 height={490}
-                alt="HarmonyOS NEXT"
+                alt="HarmonyOS"
                 src="/img/hero-banner.png" />
 
             </div>

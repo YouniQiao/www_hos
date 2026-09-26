@@ -109,7 +109,7 @@ const HarmonyOS51 = () => {
   return (
     <Layout
       title="HarmonyOS 5.1"
-      description="Explore the new features and improvements in HarmonyOS NEXT 5.1.">
+      description="Explore the new features and improvements in HarmonyOS 5.1.">
       <div className="harmonyos51-page">
         {/* Hero Area */}
         <section className="harmonyos51-hero">

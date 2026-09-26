@@ -1,4 +1,4 @@
-# HarmonyOS NEXT Supported Models
+# HarmonyOS Supported Models
 
 The specific models currently eligible for the early access upgrade have been announced. More models are coming soon, so stay tuned.
 

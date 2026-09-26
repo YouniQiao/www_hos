@@ -89,7 +89,7 @@ const MigrateToHarmonyOS = () => {
 
   return (
     <Layout
-      title="Migrate to HarmonyOS NEXT"
+      title="Migrate to HarmonyOS"
       description="Easily migrate from Android or iOS to HarmonyOS and enjoy a smarter all-scenario experience">
       <div className="migrate-page">
         {/* Hero area */}
@@ -98,7 +98,7 @@ const MigrateToHarmonyOS = () => {
             <div className="row">
               <div className="col col--6">
                 <div className="migrate-hero-content">
-                  <h1 className="migrate-hero-title">Easily migrate to <span className="gradient-text">HarmonyOS NEXT</span></h1>
+                  <h1 className="migrate-hero-title">Easily migrate to <span className="gradient-text">HarmonyOS</span></h1>
                   <p className="migrate-hero-subtitle">Seamlessly switch from Android or iOS and enjoy a smarter all-scenario experience</p>
                   <div className="device-badges">
                     <span className="device-badge android">Android</span>

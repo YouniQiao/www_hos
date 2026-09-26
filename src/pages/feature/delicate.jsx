@@ -5,8 +5,8 @@ import styles from './harmonyos-next.module.css';
 export default function HarmonyOSNext() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生精致"
-      description="探索HarmonyOS NEXT系统的原生精致特征，包括统一设计语言、流畅动效、精致视觉、创新交互等">
+      title="HarmonyOS - 原生精致"
+      description="探索HarmonyOS系统的原生精致特征，包括统一设计语言、流畅动效、精致视觉、创新交互等">
       
       <main className={styles.main}>
         {/* Hero Section - 更新与其他页面一致的风格 */}
@@ -31,7 +31,7 @@ export default function HarmonyOSNext() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>原生精致，定义未来体验</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 以原生精致的设计理念，构建统一、流畅、智能的操作系统体验，
+                HarmonyOS 以原生精致的设计理念，构建统一、流畅、智能的操作系统体验，
                 从视觉到交互，每一处细节都经过精心打磨。
               </p>
             </div>
@@ -140,7 +140,7 @@ export default function HarmonyOSNext() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>开启原生精致新篇章</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT 不仅是一个操作系统，更是对完美体验的执着追求。
+                HarmonyOS 不仅是一个操作系统，更是对完美体验的执着追求。
                 从设计语言到交互创新，每一处细节都体现着对用户需求的深度理解和技术实力的极致展现。
               </p>
               <div className={styles.techBadges}>

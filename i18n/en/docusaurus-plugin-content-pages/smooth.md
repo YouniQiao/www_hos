@@ -1,5 +1,5 @@
 # Native Smoothness
-HarmonyOS NEXT's new system architecture deeply integrates software, hardware, cloud, and the app ecosystem. With a fully upgraded HUAWEI Ark Engine, pure HarmonyOS saves 1.5 GB of RAM, boosts overall device performance by 30%, and extends battery life by nearly 1 hour. Through deep co-optimization of the system and apps, you get a smoother app experience — clearer in-app photos, faster video export, a smoother split-screen experience, and more realistic, stable gaming.
+HarmonyOS's new system architecture deeply integrates software, hardware, cloud, and the app ecosystem. With a fully upgraded HUAWEI Ark Engine, pure HarmonyOS saves 1.5 GB of RAM, boosts overall device performance by 30%, and extends battery life by nearly 1 hour. Through deep co-optimization of the system and apps, you get a smoother app experience — clearer in-app photos, faster video export, a smoother split-screen experience, and more realistic, stable gaming.
 
 ## Ark Engine
 

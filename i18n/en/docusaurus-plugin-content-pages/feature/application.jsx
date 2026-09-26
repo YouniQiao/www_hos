@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-native-apps.module.css";
 export default function HarmonyOSNativeApps() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Native Apps"
-      description="Explore the native app ecosystem of HarmonyOS NEXT, including app growth, developer support, ecosystem advantages, and future plans.">
+      title="HarmonyOS - Native Apps"
+      description="Explore the native app ecosystem of HarmonyOS, including app growth, developer support, ecosystem advantages, and future plans.">
 
       <main className={styles.main}>
         {/* Hero Section */}
@@ -32,7 +32,7 @@ export default function HarmonyOSNativeApps() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>A Thriving Native Ecosystem</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT has built a complete native app ecosystem, bringing together the wisdom and innovation of developers worldwide. From social entertainment to productivity tools, from lifestyle services to enterprise apps, the native app ecosystem is growing rapidly, delivering an exceptional experience for users.
+                HarmonyOS has built a complete native app ecosystem, bringing together the wisdom and innovation of developers worldwide. From social entertainment to productivity tools, from lifestyle services to enterprise apps, the native app ecosystem is growing rapidly, delivering an exceptional experience for users.
 
               </p>
             </div>
@@ -352,7 +352,7 @@ export default function HarmonyOSNativeApps() {
                 <div className={styles.outlookText}>
                   <h3 className={styles.outlookTitle}>All-Scenario Smart Ecosystem</h3>
                   <p className={styles.outlookDescription}>
-                    In the future, HarmonyOS NEXT will build a smart app ecosystem covering all scenarios — phones, tablets, HUAWEI Vision, wearables, and in-car systems — to achieve true connectivity for all things.
+                    In the future, HarmonyOS will build a smart app ecosystem covering all scenarios — phones, tablets, HUAWEI Vision, wearables, and in-car systems — to achieve true connectivity for all things.
 
                   </p>
                   <div className={styles.outlookGoals}>
@@ -381,7 +381,7 @@ export default function HarmonyOSNativeApps() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>Co-creating a New Era for the App Ecosystem</h2>
               <p className={styles.conclusionText}>
-                The native app ecosystem of HarmonyOS NEXT is growing rapidly, bringing together the wisdom and innovation of developers worldwide. We are committed to building an open, win-win app ecosystem that delivers an exceptional experience for users and creates endless possibilities for developers. Join us to usher in a new era of intelligent connectivity for all things.
+                The native app ecosystem of HarmonyOS is growing rapidly, bringing together the wisdom and innovation of developers worldwide. We are committed to building an open, win-win app ecosystem that delivers an exceptional experience for users and creates endless possibilities for developers. Join us to usher in a new era of intelligent connectivity for all things.
 
 
               </p>

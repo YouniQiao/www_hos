@@ -5,8 +5,8 @@ import styles from "@site/src/pages/feature/harmonyos-native-connectivity.module
 export default function HarmonyOSNativeConnectivity() {
   return (
     <Layout
-      title="HarmonyOS NEXT - Native Interconnectivity"
-      description="Explore the native interconnectivity capabilities of HarmonyOS NEXT, including cross-device collaboration, unified media control, and instant sharing.">
+      title="HarmonyOS - Native Interconnectivity"
+      description="Explore the native interconnectivity capabilities of HarmonyOS, including cross-device collaboration, unified media control, and instant sharing.">
 
       <main className={styles.main}>
         {/* Hero Section */}
@@ -32,7 +32,7 @@ export default function HarmonyOSNativeConnectivity() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>Connecting everything, smart collaboration</h2>
               <p className={styles.sectionText}>
-                With native interconnectivity at its core, HarmonyOS NEXT breaks down device boundaries to build a unified digital world. Phones, tablets, PCs, HUAWEI Vision, and other devices work together to create a seamless cross-device experience.
+                With native interconnectivity at its core, HarmonyOS breaks down device boundaries to build a unified digital world. Phones, tablets, PCs, HUAWEI Vision, and other devices work together to create a seamless cross-device experience.
 
               </p>
             </div>
@@ -237,7 +237,7 @@ export default function HarmonyOSNativeConnectivity() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>Connectivity creates value</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT's native interconnectivity turns devices from isolated individuals into a smart, collaborative whole. From personal devices to smart home, from office scenarios to entertainment experiences, connectivity makes everything simpler and smarter.
+                HarmonyOS's native interconnectivity turns devices from isolated individuals into a smart, collaborative whole. From personal devices to smart home, from office scenarios to entertainment experiences, connectivity makes everything simpler and smarter.
 
               </p>
               <div className={styles.interconnectBadges}>

@@ -5,8 +5,8 @@ import styles from './harmonyos-native-apps.module.css';
 export default function HarmonyOSNativeApps() {
   return (
     <Layout
-      title="HarmonyOS NEXT - 原生应用"
-      description="探索HarmonyOS NEXT系统的原生应用生态，包括应用发展、开发者支持、生态优势、未来规划等全方位介绍">
+      title="HarmonyOS - 原生应用"
+      description="探索HarmonyOS系统的原生应用生态，包括应用发展、开发者支持、生态优势、未来规划等全方位介绍">
       
       <main className={styles.main}>
         {/* Hero Section */}
@@ -32,7 +32,7 @@ export default function HarmonyOSNativeApps() {
             <div className={styles.introContent}>
               <h2 className={styles.sectionTitle}>原生生态，繁荣发展</h2>
               <p className={styles.sectionText}>
-                HarmonyOS NEXT 构建了完整的原生应用生态，汇聚全球开发者的智慧与创新。
+                HarmonyOS 构建了完整的原生应用生态，汇聚全球开发者的智慧与创新。
                 从社交娱乐到生产力工具，从生活服务到企业应用，原生应用生态正在快速成长，为用户提供卓越体验。
               </p>
             </div>
@@ -352,7 +352,7 @@ export default function HarmonyOSNativeApps() {
                 <div className={styles.outlookText}>
                   <h3 className={styles.outlookTitle}>全场景智慧生态</h3>
                   <p className={styles.outlookDescription}>
-                    未来，HarmonyOS NEXT 将构建覆盖手机、平板、智慧屏、穿戴设备、
+                    未来，HarmonyOS 将构建覆盖手机、平板、智慧屏、穿戴设备、
                     车载系统等全场景的智慧应用生态，实现真正的万物互联。
                   </p>
                   <div className={styles.outlookGoals}>
@@ -381,7 +381,7 @@ export default function HarmonyOSNativeApps() {
             <div className={styles.conclusionContent}>
               <h2 className={styles.conclusionTitle}>共创应用生态新纪元</h2>
               <p className={styles.conclusionText}>
-                HarmonyOS NEXT 的原生应用生态正在快速发展，汇聚全球开发者的智慧与创新。
+                HarmonyOS 的原生应用生态正在快速发展，汇聚全球开发者的智慧与创新。
                 我们致力于构建一个开放、共赢的应用生态系统，为用户提供卓越体验，
                 为开发者创造无限可能。加入我们，共同开启万物互联的智慧新时代。
               </p>

@@ -18,7 +18,7 @@ Thanks to the secure access mechanism, apps can only access the data you select 
   width="400" 
 />
 
-HarmonyOS NEXT prohibits granting nine categories of unreasonable permissions, reducing the risk of privacy leaks across the board.
+HarmonyOS prohibits granting nine categories of unreasonable permissions, reducing the risk of privacy leaks across the board.
 
 ## Pure from the Source
 
