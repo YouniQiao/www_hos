@@ -72,6 +72,13 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'ai/travel-plan',
+        'ai/xiaoyi-claw',
+        'ai/xiaoyi-call-assist',
+        'ai/call-summary',
+        'ai/xiaoyi-translation',
+        'ai/xiaoyi-photo-editing',
+        'ai/smart-recording',
         'ai/xiaoyi-problem-solving',
         'ai/screen-recognition',
         'ai/finger-joint-circle-selection',
@@ -151,6 +158,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'camera/single-shot-motion',
         'camera/one-click-image-creation',
         'camera/zoom-ring',
         'camera/one-hand-camera-operation',
@@ -189,6 +197,11 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'setting/pet-theme',
+        'setting/wild-fun-theme',
+        'setting/spatial-wallpaper',
+        'setting/intimate-circle',
+        'setting/smart-eye-care',
         'setting/fat-hands-theme',
         'setting/lock-screen-signature',
         'setting/memo-shorthand',
@@ -228,6 +241,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'full-scene/driving-mode',
         'full-scene/cross-device-image-editing',
         'full-scene/touch-and-share-between-phone-pc',
         'full-scene/touch-and-share-between-phones',

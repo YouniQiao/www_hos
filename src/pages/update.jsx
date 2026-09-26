@@ -8,6 +8,181 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-09-26",
+      items: [
+        {
+          text: "出行规划，轻松出发",
+          link: "/docs/ai/travel-plan",
+          category: "手机内容"
+        },
+        {
+          text: "小艺 Claw，懂你的 AI 助理",
+          link: "/docs/ai/xiaoyi-claw",
+          category: "手机内容"
+        },
+        {
+          text: "小艺帮接，不错过每一次沟通",
+          link: "/docs/ai/xiaoyi-call-assist",
+          category: "手机内容"
+        },
+        {
+          text: "通话摘要，大事小事都能记",
+          link: "/docs/ai/call-summary",
+          category: "手机内容"
+        },
+        {
+          text: "小艺翻译，打破跨国沟通障碍",
+          link: "/docs/ai/xiaoyi-translation",
+          category: "手机内容"
+        },
+        {
+          text: "全新小艺修图，一站式创作",
+          link: "/docs/ai/xiaoyi-photo-editing",
+          category: "手机内容"
+        },
+        {
+          text: "单拍照片，生成多种动感效果",
+          link: "/docs/camera/single-shot-motion",
+          category: "手机内容"
+        },
+        {
+          text: "互动萌宠主题，萌趣无处不在",
+          link: "/docs/setting/pet-theme",
+          category: "手机内容"
+        },
+        {
+          text: "野趣憨憨，解锁互动新玩法",
+          link: "/docs/setting/wild-fun-theme",
+          category: "手机内容"
+        },
+        {
+          text: "驾驶模式，安全驾车新体验",
+          link: "/docs/full-scene/driving-mode",
+          category: "手机内容"
+        },
+        {
+          text: "随时随地一步唤醒小艺，操作更便捷",
+          link: "/docs/ai/xiaoyi-wakeup",
+          category: "手机内容"
+        },
+        {
+          text: "加密分享，避免泄密风险",
+          link: "/docs/security/share-encrypt-file",
+          category: "手机内容"
+        },
+        {
+          text: "魔法移图，智能生成合影",
+          link: "/docs/camera/magic-photo",
+          category: "手机内容"
+        },
+        {
+          text: "使用控制中心",
+          link: "/docs/quick-start/control-center",
+          category: "手机内容"
+        },
+        {
+          text: "有问题找小艺，功能咨询更方便",
+          link: "/docs/ai/answer-devices-question",
+          category: "手机内容"
+        },
+        {
+          text: "编辑控制中心",
+          link: "/docs/quick-start/edit-shortcut-switch",
+          category: "手机内容"
+        },
+        {
+          text: "魔法表情，随时调整照片表情",
+          link: "/docs/camera/best-expression",
+          category: "手机内容"
+        },
+        {
+          text: "快速锁屏，便捷高效",
+          link: "/docs/quick-start/lock-screen",
+          category: "手机内容"
+        },
+        {
+          text: "密码保险箱，自动填充账号密码",
+          link: "/docs/security/auto-fill-in-password",
+          category: "手机内容"
+        },
+        {
+          text: "XMAGE 风格，拍照更出彩",
+          link: "/docs/camera/color-card",
+          category: "手机内容"
+        },
+        {
+          text: "超级桌面，共享手机应用",
+          link: "/docs/full-scene/super-desktop",
+          category: "手机内容"
+        },
+        {
+          text: "智能隐藏横幅通知内容",
+          link: "/docs/ai/intelligent-notification",
+          category: "手机内容"
+        },
+        {
+          text: "一键沾色，快速调整图片色调",
+          link: "/docs/camera/color-dip",
+          category: "手机内容"
+        },
+        {
+          text: "涂鸦新体验，还能一键还原",
+          link: "/docs/camera/photo-graffiti",
+          category: "手机内容"
+        },
+        {
+          text: "跨设备隔空传送文件",
+          link: "/docs/full-scene/air-transfer",
+          category: "手机内容"
+        },
+        {
+          text: "小艺帮记，快速记录信息",
+          link: "/docs/ai/xiaoyi-memory",
+          category: "手机内容"
+        }
+      ]
+    },
+    {
+      date: "2026-09-25",
+      items: [
+        {
+          text: "3D 空间壁纸，体验空间美学",
+          link: "/docs/setting/spatial-wallpaper",
+          category: "手机内容"
+        },
+        {
+          text: "亲密圈，时刻关心亲友",
+          link: "/docs/setting/intimate-circle",
+          category: "手机内容"
+        },
+        {
+          text: "智感护眼，守护用眼健康",
+          link: "/docs/setting/smart-eye-care",
+          category: "手机内容"
+        },
+        {
+          text: "智能录音，摘要导图一键呈现",
+          link: "/docs/ai/smart-recording",
+          category: "手机内容"
+        },
+        {
+          text: "全新沉浸光感，让界面更通透",
+          link: "/docs/setting/immersive-light",
+          category: "手机内容"
+        },
+        {
+          text: "一键星盾防诈，守护用机安全",
+          link: "/docs/security/star-shield-anti-fraud",
+          category: "手机内容"
+        },
+        {
+          text: "华为分享，远近皆可传文件",
+          link: "/docs/full-scene/huawei-share",
+          category: "手机内容"
+        }
+      ]
+    },
+    {
       date: "2026-09-15",
       items: [
         {
