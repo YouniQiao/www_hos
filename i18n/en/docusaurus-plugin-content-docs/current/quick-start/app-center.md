@@ -1,34 +1,31 @@
 ---
 last_update:
-  date: 2025-12-05
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# App Center: Manage Apps Efficiently
+# App Chest, Efficient App Management
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/2025102603wmgm/zh-cn/image/video/10044758_f014_appcentre.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044758_f014_appcentre.png" alt="" width="360" height="486"/>
 
-Too many apps on your home screen making it cluttered and hard to navigate? Remove the apps you rarely use to declutter your home screen, and open App Center in one step whenever you need them.
+Using **App chest** can help you manage a vast number of apps, streamline your home screen, and make them easy to locate.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-Go to Settings > Home screen & personalization > Home screen settings > App Center, and turn on the App Center switch.
+Go to Settings > Home screen & style > Home screen, and enable **Swipe up on home screen**.
 
-**Declutter your home screen**
+**Streamline the home screen**
 
-Touch and hold an app on the home screen, then tap Remove > Remove from home screen. Once removed, you can find and use the app in App Center or add it back to the home screen.
+Hold down on an app on the home screen, and go to Remove > Remove from home screen. After removing the app, you can go to **App chest** to search for it or add it to the home screen again.
 
-**Use App Center**
+**Use App chest**
 
-Swipe up on the home screen to open App Center:
+App chest
 
-+   Search for or find an app, and open it directly to use it.
++   Search for an app and open it.
 
-+   Touch and hold an app and drag it to the home screen to add it there.
++   Hold down on an app and drag it to the home screen.
 
+**Note**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
-
-+   Before using this feature, update your device to the latest version.
-
-+   If you choose to uninstall an app, it will be removed from both the home screen and App Center, and you will no longer be able to find or use it in App Center.
+If you uninstall an app, it will be uninstalled from both the home screen and App chest, and you will not be able to find it in **App chest**.

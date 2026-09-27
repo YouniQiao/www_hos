@@ -1,18 +1,17 @@
 ---
 last_update:
-  date: 2025-04-23
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Split the Screen or Open a Floating Window in One Step
+# A Screen View that's Just for You
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508061ZsslO/zh-cn/image/video/10045865_f020_OneStep.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10045865_f020_OneStep.png" alt="" width="360" height="486"/>
 
+Have two apps displayed side-by-side, or shrink an app window, to enjoy seamless multi-tasking at a moment's notice!
 
-With a single gesture, you can split the screen or open a floating window, making multitasking faster than ever.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Enter split-screen view**: When an app is displayed in full screen, swipe up from the bottom to the upper left of the screen, and touch another app or widget that supports split-screen mode, to display the two items side-by-side.
 
-**Split the screen in one step**: When an app is in full screen, swipe up from the bottom of the screen to the upper left to enter the split-screen standby state, then tap the icon or card of another app that supports split screen to start split screen.
-
-**Open a floating window in one step**: When an app is in full screen, swipe up from the bottom of the screen to the upper right to open a floating window. Tap it to enlarge it to a floating window.
+**Shrink the app window**: When an app is displayed in full screen, swipe up from the bottom to the upper right of the screen, to have the app displayed in a small window. Touch it to expand it to a floating window.

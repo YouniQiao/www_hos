@@ -865,7 +865,7 @@ export default function ContentUpdates() {
 
   return (
     <Layout
-      title={`站点更新记录 - ${siteConfig.title}`}
+      title="站点更新记录"
       description="网站内容更新历史记录">
       <div className={styles.heroSection}>
         <div className={styles.heroContent}>

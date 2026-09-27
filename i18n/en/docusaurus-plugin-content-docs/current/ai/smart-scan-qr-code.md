@@ -1,23 +1,23 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Smart QR Code Recognition
+# Easy QR Code Identification
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/video/10044728_f002_IntelligentQRscanning.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044728_f002_IntelligentQRscanning.png" alt="" width="360" height="486"/>
 
+Identify QR codes that you encounter to complete common operations, like payments, free of hassle and get on with your day.
 
-Your phone can intelligently recognize QR codes, making it quick to scan to pay, unlock a shared bike, and more.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+1.  Go to Settings > System > Smart scan and follow the onscreen instructions to enable **Smart scan**.
 
-1.  Go to Settings > System > Smart Scan, and follow the onscreen instructions to turn on the Smart Scan switch.
-2.  On the home screen, hold the upper half of the back of your phone facing a QR code. Once the phone recognizes it, it will vibrate slightly and display a QR code prompt.
-3.  Double-tap the back of your phone or simply tap the prompt to go to the corresponding service page, then follow the onscreen instructions to complete the operation.
+2.  While on the home screen, point the upper part of the back of your phone toward a QR code that you wish to scan. Your phone will generate a pop-up and vibrate, once it recognizes the QR code.
 
+3.  Tap the back of your phone twice or tap the pop-up to be redirected to a new screen. Then, follow the onscreen instructions to complete whatever operation you wish to do.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+**Note**
 
-It is recommended to use this feature in a well-lit environment with your phone within 1 meter of the QR code. If the QR code is small, move your phone closer to it to ensure successful recognition.
+It is recommended that you use this feature in well-lit environments, and that you bring the back of your phone within 1 m of the QR code. If the QR code is small, bring your phone closer to the QR code to ensure successful identification.

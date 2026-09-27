@@ -1,17 +1,17 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Air gesture screen scrolling
+# Swipe with Air Scroll
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/video/10044802_f005_AirScroll.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044802_f005_AirScroll.png" alt="" width="360" height="486"/>
 
-When you're browsing content and your hands aren't free to touch the screen, you can scroll up or down with an air gesture.
+Air scroll allows you to swipe up and down without having to tap the screen.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-**Turn on air scrolling:** Go to Settings > System > Shortcuts & gestures > Air scroll screen, and make sure the Air scroll screen switch is turned on.
+**Enable Air scroll**: Go to Settings > System > Shortcuts & gestures > Air scroll and make sure that **Air scroll** is enabled.
 
-**Use air scrolling:** Hold the back of your hand toward the screen (fingers pointing down) or your palm toward the screen (fingers pointing up), about half an arm's length away, and pause briefly. Once the <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/swing_down.png" width="24" height="24"/> or <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/swing_up.png" width="24" height="24"/> icon appears at the top of the screen, flick your wrist up or down repeatedly.
+**Use Air scroll:** In a well-lit environment, hold your palm (with your fingertips facing up) or the back of your hand (with your fingertips facing down) parallel to the screen, at a distance of about half an arm's length away from the screen, and flick your palm downwards or upwards when the <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/swing_down.png" width="24" height="24" alt="五指向下手型"/> or <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/swing_up.png" width="24" height="24" alt="五指向上手型"/> icon displays at the top of the screen.

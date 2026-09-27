@@ -1,25 +1,29 @@
 ---
 last_update:
-  date: 2026-04-17
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# One-tap color transfer for quick tone adjustments
+# Apply Colors with One Tap
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/video/10044584_f011_Colors.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044584_f011_Colors.png" alt="" width="360" height="486"/>
 
-Use the color transfer feature to apply a color tone you like to your own photo with a single tap. Try out a variety of color styles with ease — give portrait photos a richer mood and make landscape shots stand out even more.
+Transform your photos instantly by applying your desired colors with just one tap. Explore a spectrum of hues that bring depth and mood and instantly transform backlit portraits into dramatic silhouettes to capture the ultimate vibe.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1. In Gallery, open the photo whose tone you want to adjust, then tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/ic_edit.png" width="24" height="24"/> > AI Retouch > Color transfer. You can:
-   - **Apply a recommended tone**: Tap a recommended tone under Inspiration to apply it. Tap it again to switch to a different recommended tone.
-   - **Apply the tone of a reference image**: Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/ic_gallery_add.png" width="24" height="24"/>, select a reference image, then tap Add.
+1.  Open the desired image in Gallery, and go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_edit.png" width="24" height="24" alt="编辑图标"/> > AI retouch > Color. You can:
 
-2. Once the tone is applied, swipe the slider left or right to adjust the tone intensity.
+    +   **Apply recommended colors**: Tap **Suggested** to apply recommended colors. Tap again to change the recommended colors.
 
-3. Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24"/> and follow the onscreen instructions to save the photo.
+    +   **Apply reference image colors**: Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_add.png" width="24" height="24" alt="添加图标"/>, select a reference image, and tap **Add**.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+1.  After applying the colors, drag the slider left or right to adjust the color intensity.
 
-+ You can add multiple reference images and keep using them the next time you transfer a color tone. Touch and hold an added reference image to delete or rename the tone.
+2.  Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24" alt="保存图标"/> and save the image as prompted.
+
+**Note**
+
++   To generate a silhouette effect, it is recommended that you use photos with backlighting, where the subject occupies a small proportion of the image, and the subject is darker than the background. In some scenarios suitable for the silhouette effect (such as sunrise, sunset, night scenes, fireworks, evening glow, and seascapes), **Suggested** will prioritize the silhouette effect.
+
++   You can add multiple reference images for future use. Hold down on the added reference image to delete or rename the colors.

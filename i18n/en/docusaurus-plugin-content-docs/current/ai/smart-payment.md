@@ -1,24 +1,23 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Identify the Scan Code Device with Smart Payment
+# Pay Right Away – No Delay!
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/video/10044728_f001_fastscanpay.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044728_f001_fastscanpay.png" alt="" width="360" height="486"/>
 
-No need to open a payment app in advance. Your phone can intelligently identify scan code boxes and scan code guns, automatically display the payment code, and complete payment quickly.
+Make mobile payments without having to open an app. Your phone will recognize the code scanner in use, and display the payment code literally in the blink of an eye!
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  Go to Settings > System > Smart Payment, and enable Smart Payment as prompted.
+1.  Go to Settings > System > Smart pay, and enable **Smart pay** as prompted.
 
-2.  Return to the home screen, and point the upper half of the screen at the scan code device. Once your phone recognizes it, it will vibrate slightly and display the payment code.
+2.  Return to the home screen, point the upper portion of the screen towards the code scanner. Your phone will vibrate once it recognizes the code scanner in use, and display a payment code.
 
-3.  After the scan code device scans the payment code, complete the payment as prompted.
+3.  Scan the payment code, and complete the payment as prompted.
 
+**Note**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
-
-Keep your phone screen about 10–15 cm away from the scan code device.
+Use this feature in a well-lit environment, and hold your phone about 10 to 15 cm away from the code scanner.

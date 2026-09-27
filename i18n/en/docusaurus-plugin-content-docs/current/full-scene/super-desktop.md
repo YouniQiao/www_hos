@@ -1,23 +1,27 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Super Desktop, share phone apps
+# Browse Phone Apps with Super Home Screen
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202502181Uo3yy/zh-cn/content/12_system/settings/figure/zh-cn_attachment_0000002252665658.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10639246_f001_SuperScreen.png" alt="" width="360" height="486"/>
 
-With Super Desktop, you can share the wide range of apps on your Huawei phone to the central control screen of your Huawei smart cockpit.
+Use the **Super Home Screen** to share apps on your Huawei phone to the central display in your Huawei intelligent cockpit.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-Before you start, go to Settings > Multi-device collaboration > Super Desktop on your phone and make sure Super Desktop is enabled.
+Before using this feature, go to Settings > More connectivity options > Super Home Screen on your phone and make sure that **Super Home Screen** is enabled.
 
-1.  Sign in to the same HUAWEI ID, and enable WLAN and Bluetooth on both your phone and the central control screen.
-2.  Bring your phone close to the central control screen, then go to Apps & services > Super Desktop on the central control screen. Super Desktop will automatically discover nearby devices available for connection. On the device to be connected, tap the name of the phone you want to connect.
-3.  Once connected, you can use the apps on your phone directly from the central control screen.
+1.  Enable **NearLink & Bluetooth** on your phone and **Bluetooth** on the central display.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  Enable **WLAN** on both your phone and central display, and log in to the same HUAWEI ID.
 
-If your phone and the central control screen are signed in to different HUAWEI IDs, on the Super Desktop screen of the central control screen, tap Connect other Huawei devices, then follow the onscreen instructions to connect by scanning the QR code.
+3.  Place the phone close to the central display. Go to Apps & services > Super Home Screen on the central display. Super Home Screen will automatically discover nearby devices that can be connected. Tap the name of the phone to be connected.
+
+4.  After the connection is complete, you can use the apps on the phone on the central display.
+
+**Note**
+
+If you have logged in to different HUAWEI IDs on the phone and the central display, you can go to Super Home Screen on the central display, tap **Connect manually**, and scan the QR code as prompted to connect the two devices.

@@ -1,25 +1,31 @@
 ---
 last_update:
-  date: 2025-11-03
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Lock screen art signature: create a personalized wallpaper
+# Personalized Lock Screen Signature
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/video/10044758_f013_Dynamic.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044758_f013_Dynamic.png" alt="" width="360" height="486"/>
 
-Use Art signature to blend signature text artistically with your wallpaper image. You can also use AI to create a font style you like and apply it to your signature, making your lock screen truly one of a kind.
+Tired of a dull, lifeless lock screen? Bring it to life with a personalized signature. Select a font that reflects your personal style while also harmonizing perfectly with your wallpaper.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  Go to Gallery, select an image, and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_more.png" width="24" height="24"/> > Set as wallpaper.
-2.  Tap the clock area and select Art signature. Based on the wallpaper type, Smart Composition will automatically recommend a lock screen art signature with a depth-of-field effect for some wallpapers.
-3.  Tap the art signature area to customize it:
-    +   Tap the text box below the art signature and enter your signature text. For best results, keep it within 6 Chinese characters.
-    +   Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/textformat_size_square_fill-01.png" width="24" height="24"/> to change the font style. You can also tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_ai_font_12-01.png" width="24" height="24"/> to select an image containing text, then use AI to create a font and apply it to your signature with one tap.
-    +   Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/common/buttons/ic_desktop_color-01.png" width="24" height="24"/> to change the font color.
-4.  Tap Apply > OK to finish.
+1.  Open **Gallery**, select an image, and go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_more.png" width="24" height="24" alt="更多图标"/> > Set as wallpaper.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  Tap the clock area and then **Personalized signature**. Your device will automatically recommend a template with the **DoF** effect for some wallpapers based on the wallpaper type. You can adjust the depth of field effect by zooming in or out on the wallpaper image or moving the image. You can also tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_DoF.png" width="24" height="24" alt="景深图标"/> at the bottom of the screen to turn off the **DoF** effect.
 
-For better art signature wallpapers, choose images with a clear subject and a clean background.
+3.  Tap the signature for more personalized settings:
+
+    +   Tap the text box under **Personalized signature** and enter a signature.
+
+    +   Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/textformat_size_square_fill-01.png" width="24" height="24" alt="字体图标"/> to change the font style. You can also tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_ai_font_12-01.png" width="24" height="24" alt="AI 创作图标"/> to select an image with characters. After the AI font is generated, tap to apply it to your signature.
+
+    +   Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_desktop_color-01.png" width="24" height="24" alt="颜色图标"/> to change the font color.
+
+4.  Go to Apply > OK to complete the settings.
+
+**Note**
+
+It is recommended that you select an image with a clear subject and clean background.

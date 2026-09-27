@@ -1,21 +1,21 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Super Device: Quickly Collaborate Across Multiple Devices
+# Super Device for Effortless Device Collaboration
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/figure/10099735_f001_SuperDevice.png" width="360" height="486"/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10099735_f001_SuperDevice.png" alt="" width="360" height="486"/>
 
+Enjoy a rich and seamless multi-device collaboration experience with Super Device, to manage multiple devices and quickly initiate collaboration. For example, you can edit phone files on your tablet, or connect earphones to your phone for more immersive listening.
 
-Manage multiple devices in Super Device and quickly start collaboration to enjoy a wide range of multi-device scenarios. For example, connect your phone with a tablet for easier cross-screen editing, or connect your phone with earbuds to easily stream music.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+The following uses phone-tablet collaboration as an example:
 
-Take collaboration between a phone and a tablet as an example:
+1.  Enable **NearLink & Bluetooth** and **WLAN** on your phone and tablet, and log in to the same **HUAWEI ID** on both devices.
 
-1.  Enable Bluetooth and WLAN on both the phone and the tablet, and sign in to the same HUAWEI ID.
-2.  Swipe down from the upper right of the screen to open the Control Panel, and touch <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/ic_super_device.png" width="24" height="24"/> in Super Device.
+2.  Swipe down from the upper right corner of the device to display Control Panel, and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_super_device.png" width="24" height="24"/> in **Super Device**.
 
-3.  Touch the device you want to connect to start collaboration.
+3.  Tap the collaboration device to initiate a connection.

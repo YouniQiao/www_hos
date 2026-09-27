@@ -1,20 +1,21 @@
 ---
 last_update:
-  date: 2025-04-23
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# SuperHub: Collect and distribute text and images across pages
+# Pool Content from Different Screens with SuperHub
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202410131vcl7z/zh-cn/image/video/10169821_f001_Shelf.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10169821_f001_Shelf.png" alt="" width="360" height="486"/>
 
-When you need to collect text and images from multiple app pages, you can drag them into SuperHub for temporary storage, then drag them out to an editing page with a single action — no need to switch back and forth between pages.
+Drag text and images from different apps to SuperHub, where the content is temporarily stored, and then drag items to an editing screen with just a tap.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  In an app, select the text, image, or file you need, touch and hold until the content lifts, then drag it to the SuperHub floating window that appears in the upper right corner of the screen.
-2.  Open an editing page (such as Notepad), touch and hold the content in the SuperHub floating window, and drag out what you need.
+1.  Select text, images, or files within an app, touch and hold down on the content until it starts floating, and drag the content to the SuperHub floating window displayed in the upper right corner of the screen.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  Open an editing screen (for example, **Notepad**), hold down on the content in the SuperHub floating window, and drag the required content to your desired place.
 
-If the SuperHub floating window is hidden at the edge of the screen, tap the side bar to bring it out.
+**Note**
+
+If the SuperHub floating window is hidden to the edge of the screen, tap the side bar to display it.

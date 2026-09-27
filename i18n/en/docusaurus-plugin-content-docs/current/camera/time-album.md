@@ -1,22 +1,27 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Moments, Bringing Together Highlights
+# Highlights to Bring Out Your Best Moments
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202409110ktSpl/zh-cn/image/video/10044580_f001_Highlights.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044580_f001_Highlights.png" alt="" width="360" height="486"/>
 
+Gallery turns your daily photos into themed highlights (such as portraits, birthdays, scenic spots), so that you can relive your best memories.
 
-Photos you take in daily life are automatically grouped by Gallery into Moments (such as portraits and birthdays), letting you relive fond memories.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+You can perform the following operations to quickly generate a Highlights album:
 
-Before taking photos, open Camera, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202409110ktSpl/zh-cn/image/common/buttons/ic_camera_up.png" width="24" height="24"/> below the shutter button, or swipe up in the black area to open the toolbox, then tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202409110ktSpl/zh-cn/image/common/buttons/ic_camera_setting_normal.png" width="24" height="24"/> and turn on the Record location info switch.
+Before taking a photo or video, open **Camera**, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_camera_up.png" width="24" height="24" alt="展开图标"/> under the shutter button to display the Camera Quick Menu, and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_camera_setting_normal.png" width="24" height="24" alt="设置图标"/> to enable **Location tag**.
 
-When taking photos, capture multiple different photos in the same scene. If there are too few photos, or if they were taken at similar times or have similar content, a Moments album may not be generated.
+Multiple different photos in the same scene are required to generate a Highlights album. If there are too few photos, or if the photos were taken at similar times or have similar content, the album may fail to be generated.
 
-After taking photos, your phone needs to be connected to WLAN and charging with the screen off. When the battery level is sufficient, it will automatically analyze the photos and create a Moments album. This process takes some time, so please be patient.
+Go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_hiden_more.png" width="24" height="24" alt="更多图标"/> > Settings in **Gallery** and toggle on the **Allow Internet access**, **Media analysis**, and **Accelerated smart analysis** switches. Connect your phone to a WLAN network, turn the screen off, and charge your device. When your device has sufficient power, it will analyze the photos and create a Highlights album. It may take a while for the albums to be created.
 
-Once generated, go to Gallery > Moments and tap to view. During playback, swipe up on the screen to view the artistic layout of the Moment.
+Go to Gallery > Highlights to view the photos. Swipe up during photo playback to enjoy the artistic layout of the Highlights album.
+
+**Note**
+
+If the **Accelerated smart analysis** switch is not available in Gallery settings, this feature is not supported on your device.

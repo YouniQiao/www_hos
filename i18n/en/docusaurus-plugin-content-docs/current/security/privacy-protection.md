@@ -1,23 +1,25 @@
 ---
 last_update:
-  date: 2025-11-03
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Privacy Protection Against Shoulder Surfing
+# Secure Screen Privacy
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/video/20012156_f001_ScreenPrivacy.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20012156_f001_ScreenPrivacy.png" alt="" width="360" height="486"/>
 
-When you view private information on your phone in public, you can turn on privacy protection against shoulder surfing. If there is a risk of someone peeking at your screen, your phone will remind you to be aware of your surroundings, and some apps can also be set to automatically hide their content.
+Activate Secure Screen Privacy to safeguard sensitive data on your phone in crowded spaces. If someone tries to peek, your device will alert you. Certain apps even let you auto-hide screen content for added protection.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-Go to Settings > Privacy & security > Privacy protection against shoulder surfing, turn on the Privacy protection against shoulder surfing switch, and after face verification, turn on the switches for the apps you want to protect. Once enabled, your phone provides the following protection:
+Go to Settings > Privacy & security > Screen Privacy, enable **Screen Privacy**, verify your identity via face unlock, and select your desired apps. After this feature is enabled, your phone supports the following protection:
 
-+   **Viewing protected apps**: When there is a risk of someone peeking, your phone will notify you through a Live Window message, and some third-party apps can also be set to automatically hide their content.
-+   **Viewing hidden albums in Gallery**: When there is a risk of someone peeking, your phone will hide the album screen.
++   **View apps added to the protection list**: If there is a risk of being peeked at, your phone will notify you through live view. Some third-party apps can also let you auto-hide screen content for added protection.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
++   **View **Gallery: Go to Gallery > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_more_gallery.png" width="24" height="24" alt="更多图标"/> > Settings and enable **Full-screen privacy protection**. When there is a risk of being peeked at, your phone will hide the Gallery screen.
 
-+   This feature uses a low-power sensor to intelligently assess your surroundings. The system only prompts you automatically when the phone owner is viewing a specified app and there is a risk of someone peeking. The entire recognition process is completed on the device and will not leak your privacy.
-+   Scenarios such as low light, strong light, backlight, or an excessive angle may affect the recognition success rate of this feature.
+**Note**
+
++   This feature uses low-power sensors to intelligently determine your surrounding environment. The system will only display a notification when the device owner is using the specified apps and there is a risk of being peeked at. The identification is completed entirely on the device, and your privacy will not be disclosed.
+
++   The recognition success rate of this feature may be affected in situations such as when there is low light, strong light, back light, or an excessively large angle between your face and the camera.

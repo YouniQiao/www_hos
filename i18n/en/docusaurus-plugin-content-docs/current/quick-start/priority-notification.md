@@ -1,23 +1,23 @@
 ---
 last_update:
-  date: 2026-04-17
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Priority notifications: never miss what matters
+# Keep Important Info Front and Center
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/video/10044804_f012_prioritynotification.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044804_f012_prioritynotification.png" alt="" width="360" height="486"/>
 
-Too many notifications drowning out the important ones? Priority notifications can be customized and intelligently identify important messages, such as appointment reminders, bill payments, and important to-dos, and pin them to the top of the lock screen and Notification Panel so they stand out at a glance.
+Tired of notification clutter? Prioritize notifications identifies your most important messages, like appointments and payments, and pins them to the top of your lock screen and Notification Panel.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1. Go to Settings > Notifications and status bar > Priority notifications, then turn on Priority notifications for the app you want.
+1.  Go to Settings > Notifications & status bar > Prioritize notifications, and enable **Prioritize notifications** for your desired apps.
 
-2. Choose how priority notifications are displayed, for example, set them to Custom and intelligent identification. When you choose an option with "Custom", you can add keywords, and notifications whose titles contain those keywords will be displayed first.
+2.  Select a **Prioritize notifications** mode as required, for example, **Custom & Smart**. If you select a mode that contains "Custom", you can add keywords, so that notifications whose titles contain the keyword are displayed preferentially.
 
-3. Swipe down from the top left of the screen to open the Notification Panel. Important notifications will be marked "Priority" and pinned to the top.
+3.  Swipe down from the upper left corner of the screen to display the Notification Panel, where you will find all of your notifications. Important notifications will be marked with a "Priority" icon and displayed at the top.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+**Note**
 
-+ If you can't find the app you need in Priority notifications, go to Settings > Notifications and status bar and turn on the switch to the right of the app.
+If you cannot find your desired app in **Prioritize notifications**, go to Settings > Notifications & status bar and enable the switch on the right of the app.

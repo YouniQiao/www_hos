@@ -1,25 +1,27 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# A New Doodle Experience with One-Tap Restore
+# Effortless Doodling and Restoration
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/video/20005895_f002_galleryedit.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20005895_f002_galleryedit.png" alt="" width="360" height="486"/>
 
-You can use a variety of doodle brushes to easily draw standard shapes on an image, or use the mosaic brush to protect private information in the image. You can also add a text box to include text in the image. After saving the image, you can restore the original with a single tap.
+Doodle on your images and pause to turn scribbles into standard shapes, add text, or mask your private information. You can also tap at any time to restore the original image, even after your doodles have been saved.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  In Gallery, select an image, and go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/penkitpenkit.png" width="24" height="24"/> to access the doodle screen, where you can choose different brushes and colors to create your artwork.
-2.  Draw a shape with one stroke and pause for a moment to quickly generate a standard shape. To add a mosaic to the image, select the mosaic brush on the far right.
-3.  Go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_more.png" width="24" height="24"/> > Add text box to add text:
-    +   Tap Edit, enter the text you want to add, and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_comfirm.png" width="24" height="24"/>.
-    +   Tap Style to adjust the text color and size.
-    +   Tap Delete to delete the text box.
-4.  After saving the image, if you need to make changes or start over, go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_gallery_edit1.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_gallery_restore_edit.png" width="24" height="24"/> to restore the original image.
+Select an image from Gallery and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_edit1.png" width="24" height="24" alt="编辑图标"/> to enter the editing screen.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
++   Tap **Markup** and select a brush and color to draw. You can draw a shape with your finger and pause to turn the random lines into a standard shape.
 
-Before using this feature, update your device to the latest version.
++   Tap **Text**. Tap **Text box** to add text, and tap **Style** to adjust the text color and font size.
+
++   Tap **Mosaic** to add mosaics to the image.
+
+To restore the original image, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_edit1.png" width="24" height="24" alt="编辑图标"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_restore_edit.png" width="24" height="24" alt="恢复图标"/>.
+
+**Note**
+
+Please make sure your device has been updated to the latest system version.

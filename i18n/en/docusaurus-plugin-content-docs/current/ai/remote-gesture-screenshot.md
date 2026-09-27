@@ -1,17 +1,21 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Air Gesture Screenshot
+# Take Grabshots from a Distance
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/video/10044781_f005_SwingScreenshot.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044781_f005_SwingScreenshot.png" alt="" width="360" height="486"/>
 
-Take a screenshot with an air gesture, without touching your phone. It's cool and fun.
+Grabshot allows you to take screenshots of your phone with easy air gestures, and without having to tap the screen.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-**Enable Air Screenshot:** Go to Settings > System > Shortcuts & gestures > Air screenshot, and make sure the Air screenshot switch is turned on.
+**Enable Grabshot:** Go to Settings > System > Shortcuts & gestures > Grabshot and make sure that **Grabshot** is enabled.
 
-**Use Air Screenshot:** When the screen is on, hold your hand about half an arm's length in front of the screen, open your palm facing the screen, and pause briefly. Once the <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512250Xzgpn/zh-cn/image/common/buttons/swing_hand.png" width="24" height="24"/> icon appears on the screen, clench your fist to take a screenshot.
+**Use Grabshot:** When the screen is on, hold your palm about half an arm's length away from the screen, wait for the <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/swing_hand.png" width="24" height="24" alt="五指向上的手势图标"/> icon to appear, and clench your fist to take the grabshot.
+
+**Note**
+
+Use this feature in a well-lit environment.

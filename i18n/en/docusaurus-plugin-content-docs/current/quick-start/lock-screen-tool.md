@@ -1,20 +1,21 @@
 ---
 last_update:
-  date: 2025-04-23
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Lock screen tools for quick access to apps
+# Lock Screen Widgets For Instant App Launch
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/video/20005688_f001_LockScreenTool.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20005688_f001_LockScreenTool.png" alt="" width="360" height="486"/>
 
-Open frequently used apps such as Flashlight and Calculator right from the lock screen — quick and convenient.
+Open Flashlight, Calculator, and other favorite apps from the convenience of the lock screen.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-While the screen is locked, wake the screen, touch and hold the <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/ToolBox.png" width="24" height="24"/> icon in the lower left corner, and slide to a tool icon to quickly open the corresponding app.
+Turn on the lock screen, hold down on <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ToolBox.png" width="24" height="24"/> in the lower left corner, and drap it onto an icon to open the corresponding app.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+**Note**
 
-+   Currently, only some themes support this feature, such as **Recommended themes**, **Mood box**, and **Weather**. Go to Settings > Home screen & personalization > More themes to set it up.
-+   If you have set face recognition to unlock the screen directly, for a better experience, go to Settings > Biometrics & password > Face recognition > Unlock screen and select Swipe to unlock.
++   This feature is only available in some themes, such as **Suggested** and **Emojis**themes. You can go to Settings > Home screen & style > More themes to select a theme.
+
++   If you have set up facial recognition to unlock the screen, for a better experience, it is recommended that you go to Settings > Biometrics & screen lock > Face recognition > Unlock device and select **Swipe to unlock**.

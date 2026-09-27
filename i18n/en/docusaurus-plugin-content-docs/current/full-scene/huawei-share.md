@@ -1,18 +1,19 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# HUAWEI Share, share files at lightning speed
+# Instant Transfers with Huawei Share
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/video/10044641_f002_Sharephone.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044641_f002_Sharephone.png" alt="" width="360" height="486"/>
 
-Share files with nearby Huawei phones at lightning speed, no data required.
+Huawei Share makes it quick and easy to transfer files between your device and nearby phones without having to use any mobile data.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-**On the receiving device:** Swipe down from the top of the screen to open the Control Panel, and tap HUAWEI Share. The first time you receive a share, select Visible to all (10 minutes).
+**Receiving device:** Swipe down from the upper right corner of the screen to display **Control Panel**, tap **Huawei Share**, and select **Everyone (10 min)** for the first sharing.
 
-1.  **Sender:** Select the file to share (for example, a picture), tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/common/buttons/ic_Celia_share.png" width="24" height="24"/>, tap HUAWEI Share, select the receiving device, and send the file.
-2.  **Receiver:** After receiving the file share prompt, tap Accept.
+1.  **Sending device:** Select the file you wish to share (for example, an image), tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_Celia_share.png" width="24" height="24"/>, then **Huawei Share**, and select the receiving device.
+
+2.  **Receiving device:** Once you receive the file transfer notification, tap **Accept**.

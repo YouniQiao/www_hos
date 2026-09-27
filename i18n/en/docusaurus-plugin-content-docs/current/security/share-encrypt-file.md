@@ -1,22 +1,35 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Encrypt a file and share it with specified authorized recipients
+# Encrypted Sharing to Prevent Data Leakage
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/video/20005748_f001_EncryptedSharing.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20005748_f001_EncryptedSharing.png" alt="" width="360" height="486"/>
 
-When you have important files that you want only specified authorized recipients to view, you can use encrypted sharing to set access permissions for the files.
+Concerned about leaking private photos, videos, audio, or documents when sharing? Use encrypted sharing to specify authorized viewers and restrict screenshots and screen recordings, effectively preventing data leaks.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  In Files, select the file you want to encrypt (such as a scanned PDF of your ID card), and tap Share.
-2.  Select Encrypted sharing, and enter the phone number bound to the HUAWEI ID of the target authorized recipient.
-3.  After encryption is complete, tap HUAWEI Share to share it. Only the target authorized recipient can open the file normally after receiving it.
+1.  In **Files** or **Gallery**, select the file you want to encrypt and go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_share.png" width="24" height="24" alt="分享图标"/> > Encrypted share.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  Set up sharing as prompted:
 
-+   This feature requires that both devices support HarmonyOS 5 or later.
-+   Not all file formats support encryption. More formats and sharing methods will be supported gradually. The actual experience shall prevail.
+    +   If no viewer is specified, **One view only** is used by default.
+
+    +   If you add a viewer, you can set the viewing period to **No limit**, **One view only**, or **Limited-time access** (e.g., 5 seconds).
+
+    +   You can enable **Add watermark** as needed.
+
+3.  Tap **Go share** to generate an encrypted file. The specified person can view the file after it is shared, but the file will become invalid if it is forwarded to others.
+
+**Note**
+
++   When you log in to the HUAWEI ID that generated the encrypted file, you can view the file without any restrictions such as the validity period.
+
++   Only devices running HarmonyOS 5 or later support viewing encrypted files. Encrypted files do not support screenshot and screen recording.
+
++   Only devices running HarmonyOS 6.1 or later support adding and viewing **Add watermark** and setting limited-time access.
+
++   Not all file formats support encryption. Actual experience shall prevail.

@@ -1,25 +1,25 @@
 ---
 last_update:
-  date: 2025-04-20
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Transfer Files Across Devices with Air Transfer
+# Cross-device File Transfers via Grab & drop
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/video/20008655_f001_Swing_share.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20008655_f001_Swing_share.png" alt="" width="360" height="486"/>
 
+Enable Grab & drop to transfer opened images or videos from Gallery, opened files in Files, or the music or video that is being played in HUAWEI Music or HUAWEI Video to other devices such as phones and tablets using air gestures.
 
-Use gestures to easily transfer an image or video open in Gallery on this device, music playing in HUAWEI Music, or a screenshot of the current screen to another phone or tablet.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+1.  On both devices, go to Settings > System > Shortcuts & gestures > Grab & drop, enable **Grab & drop**, and keep the screens on and unlocked.
 
-1.  On both devices, turn on Bluetooth and WLAN, and keep the screens on and unlocked.
-2.  On both devices, go to Settings > System > Quick launch and gestures > Air Transfer, and turn on the Air Transfer switch.
-3.  Hold your palm open facing the screen, and pause briefly at about half an arm's length from the screen. When <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/common/buttons/ic_swing_hand.png" width="24" height="24"/> appears on the screen, clench your hand into a fist to grab it, and the animation for the item to be shared appears.
-4.  Keep your hand clenched and move it in front of the receiving device's screen, then pause briefly. When <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/common/buttons/ic_swing_fist.png" width="24" height="24"/> appears on the screen, open your palm to start the transfer.
+2.  Hold your palm 20-40 cm away from the screen of the sending device until <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_swing_hand.png" width="24" height="24" alt="五指张开手势图标"/> displays on the screen. Then clench your fist and wait for the sharing animation to display.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+3.  Hold your fist and move it to the front of the screen of the receiving device. When <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_swing_fist.png" width="24" height="24" alt="五指握拳手势图标"/> displays on the screen, stretch your palm out.
 
-+   This feature requires both devices to be updated to the latest version of HarmonyOS 5.
-+   Before transferring music with Air Transfer, update HUAWEI Music to the latest version in AppGallery.
-+   For a better experience, keep a distance of more than 40 cm between the sending and receiving devices.
+**Note**
+
++   This feature requires that both devices run HarmonyOS 5 or later.
+
++   It is recommended that the distance between the sending and receiving devices be greater than 40 cm for better experience.

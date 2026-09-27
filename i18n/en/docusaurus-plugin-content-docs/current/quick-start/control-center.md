@@ -1,19 +1,25 @@
 ---
 last_update:
-  date: 2025-04-23
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Use Control Panel
+# Control Panel
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202409110ktSpl/zh-cn/image/video/10044640_f014_ControlCentre.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044640_f014_ControlCentre.png" alt="" width="360" height="486"/>
 
+Control Panel allows you to perform common operations, like switching the ringtone mode and default SIM card. You can also swipe left or right in the blank area to switch between Control Panel and Notification Panel.
 
-Whether your device is locked or unlocked, you can use Control Panel to quickly perform actions such as adjusting screen brightness or switching the ringer mode.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+Swipe down from the upper right corner of the screen to display Control Panel. From there, feel free to:
 
-Swipe down from the upper right side of the screen to open Control Panel:
++   Tap a shortcut switch to enable or disable the corresponding feature.
 
-+   Tap a shortcut switch to quickly turn a feature on or off.
-+   Touch and hold a shortcut switch. Some switches offer more settings.
++   Hold down on a shortcut switch to view more settings.
+
++   Swipe right from any position (except the brightness and volume areas) to switch to Notification Panel. Swipe left from the blank area in Notification Panel to switch back to Control Panel.
+
+**Note**
+
+If you do not wish to access Control Panel from the lock screen, go to Settings > Biometrics & screen lock and disable **Control Panel**.

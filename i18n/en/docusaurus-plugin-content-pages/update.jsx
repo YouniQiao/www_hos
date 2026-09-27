@@ -2,11 +2,83 @@ import React from 'react';
 import Layout from '@theme/Layout';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from '@site/src/pages/content-updates.module.css';
+import EN_DOC_IDS from '@site/src/generated/enDocs.json';
+
+const EN_DOC_IDS_SET = new Set(EN_DOC_IDS);
+
+/**
+ * 英文站的更新记录只列出「英文站真的存在」的内容：
+ * - Website pages / Blog 类照常显示；
+ * - device content 类（Phone/Tablet/PC/Wearable/HUAWEI Vision content）
+ *   只有对应文档已有官方英文原文时才显示，否则去掉。
+ * 这样英文读者照着 Release Notes 点进去不会扑空。
+ */
+const isDeviceContent = (category) => /content$/i.test(category || '');
+
+const visibleItems = (items) =>
+  (items || []).filter((it) => {
+    if (!isDeviceContent(it.category)) {
+      return true;
+    }
+    const m = (it.link || '').match(/^\/docs\/(.+?)\/?$/);
+    return m ? EN_DOC_IDS_SET.has(m[1]) : false;
+  });
+
+/**
+ * 给站内路径补上 baseUrl 前缀。
+ * 英文站构建时 siteConfig.baseUrl 是 "/en/"，中文站是 "/"，
+ * 所以同一份链接数据两种语言都能落到各自的页面；
+ * 外链（http/https）原样返回。
+ */
+function withBase(link, baseUrl) {
+  if (!link || /^https?:\/\//.test(link)) {
+    return link;
+  }
+  const base = (baseUrl || '/').replace(/\/$/, '');
+  return `${base}${link.startsWith('/') ? '' : '/'}${link}`;
+}
+
+/**
+ * 英文 category 形如 "Phone content"（含空格），不能直接作为 CSS Module 的类名，
+ * 否则 styles[category] 求值为 undefined，色条/圆点都不显示。
+ * 这里映射到 content-updates.module.css 中定义的驼峰类名。
+ */
+const CATEGORY_CLASS = {
+  'Website pages': 'websitePages',
+  'Phone content': 'phoneContent',
+  'Tablet content': 'tabletContent',
+  'PC content': 'pcContent',
+  'Wearable content': 'wearableContent',
+  'HUAWEI Vision content': 'visionContent',
+  'Smart screen content': 'smartScreenContent',
+  'Supported devices update': 'supportDevices',
+  Blog: 'blogCategory',
+};
+
+function categoryClass(styles, category) {
+  return styles[CATEGORY_CLASS[category] ?? ''] ?? '';
+}
 
 export default function ContentUpdates() {
   const {siteConfig} = useDocusaurusContext();
+  const baseUrl = siteConfig.baseUrl;
 
-  const updates = [
+  const rawUpdates = [
+    {
+      date: "2026-09-26",
+      items: [
+        {
+          text: "English site: 53 official English device guides are now available (Quick Start, AI, Security, Camera, Settings, All-Scenario)",
+          link: "/docs/quick-start/lock-screen",
+          category: "Website pages"
+        },
+        {
+          text: "English site: took over the official English titles, images and captions for all published guides",
+          link: "/docs/setting/immersive-light",
+          category: "Website pages"
+        },
+      ]
+    },
     {
       date: "2026-09-15",
       items: [
@@ -658,6 +730,12 @@ export default function ContentUpdates() {
    
   ];
 
+  // 只保留英文站真实存在的内容（过滤逻辑见文件顶部 visibleItems）。
+  // 下游的分组、统计、分类列表都基于这份结果，保证三处数字一致。
+  const updates = rawUpdates
+    .map((update) => ({...update, items: visibleItems(update.items)}))
+    .filter((update) => update.items.length > 0);
+
   // Changed grouping from date to month
   const groupedUpdates = updates.reduce((acc, update) => {
     const month = update.date.substring(0, 7); // Get year-month "2024-12"
@@ -690,12 +768,12 @@ export default function ContentUpdates() {
 
   return (
     <Layout
-      title={`Site update log - ${siteConfig.title}`}
+      title="Release Notes"
       description="Website content update history">
       <div className={styles.heroSection}>
         <div className={styles.heroContent}>
-          <h1 className={styles.heroTitle}>{'Site update log'}</h1>
-          <p className={styles.heroSubtitle}>{'Page and content update history'}</p>
+          <h1 className={styles.heroTitle}>{'Release Notes'}</h1>
+          <p className={styles.heroSubtitle}>{'What\u2019s new on this site'}</p>
           <p className={styles.heroDescription}>
             {'Records updates to all pages and content on the site, helping you stay informed of the latest changes'}
           </p>
@@ -719,8 +797,8 @@ export default function ContentUpdates() {
                       <div className={styles.timelineContent}>
                         <div className={styles.updateCards}>
                           {update.items.map((item, itemIndex) => (
-                            <a key={itemIndex} href={item.link} className={styles.updateCard}>
-                              <span className={`${styles.categoryTag} ${styles[item.category]}`}>
+                            <a key={itemIndex} href={withBase(item.link, baseUrl)} className={styles.updateCard}>
+                              <span className={`${styles.categoryTag} ${categoryClass(styles, item.category)}`}>
                                 {item.category}
                               </span>
                               <span className={styles.updateText}>
@@ -767,7 +845,7 @@ export default function ContentUpdates() {
                   const count = updates.flatMap(update => update.items).filter(item => item.category === category).length;
                   return (
                     <div key={category} className={styles.categoryItem}>
-                      <span className={`${styles.categoryDot} ${styles[category]}`}></span>
+                      <span className={`${styles.categoryDot} ${categoryClass(styles, category)}`}></span>
                       <span className={styles.categoryName}>{category}</span>
                       <span className={styles.categoryCount}>({count})</span>
                     </div>

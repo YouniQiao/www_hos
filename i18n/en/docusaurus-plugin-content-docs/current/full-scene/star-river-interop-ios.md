@@ -1,27 +1,31 @@
 ---
 last_update:
-  date: 2026-04-17
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# HarmonyOS Star River interconnect: Transfer files with iOS devices
+# Share Files Between HarmonyOS and iOS Devices
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/video/10044641_f070_ShareApple.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044641_f070_ShareApple.png" alt="" width="360" height="486"/>
 
-You can seamlessly transfer photos, videos, documents, and more between your HUAWEI phone, tablet, HarmonyOS PC, and other devices and your iPhone, iPad, or Mac.
+Seamlessly exchange photos, videos, and files across devices—whether they're Huawei smartphones, tablets, or HarmonyOS PCs, or even iPhones, iPads, and Macs.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-The following steps use file transfer between a HUAWEI phone and an iPhone as an example.
+The following example illustrates how to transfer files between your Huawei phone and iPhone.
 
-1. Before sharing, complete the following settings:
-   - **iPhone**: Download and open HarmonyOS Star River interconnect from the App Store, and turn on Bluetooth.
-   - **HUAWEI phone**: Go to the Control Panel, tap HUAWEI Share, and when sharing for the first time, select Visible to all (10 minutes).
+1.  Before you get started, apply the following settings:
 
-2. When sharing, perform the following operations based on the scenario:
-   - **Share from this device to iPhone**: Select the file to share, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/ic_Celia_share.png" width="24" height="24"/> > HUAWEI Share, then tap the iPhone icon you want to share with.
-   - **Share from iPhone to this device**: Open HarmonyOS Star River interconnect, tap Send, select the file to transfer, then tap the HUAWEI phone icon you want to share with.
+    +   **iPhone**: Download and open **HarmonyOS Interconnect** via App Store, and enable **Bluetooth**.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202612220zjZV2/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+    +   **Huawei phone**: Open **Control Panel**, tap **Huawei Share**, and select **Everyone (10 min)** for the first time.
 
-+ The iPhone must run iOS 13 or later, and the HUAWEI phone must run HarmonyOS 6.0.0.112 or later.
+2.  Perform the following operations based on the sharing scenario:
+
+    +   **From your phone to an iPhone**: Select the files to be shared, go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_Celia_share.png" width="24" height="24" alt="分享图标"/> > Huawei Share, and tap the icon of the target iPhone.
+
+    +   **From an iPhone to your phone**: Open **HarmonyOS Interconnect**, tap **I want to send**, select the files to be shared, and tap the icon of the target Huawei phone.
+
+**Note**
+
+The iPhone must run iOS 13 or later, and the Huawei phone must run HarmonyOS 6.0.0.112 or later.

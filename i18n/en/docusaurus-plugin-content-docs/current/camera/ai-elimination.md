@@ -1,21 +1,23 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Remove Unwanted Objects from Photos with AI
+# Wave a Magic Wand to Remove Unwanted Objects
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/video/10044584_f004_Elimination.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044584_f004_Elimination.png" alt="" width="360" height="486"/>
 
-Use the Remove feature in Gallery editing to easily erase passersby, power lines, and other unwanted objects from your photos for a clean, natural look.
+Tired of cables and other pesky objects ruining your photos? Just open the image in Gallery and swipe to have them removed!
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  In Gallery, select the photo you want to edit, then go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/ic_edit.png" width="24" height="24"/> > AI Retouch > Remove.
-2.  Choose a removal mode as needed:
-    +   Smart: Draw a line through the object you want to remove, then tap Remove.
+1.  In **Gallery**, tap the image you wish to edit, and go to <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_edit.png" width="24" height="24"/> > AI retouch > Remove.
 
-    +   Manual: Drag the slider or tap to select the brush size, then brush over the object you want to remove and tap Remove. For better results, brush over the entire object in one go.
+2.  Select one of the following methods as required:
 
-3.  Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24"/> to save the photo.
+    +   **Auto**: Tap on or draw lines over items you wish to remove, and tap **Remove**.
+
+    +   **Manual**: Choose your preferred eraser size, swipe on the object you wish to remove, and tap **Remove**. To enhance the removal effect, use a single swipe to remove an object.
+
+3.  Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_gallery_settings_save.png" width="24" height="24"/> to save the image.

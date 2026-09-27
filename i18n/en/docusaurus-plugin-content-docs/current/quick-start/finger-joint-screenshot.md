@@ -1,22 +1,23 @@
 ---
 last_update:
-  date: 2025-04-18
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
 # Knuckle Screenshot
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202507110unrw6/zh-cn/image/video/10044781_f001_Screenshot.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044781_f001_Screenshot.png" alt="" width="360" height="486"/>
 
+Capture content on your screen, a floating window, or a split-screen window, simply by knocking on the screen with your knuckles!
 
-Use a knuckle to quickly capture the current screen, or capture a floating window or split-screen window specifically, so you can easily freeze the moment.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Enable knuckle screenshot:** Go to Settings > System > Shortcuts & gestures > Screenshots and make sure that **Knuckle screenshots** is enabled.
 
-**Capture the full screen**: Tap the same spot on the screen twice quickly with a single knuckle. In floating window or split-screen mode, you can also tap the icon at the top of the thumbnail to capture different window content, for example: tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202507110unrw6/zh-cn/image/common/buttons/ic_floatingwindow.png" width="24" height="24"/> to capture only the floating window content.
+**Capture the full screen:** Knock twice on the screen with a single knuckle. In the floating window or split-screen mode, you can also tap the icon at the top of the thumbnail to capture content from different windows. For example, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_floatingwindow.png" width="24" height="24" alt="悬浮窗图标"/> to capture only the content from the floating window.
 
-**Scroll screenshot**: Tap the screen with a single knuckle and draw an S shape with a little force. The screen will automatically scroll down and take a screenshot. Tap the scrolling area to stop the screenshot.
+**Scrollshot:** Tap a single knuckle against the screen and hold to draw an "S". Your device will automatically scroll to the bottom of the screen to capture all of the content in a single screenshot. You can tap the screen at any time to stop the scrolling.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+**Note**
 
-Before using this feature, update your device to the latest version.
+Enable **Screenshot direct access** on the screenshot settings screen. In some scenarios, after you take a screenshot, your device will intelligently identify the screenshot and automatically match services.

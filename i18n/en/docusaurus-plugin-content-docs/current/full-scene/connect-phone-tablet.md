@@ -1,20 +1,21 @@
 ---
 last_update:
-  date: 2025-05-07
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Multi-screen collaboration: connect your phone and tablet
+# Multi-Screen Collaboration Between Your Phone and Tablet
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/video/20008669_f001_MultiCollaboration.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20008669_f001_MultiCollaboration.png" alt="" width="360" height="486"/>
 
-Once connected, you can mirror your phone window on your tablet, access phone apps, drag and drop files between them, and edit phone files.
+Connect your phone and tablet to use Multi-Screen Collaboration for cross-device operations, such as to display your phone screen on the tablet, use your phone apps on the tablet, drag files across the two devices, edit a file from your phone on the tablet, and unlock your phone.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  Enable Bluetooth and WLAN on both your phone and tablet, and sign in to the same HUAWEI ID.
-2.  Swipe down from the top right of your phone to open the Control Panel, then tap the tablet icon in Super Device to start the collaboration connection.
+1.  Enable **NearLink & Bluetooth** and **WLAN** on your phone and tablet, and log in to the same **HUAWEI ID** on both devices.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  Swipe down from the upper right corner of the phone to display Control Panel, and tap the tablet icon in **Super Device** to initiate a connection.
 
-This feature is currently supported only between devices running HarmonyOS 5 or later.
+**Note**
+
+To use biometric authentication to unlock your phone on your tablet, you need to enroll your face or fingerprint on the tablet in advance.

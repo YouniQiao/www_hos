@@ -1,24 +1,27 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Auto-fill account and password
+# Log In Faster with Password Vault
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/figure/10044531_f002_Keychain.png" width="360" height="486"/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044531_f002_Keychain.png" alt="" width="360" height="486"/>
 
-With Password Vault, you can save the account and password for apps and web pages the first time you sign in, and they will be filled in automatically the next time you sign in. Account data is encrypted, and even your phone cannot read it.
+Password Vault can save your accounts and passwords for you, so you can easily fill them in when logging in to apps and websites.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-Before using this feature, set a lock screen password.
+1.  After setting a lock screen password, save your accounts and passwords in either of the following ways:
 
-**Save passwords**: The first time you enter an account and password in an app or web page, your phone will prompt you to save them. Once saved, you can sign in again and have them filled in automatically after lock screen verification.
+    +   When logging in to an app or website for the first time, enter your account and password, tap to log in or return to the previous screen, and save the password as prompted.
 
-**Manage passwords**: Go to Settings > Privacy & security > Password Vault, pass lock screen verification, and then manage your saved accounts and passwords.
+    +   Go to Settings > Privacy & security > Password Vault > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/add_code.png" width="24" height="24" alt="添加图标"/>, select a password type, and manually enter the account and password or tap **Import from file** to import accounts and passwords in batches.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+2.  The next time you log in, your phone will autofill the account and password once you have verified your identity.
 
-+   On the Password Vault screen, turn on the Multi-device sync switch to sync your saved accounts and passwords to other devices (you need to sign in with the same HUAWEI ID).
-+   Some apps and web pages do not support this feature. The actual situation shall prevail.
+**Note**
+
++   Certain apps and websites do not support autofill. Please refer to the actual experience.
+
++   You can enable **Sync across devices** in **Password Vault** to sync your account and password data to other devices logged in to the same **HUAWEI ID** (with **Sync across devices** enabled). Data is encrypted for transmission between devices, so that others cannot access it.

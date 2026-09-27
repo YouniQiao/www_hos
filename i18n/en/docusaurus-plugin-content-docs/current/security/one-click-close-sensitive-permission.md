@@ -1,16 +1,21 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Turn Off Sensitive Permissions Such as the Camera with One Tap
+# Keep a Low Profile, with Super Privacy Mode
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202406260lXnqu/zh-cn/image/figure/10044537_f002_SuperPrivacyMode.png" width="360" height="486"/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044537_f002_SuperPrivacyMode.png" alt="" width="360" height="486"/>
 
+Enable Super Privacy during private or confidential conversations, such as confidential meetings, to prevent apps from accessing your camera, microphone, and location services.
 
-When you need to attend a confidential meeting or handle other highly sensitive situations, you can turn on Super Privacy Mode to prevent apps from using the camera, microphone, and location information, giving you a higher level of privacy protection.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+1.  Go to Settings > Privacy & security > Super Privacy, and enable **Super Privacy**.
 
-Go to Settings > Privacy & security > Super Privacy Mode, and turn on the Super Privacy Mode switch.
+2.  In the popup menu, you can tap the**Camera**, **Microphone** or **Location Services** icon to change their on/off status as needed.
+
+**Note**
+
+To enable Super Privacy mode, you must disable at least one of **Camera**, **Microphone**, **Location Services**.

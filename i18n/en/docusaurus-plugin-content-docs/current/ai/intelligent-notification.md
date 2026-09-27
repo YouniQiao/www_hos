@@ -1,24 +1,25 @@
 ---
 last_update:
-  date: 2025-04-20
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Smart reminder notifications
+# Intelligently Hide Content of Banner Notifications
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202507110unrw6/zh-cn/image/video/10044804_f009_SmartReminder.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044804_f009_SmartReminder.png" alt="" width="360" height="486"/>
 
+After the screen is unlocked, the system will automatically hide the content in banner notifications when your device detects that someone else is looking at the screen. And your connected Huawei watch will receive timely notifications.
 
-After you enable Smart reminder, the system hides the content of banner notifications when someone other than the phone owner or multiple people are viewing the phone. If you are wearing a HUAWEI watch, notifications are delivered on the watch instead. In addition, when someone is looking at the phone, notification reminders are softened.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+1.  Go to Settings > Biometrics & screen lock > Face recognition, enroll your face information as prompted, and enable Face unlock.
 
-1.  Go to Settings > Biometrics & password > Face recognition, and follow the onscreen instructions to enroll your facial information and enable Face unlock.
+2.  Go to Settings > Notifications & status bar > Banners, and under **Show banner content**, select **Only when I'm looking**.
 
-2.  Go to Settings > Notifications and status bar > More settings, and enable Smart reminder.
+**Note**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
++   To receive timely notifications on your watch, your watch must be connected to your phone via Bluetooth, and that **Sync notifications from phone to watch** and **Single device** have been enabled in the **Health** app on your phone.
 
-+   To receive notifications on your watch, the watch you are wearing must be paired with your phone over Bluetooth, and **Smart message reminder** and app notification **Notifications** must be enabled on the watch.
-+   Only some watches support this feature. The actual product prevails.
-+   For urgent messages such as earthquake alerts and calls, both your phone and watch will receive reminders, and the reminders will not be softened.
++   This feature is only supported on certain watch models.
+
++   For emergency messages such as earthquakes and calls, both the phone and the watch will receive notifications.

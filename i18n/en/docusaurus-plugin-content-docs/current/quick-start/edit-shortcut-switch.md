@@ -1,17 +1,23 @@
 ---
 last_update:
-  date: 2025-08-12
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Edit Quick Switches
+# Edit Control Panel
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202509160qo5Sr/zh-cn/image/video/10099735_f005_EditSwitches.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10099735_f005_EditSwitches.png" alt="" width="360" height="486"/>
 
-In the Control Panel, you can move the quick switches for frequently used features to a convenient position for quick access.
+Relocating the shortcut switches and brightness and volume bars in Control Panel gives you direct access to commonly-used features.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-1.  Swipe down from the upper right of the screen to open the Control Panel, then tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202509160qo5Sr/zh-cn/image/common/buttons/ic_controlpanel_edit.png" width="24" height="24"/> in the upper left corner to enter the editing screen.
-2.  Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202509160qo5Sr/zh-cn/image/common/buttons/ic_quickswitch_add.png" width="24" height="24"/> to enter the quick switch adding screen, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202509160qo5Sr/zh-cn/image/common/buttons/ic_quickswitch_add1.png" width="24" height="24"/> on a quick switch to add it to the upper panel, then tap anywhere in the gray area above to exit the adding screen.
-3.  Touch and hold a quick switch icon and drag it to adjust its position on the panel, then tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202509160qo5Sr/zh-cn/image/common/buttons/ic_choose_done.png" width="24" height="24"/> to finish editing.
+Swipe down from the upper right corner of the screen to display **Control Panel**, and tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_controlpanel_edit.png" width="24" height="24" alt="编辑图标"/> in the upper left corner to access the editing screen.
+
++   **Remove a switch**: Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_remove.png" width="24" height="24" alt="移除图标"/> on the shortcut switch to remove it from the panel.
+
++   **Add a switch**: Tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_quickswitch_add.png" width="24" height="24" alt="添加图标"/>. On the displayed screen, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_quickswitch_add1.png" width="24" height="24" alt="添加图标"/> on the shortcut switch to add it to the panel, and tap the gray area at the top to exit the adding screen.
+
++   **Move a switch**: Hold and drag the shortcut switch to adjust its position on the panel.
+
+Once you're done editing, tap <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/common/buttons/ic_choose_done.png" width="24" height="24" alt="确认图标"/> to save the settings.

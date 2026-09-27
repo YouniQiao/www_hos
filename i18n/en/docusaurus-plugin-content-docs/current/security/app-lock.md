@@ -1,28 +1,25 @@
 ---
 last_update:
-  date: 2025-04-29
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# App Lock: Protect Your App Data
+# Secured App Data with App Lock
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/video/10044533_f001_AppLock.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044533_f001_AppLock.png" alt="" width="360" height="486"/>
 
+You can apply App Lock to any app, so that it can only be opened when your identity is verified.
 
-Set App Lock for important apps such as chat and payment apps so they can only be opened after identity verification, preventing unauthorized access.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
++   On the home screen, hold down on the icon of the app you wish to lock, and tap **Add lock**.
 
-Access App Lock in either of the following ways:
++   Go to Settings > Privacy & security > App Lock. After your identity is verified, toggle on the app switch.
 
-+   On the home screen, touch and hold the icon of the app you want to lock, then tap Add App Lock.
-+   Go to Settings > Privacy & security > App Lock, complete verification, then turn on the switch for the app.
+When enabling App Lock for the first time, you can set **Screen lock** or **Privacy lock** as the verification method. If your face or fingerprint cannot be recognized, you can enter the password to access the app.
 
-When you enable it for the first time, you can set a lock screen password or a custom privacy password for verification. If face or fingerprint recognition is unavailable, use the password to gain access.
+After App Lock is enabled, you can open the app after your identity is verified.
 
-Once App Lock is added, tap the app and pass identity verification to open it.
+**Note**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
-
-+   Before using this feature, update your device to the latest version.
-+   You can go to Settings > Privacy & security > App Lock and turn on the Lock immediately after exit switch, so the app locks as soon as you exit it. You can also change the password type on this screen.
+Go to Settings > Privacy & security > App Lock and enable **Smart content display**. After this feature is enabled, notifications and home screen widgets of locked apps will only be visible when the owner is looking at the screen.

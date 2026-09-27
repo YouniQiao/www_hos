@@ -1,19 +1,21 @@
 ---
 last_update:
-  date: 2025-04-23
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Add One-Tap Lock Screen
+# Quick Screen Lock
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508180uszcw/zh-cn/image/figure/10044757_f006_ScreenLock.png" width="360" height="486"/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/10044757_f006_ScreenLock.png" alt="" width="360" height="486"/>
 
+Quickly lock your screen without pressing the Power button.
 
-Add the One-Tap Lock Screen app or card to the home screen to lock the screen quickly without pressing the power button — convenient and fast.
+**Try it out**
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Methods
++   **Lock screen**: Pinch two fingers on the home screen, tap **Widgets**, swipe down, tap **Lock screen**, select the required widget style, and tap **Add to home screen**.
 
-+   Add the app: In AppGallery, search for "One-Tap Lock Screen", tap Install, and add the One-Tap Lock Screen app to the home screen or the shortcut bar at the bottom.
-+   Add the card: Pinch in with two fingers on the home screen, tap Card, select One-Tap Lock Screen, and add the One-Tap Lock Screen card to the home screen.
++   **Tap to lock screen**: Go to Settings > System > Shortcuts & gestures, enable **Double-tap to lock**, and double-tap the blank area on the home screen.
 
-Once added, tap the One-Tap Lock Screen app icon or card to lock the screen.
+**Note**
+
+You can drag the Lock screen widget to the shortcut bar at the bottom. (A maximum of five icons are supported. Please ensure that there is enough space.)

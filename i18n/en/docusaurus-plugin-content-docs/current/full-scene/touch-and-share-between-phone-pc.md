@@ -1,25 +1,25 @@
 ---
 last_update:
-  date: 2025-11-03
+  date: 2026-09-26
   author: 油腻樵夫
 ---
 
-# Tap to Share Between Phone and PC
+# Tap to Transfer, for Instant File Sharing Between Your Phone and Computer
 
-<iframe src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202504201ngpds/zh-cn/image/video/20018712_f001_PCTouchShare.mp4#toolbar=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="360" height="486"> </iframe>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20018712_f001_PCTouchShare.png" alt="" width="360" height="486"/>
 
-Tap the top edge of your phone against the HUAWEI HarmonyOS PC screen to share photos, videos, documents, and more with each other, and even share a WLAN connection — for more efficient work.
+Share images, videos, documents, and **WLAN** between your phone and HarmonyOS computer simply by tapping the top of your phone against the screen of your HarmonyOS computer.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> Method
+**Try it out**
 
-On the HUAWEI HarmonyOS PC, go to Settings > Multi-device Collaboration > Tap to Share, turn on the Tap to Share switch, and make sure your phone and PC are signed in to the same HUAWEI ID.
+On your HarmonyOS computer, go to Settings > More connectivity options > Teleport and enable **Teleport**. Make sure that your phone and computer are logged in to the same **HUAWEI ID**.
 
-**Share from phone to PC:** Open or select the content you want to share on your phone, **tap the top edge** of your phone against the PC home screen, wait for the sharing animation to appear, then swipe up to share.
+**From your phone to your computer:** Open or select the content you wish to share on the phone, then gently **tap the top** of the phone against the computer's screen and hold briefly until the sharing effect appears. Swipe up to share.
 
-**Share from PC to phone**: **Open or select the content you want to share on the PC, go to the home screen on your phone, **tap the top edge** of your phone against the content window on the PC home screen, then tap Accept on your phone.
+**From your computer to your phone:** On the computer, open or select the content you wish to share. Tap the top edge of the phone with the main screen displayed against the content screen on your computer, and then tap **Accept**.
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B030/resource/card/202512281uswxk/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> Tips
+**Note**
 
-This feature requires your phone and HUAWEI HarmonyOS PC to be upgraded to HarmonyOS 6 or later.
++   This feature requires that both your phone and HarmonyOS computer run **HarmonyOS 6 or later**.
 
-A thick or irregularly shaped phone case may affect the experience. Actual performance may vary.
++   Thick or irregularly shaped phone cases will affect your user experience.
