@@ -1,26 +1,27 @@
 ---
 last_update:
-  date: 2025-09-14
+  date: 2026-09-27
   author: 油腻樵夫
 ---
 
 # 自动填充账号密码
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202508111clkwd/zh-cn/image/figure/10044531_f002_Keychain.png" width="560" height=""/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/figure/10044531_f002_Keychain.png" alt="" width="560" height=""/>
 
-使用密码保险箱，首次登录时，可保存应用和网页的账号和密码，再次登录时，自动填充。账号数据均加密保存，手机也无法读取。
+密码太多记不住？使用密码保险箱，可保存应用、网站的账号和密码，登录时自动填充，无需反复手动填写。
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
-使用此功能前，请先设置锁屏密码。
+1.  设置锁屏密码后，通过以下任一方式保存账号密码：
 
-**保存密码**：首次在应用或网页中，输入账号密码后，手机将弹窗提示您是否保存。保存后，再次登录时，通过锁屏验证即可自动填充。
+    +   首次在应用或网站中，输入账号密码，点击登录或返回后，根据提示保存密码。
 
-**管理密码**：点击设置 > 隐私和安全 > 密码保险箱，通过锁屏验证后，管理已保存的账号、密码。
+    +   进入设置 > 隐私和安全 > 密码保险箱 > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/add_code.png" width="24" height="24" alt="添加图标"/>，选择要新增的密码类型，手动保存账号密码，或点击**从文件导入账号密码**批量导入。
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
+2.  再次登录时，通过身份验证，平板可自动填充账号密码。
 
-+   在密码保险箱界面，开启多设备同步开关，可将已保存的账号密码同步到其他设备（需登录同一华为账号）。
-+   部分应用和网页不支持此功能，请以实际情况为准。
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
 
++   部分应用和网站不支持自动填充账号密码，请以实际情况为准。
 
++   在**密码保险箱**中开启**多设备同步**，可将账号密码数据同步至已登录同一**华为账号**的设备（需开启**多设备同步**）。数据同步时设备间端到端加密，其他人无法获取。

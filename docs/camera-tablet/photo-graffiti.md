@@ -1,27 +1,23 @@
 ---
 last_update:
-  date: 2025-09-14
+  date: 2026-09-27
   author: 油腻樵夫
 ---
 
 # 涂鸦新体验，还能一键还原
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202512310dkjZd/zh-cn/image/figure/20005895_f002_galleryedit.png" width="560" height=""/>
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/figure/20005895_f002_galleryedit.png" alt="" width="560" height=""/>
 
-您可以在图片上，用各种涂鸦笔触，轻松画出标准图形，或使用马赛克笔，保护图片隐私信息。您也可以添加文本框，为图片增添文字内容。保存图片后，还能一键恢复原图。
+您可以在图片上，用各种涂鸦笔触轻松画出标准图形，给图片添加文字，或是用马赛克笔涂抹隐私信息。保存图片后，还能一键恢复原图。
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
+<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> 方法
 
-1.  在图库中选择图片，点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202503041becsx/zh-cn/image/common/buttons/fig_method.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/penkitpenkit.png" width="24" height="24"/> ，进入涂鸦界面，选择不同笔触和颜色进行创作。
-2.  用手指一笔画出图形并停顿片刻，可快速生成标准图形。若需要为图片添加马赛克，可选择最右边的马赛克笔触。
-3.  点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_more.png" width="24" height="24"/> > 添加文本框，可以添加文字内容：
-    +   点击编辑，输入您想添加的文字后，点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_comfirm.png" width="24" height="24"/>。
-    +   点击样式，可以调整文本颜色和大小。
-    +   点击删除，可以删除文本框。
-4.  图片保存后，如需修改重做，可点击 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_gallery_edit1.png" width="24" height="24"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202512031Znvtc/zh-cn/image/common/buttons/ic_gallery_restore_edit.png" width="24" height="24"/> 恢复为原图。
+在图库中选择图片，点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/ic_gallery_edit1.png" width="24" height="24" alt="编辑图标"/>进入编辑界面：
 
-<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/EMUI/C00B030/resource/card/202508300vZjQz/zh-cn/image/common/buttons/fig_tips.png" width="24" height="24"/> 提示
++   点击**涂鸦**，您可以选择不同笔触和颜色进行创作。用手指一笔画出图形并停顿片刻，可快速生成标准图形。
 
-使用该功能前，请将您的设备升级到最新版本。
++   点击**文字**，您可以先点击**添加文本**，输入想添加的文字内容；再点击**样式**，调整文本颜色和字体大小。
 
++   点击**马赛克**，您可以给图片添加马赛克。
 
+图片保存后，如需修改重做，可点击<img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/ic_gallery_edit1.png" width="24" height="24" alt="编辑图标"/> > <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202606110qRije/zh-cn/image/common/buttons/ic_gallery_restore_edit.png" width="24" height="24" alt="恢复图标"/>恢复为原图。

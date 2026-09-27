@@ -558,6 +558,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'ai-tablet/xiaoyi-split-screen',
         'ai-tablet/screen-recognition',
         'ai-tablet/answer-devices-question',
         'ai-tablet/xiaoyi-memory',

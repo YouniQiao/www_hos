@@ -8,6 +8,111 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-09-27",
+      items: [
+        {
+          text: "使用控制中心",
+          link: "/docs/quick-start-tablet/control-center",
+          category: "平板内容"
+        },
+        {
+          text: "编辑控制中心",
+          link: "/docs/quick-start-tablet/edit-control-center",
+          category: "平板内容"
+        },
+        {
+          text: "添加一键锁屏",
+          link: "/docs/quick-start-tablet/lock-screen",
+          category: "平板内容"
+        },
+        {
+          text: "锁屏小工具，快速打开应用",
+          link: "/docs/quick-start-tablet/lock-screen-tool",
+          category: "平板内容"
+        },
+        {
+          text: "录屏，记录屏上精彩片段",
+          link: "/docs/quick-start-tablet/screen-recording",
+          category: "平板内容"
+        },
+        {
+          text: "小艺智能体，一步开启专业技能",
+          link: "/docs/ai-tablet/celia-agents-professional-skills",
+          category: "平板内容"
+        },
+        {
+          text: "小艺记忆，快速记录信息",
+          link: "/docs/ai-tablet/xiaoyi-memory",
+          category: "平板内容"
+        },
+        {
+          text: "长按导航条，快速唤醒小艺",
+          link: "/docs/ai-tablet/xiaoyi-wakeup",
+          category: "平板内容"
+        },
+        {
+          text: "分屏联动，解锁高效生活",
+          link: "/docs/ai-tablet/xiaoyi-split-screen",
+          category: "平板内容"
+        },
+        {
+          text: "自动填充账号密码",
+          link: "/docs/security-tablet/auto-fill-in-password",
+          category: "平板内容"
+        },
+        {
+          text: "加密文件，分享指定授权人",
+          link: "/docs/security-tablet/share-encrypt-file",
+          category: "平板内容"
+        },
+        {
+          text: "涂鸦新体验，还能一键还原",
+          link: "/docs/camera-tablet/photo-graffiti",
+          category: "平板内容"
+        },
+        {
+          text: "时刻，汇聚精彩瞬间",
+          link: "/docs/camera-tablet/time-album",
+          category: "平板内容"
+        },
+        {
+          text: "关怀模式，安全便捷",
+          link: "/docs/setting-tablet/care-mode",
+          category: "平板内容"
+        },
+        {
+          text: "桌面编辑，个性高效",
+          link: "/docs/setting-tablet/desktop-editting",
+          category: "平板内容"
+        },
+        {
+          text: "锁屏界面，个性装扮",
+          link: "/docs/setting-tablet/lock-screen",
+          category: "平板内容"
+        },
+        {
+          text: "备忘录速记，速览摘要和原文",
+          link: "/docs/setting-tablet/notes-quick-note-summary-and-original-text",
+          category: "平板内容"
+        },
+        {
+          text: "华为分享，极速分享文件",
+          link: "/docs/full-scene-tablet/huawei-share",
+          category: "平板内容"
+        },
+        {
+          text: "跨设备任务无缝接续",
+          link: "/docs/full-scene-tablet/seamless-connection",
+          category: "平板内容"
+        },
+        {
+          text: "无线投屏，畅享大屏体验",
+          link: "/docs/full-scene-tablet/wireless-screen-mirroring",
+          category: "平板内容"
+        },
+      ]
+    },
+    {
       date: "2026-09-26",
       items: [
         {
