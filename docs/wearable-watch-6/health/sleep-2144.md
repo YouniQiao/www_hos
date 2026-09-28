@@ -1,0 +1,32 @@
+---
+last_update:
+  date: 2026-09-28
+  author: 油腻樵夫
+---
+
+# 监测睡眠
+
+正确佩戴穿戴设备，穿戴设备可以识别您的入睡、醒来及睡眠结构等数据，基于这些数据给出睡眠质量评分，并提供对应的睡眠建议。
+
+## 睡眠设置
+
+1.  在穿戴设备应用列表中，点击睡眠，上滑屏幕进入更多页面。
+2.  点击睡眠模式，请根据需要进行相关设置： 睡眠模式：默认关闭，开启睡眠模式后，来电和通知静音且不振动（闹钟除外），抬腕不亮屏，表盘将进入简化模式。 与初始版本为HarmonyOS 5.1及以上版本的华为手机连接使用时：开启睡眠模式后，来电和通知静音且不振动（允许打扰及闹钟除外），抬腕不亮屏，表盘将进入简化模式。 定时开启，开启定时开关后，设备将根据您设置的时间进出睡眠模式。添加定时时间：点击添加定时，设置就寝时间、起床时间和重复日期，点击确定即可。 删除已添加的定时：点击进入已添加的定时，点击删除即可。穿戴设备预置的一个定时时间，仅支持编辑，不支持删除。
+
+## 开启/关闭科学睡眠
+
+在华为运动健康的设备详情页，点击睡眠 > 科学睡眠，可开启或关闭科学睡眠开关。
+
+科学睡眠默认开启，关闭科学睡眠，将无法获取睡眠数据及分析。
+
+## 查看/删除睡眠数据
+
+查看睡眠数据
+
++   在穿戴设备应用列表中，点击睡眠，可以查看当天夜间睡眠、零星小睡和睡眠健康等数据，可点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002238650645.png" width="24" height="24"/>查看测量结果的解释说明。支持查看的睡眠数据有，深度睡眠 N3 时长、浅度睡眠 N1/N2 时长、快速眼动 REM 时长、零星小睡时长、平均心率值和平均 HRV 值等。 <img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002556073761.png"/><img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002525153858.png"/><img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002515854020.png"/>
++   在华为运动健康的首页，点击睡眠卡片，可查看睡眠详情数据。也可以在睡眠卡片页面，点击右上角<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002645084454.png" width="24" height="24"/> > 所有数据，查看更多历史睡眠数据。<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002515694098.png"/>
+
+删除睡眠数据
+
+1.  在华为运动健康的首页，点击睡眠卡片。
+2.  点击右上角<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0FO/zh-CN/zh-cn_image_0000002675084295.png" width="24" height="24"/> > 所有数据，点击右上角的删除图标，选择并删除历史睡眠数据。

@@ -45,6 +45,56 @@ export default function ContentUpdates() {
           link: "/docs/more-tv/nas",
           category: "智慧屏内容"
         },
+        {
+          text: "HUAWEI WATCH D3 使用指南",
+          link: "/docs/wearable-watch-d3",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH 6 系列使用指南",
+          link: "/docs/wearable-watch-6",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH GT 7 系列使用指南",
+          link: "/docs/wearable-watch-gt7",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH FIT 5 系列使用指南",
+          link: "/docs/wearable-watch-fit5",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH Buds 2 使用指南",
+          link: "/docs/wearable-watch-buds2",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH | ULTIMATE DESIGN 使用指南",
+          link: "/docs/wearable-watch-ultimate-design",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH GT Runner 2 使用指南",
+          link: "/docs/wearable-watch-gt-runner2",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH Ultimate 2 使用指南",
+          link: "/docs/wearable-watch-ultimate2",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH GT 6 系列使用指南",
+          link: "/docs/wearable-watch-gt6",
+          category: "穿戴内容"
+        },
+        {
+          text: "HUAWEI WATCH 5 使用指南",
+          link: "/docs/wearable-watch-5",
+          category: "穿戴内容"
+        },
       ]
     },
     {

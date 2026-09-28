@@ -1,0 +1,38 @@
+---
+last_update:
+  date: 2026-09-28
+  author: 油腻樵夫
+---
+
+# 测量心率
+
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/images/icon-note.svg" width="24" height="24"/>
+
++   测量数据仅作为参考，不可作为医疗诊断依据。
++   为保证心率测量的准确性，请正常佩戴设备，避开骨节，不要太松，运动时请尽量偏紧佩戴。
++   受外界因素（如血流灌注低、手臂毛发多、有纹身、肤色较深、手臂下垂、手臂晃动、低温等）影响，可能会出现测量结果不准，或者无法出值的情况。
+
+## 连续测量心率
+
+1.  在华为运动健康的首页，点击心脏健康，点击右上角的<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/zh-cn_image_0000002441223990.png"/> > 设置，确保连续测量心率开关已打开。
+2.  可将心率测量方式设置为智能或实时。 智能：根据活动量，智能监测心率。 实时：不区分活动量，实时监测心率。
+3.  在华为运动健康的首页，点击心脏健康，点击右上角的<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/zh-cn_image_0000002378667093.png"/> > 所有数据，可查看/删除测量的心率数据。
+
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/images/icon-note.svg" width="24" height="24"/>
+
++   实时模式监测心率会增加设备耗电，智能模式根据活动强度调整心率测量周期，有助于省电。
++   设备侧心率测量界面的图标值如<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/zh-cn_image_0000002503704223.png"/>，表示当天测量到的最高心率和最低心率值。
+
+## 设置心率提醒
+
+1.  在华为运动健康的首页，点击心脏健康，点击右上角的<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/zh-cn_image_0000002474463949.png"/> > 设置，开启连续测量心率开关，设置心率过高提醒和心率过低提醒。
+2.  设置完成后，非活动状态下，心率持续10分钟以上都高于或低于设定值时，通过设备振动提醒且屏幕会出现心率过高或过低提示。
+
+## 单次心率测量
+
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/images/icon-note.svg" width="24" height="24"/>
+
++   单次心率测量数据不同步至华为运动健康。
+
+1.  在华为运动健康的首页，点击心脏健康，点击右上角的<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0ER/zh-CN/zh-cn_image_0000002441064118.png"/> > 设置，关闭连续测量心率开关。
+2.  在设备应用列表中，点击心率，进行单次心率测量，测量结果在设备上查看。

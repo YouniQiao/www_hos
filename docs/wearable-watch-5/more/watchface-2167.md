@@ -1,0 +1,17 @@
+---
+last_update:
+  date: 2026-09-28
+  author: 油腻樵夫
+---
+
+# 设置视频表盘
+
+<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0EB/zh-CN/images/icon-note.svg" width="24" height="24"/>
+
++   使用该功能前，请将华为运动健康和手表升级至最新版本。
++   与 iOS 手机配对使用时不支持自定义视频表盘。
+
+1.  在华为运动健康的设备详情页，点击我的表盘，选择视频表盘，进入视频表盘设置界面。
+2.  选择系统自带的视频。或点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0EB/zh-CN/zh-cn_image_0000002356307844.png" width="24" height="24"/>，选择录像或上传本地视频，上传视频后，点击<img src="https://tips-p01-drcn.dbankcdn.cn/hwtips/topic/M0EB/zh-CN/zh-cn_image_0000002389907749.png" width="24" height="24"/>。
+3.  也可选择样式、时间位置、功能，设置视频表盘控件的样式、位置等。
+4.  点击 设为当前表盘，设备表盘将自动切换为所设置的表盘。 视频表盘只能添加上传一个，可选择系统提供的视频表盘。系统提供的视频表盘，无法删除。 当设置为视频表盘时，轻触表盘可切换视频。

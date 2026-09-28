@@ -1,385 +1,641 @@
 {
-  "version.label": {
-    "message": "Next",
-    "description": "The label for version current"
-  },
-  "sidebar.phoneSidebar.category.快速上手": {
+  "sidebar.carSidebar.category.新机上手": {
     "message": "Getting Started",
-    "description": "The label for category 快速上手 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.快速上手.link.generated-index.title": {
-    "message": "Getting Started",
-    "description": "The generated-index page title for category 快速上手 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.快速上手.link.generated-index.description": {
-    "message": "Learn gesture navigation, screenshots, and other basics",
-    "description": "The generated-index page description for category 快速上手 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.智慧体验": {
-    "message": "Smart Experience",
-    "description": "The label for category 智慧体验 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.智慧体验.link.generated-index.title": {
-    "message": "Smart Experience",
-    "description": "The generated-index page title for category 智慧体验 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.智慧体验.link.generated-index.description": {
-    "message": "Experience a more efficient life with smart features",
-    "description": "The generated-index page description for category 智慧体验 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.纯净安全": {
-    "message": "Pure Security",
-    "description": "The label for category 纯净安全 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.纯净安全.link.generated-index.title": {
-    "message": "Pure Security",
-    "description": "The generated-index page title for category 纯净安全 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.纯净安全.link.generated-index.description": {
-    "message": "Always protecting your privacy and security",
-    "description": "The generated-index page description for category 纯净安全 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.精彩影像": {
-    "message": "Imaging",
-    "description": "The label for category 精彩影像 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.精彩影像.link.generated-index.title": {
-    "message": "Imaging",
-    "description": "The generated-index page title for category 精彩影像 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.精彩影像.link.generated-index.description": {
-    "message": "Master photography, image editing, and more",
-    "description": "The generated-index page description for category 精彩影像 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.个性设置": {
-    "message": "Personalization",
-    "description": "The label for category 个性设置 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.个性设置.link.generated-index.title": {
-    "message": "Personalization",
-    "description": "The generated-index page title for category 个性设置 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.个性设置.link.generated-index.description": {
-    "message": "Learn how to customize your device",
-    "description": "The generated-index page description for category 个性设置 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.全场景": {
-    "message": "All-Scenario",
-    "description": "The label for category 全场景 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.全场景.link.generated-index.title": {
-    "message": "All-Scenario",
-    "description": "The generated-index page title for category 全场景 in sidebar phoneSidebar"
-  },
-  "sidebar.phoneSidebar.category.全场景.link.generated-index.description": {
-    "message": "See how multiple products work together seamlessly",
-    "description": "The generated-index page description for category 全场景 in sidebar phoneSidebar"
-  },
-  "sidebar.pcSidebar.category.新机上手": {
-    "message": "Getting Started",
-    "description": "The label for category 新机上手 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.新机上手.link.generated-index.title": {
-    "message": "Getting Started",
-    "description": "The generated-index page title for category 新机上手 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.新机上手.link.generated-index.description": {
-    "message": "Learn Control Panel, screenshots, and other basics",
-    "description": "The generated-index page description for category 新机上手 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.全场景": {
-    "message": "All-Scenario",
-    "description": "The label for category 全场景 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.全场景.link.generated-index.title": {
-    "message": "All-Scenario",
-    "description": "The generated-index page title for category 全场景 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.全场景.link.generated-index.description": {
-    "message": "See how multiple products work together seamlessly",
-    "description": "The generated-index page description for category 全场景 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.智慧体验": {
-    "message": "Smart Experience",
-    "description": "The label for category 智慧体验 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.智慧体验.link.generated-index.title": {
-    "message": "Smart Experience",
-    "description": "The generated-index page title for category 智慧体验 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.智慧体验.link.generated-index.description": {
-    "message": "Experience more efficient work with smart features",
-    "description": "The generated-index page description for category 智慧体验 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.常用手势": {
-    "message": "Common Gestures",
-    "description": "The label for category 常用手势 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.常用手势.link.generated-index.title": {
-    "message": "Common Gestures",
-    "description": "The generated-index page title for category 常用手势 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.常用手势.link.generated-index.description": {
-    "message": "Learn how to use gesture shortcuts on your PC",
-    "description": "The generated-index page description for category 常用手势 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.快捷键": {
-    "message": "Keyboard Shortcuts",
-    "description": "The label for category 快捷键 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.快捷键.link.generated-index.title": {
-    "message": "Keyboard Shortcuts",
-    "description": "The generated-index page title for category 快捷键 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.快捷键.link.generated-index.description": {
-    "message": "Learn how to use key combinations on your PC",
-    "description": "The generated-index page description for category 快捷键 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.高效办公": {
-    "message": "Efficient Work",
-    "description": "The label for category 高效办公 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.高效办公.link.generated-index.title": {
-    "message": "Efficient Work",
-    "description": "The generated-index page title for category 高效办公 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.高效办公.link.generated-index.description": {
-    "message": "Learn how to work efficiently with Files, Notepad, and other apps",
-    "description": "The generated-index page description for category 高效办公 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.纯净安全": {
-    "message": "Pure & Secure",
-    "description": "The label for category 纯净安全 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.纯净安全.link.generated-index.title": {
-    "message": "Pure & Secure",
-    "description": "The generated-index page title for category 纯净安全 in sidebar pcSidebar"
-  },
-  "sidebar.pcSidebar.category.纯净安全.link.generated-index.description": {
-    "message": "Always protecting your privacy and security",
-    "description": "The generated-index page description for category 纯净安全 in sidebar pcSidebar"
+    "description": "The label for category 新机上手 in sidebar carSidebar"
   },
   "sidebar.pcSidebar.category.个性设置": {
     "message": "Personalization",
     "description": "The label for category 个性设置 in sidebar pcSidebar"
   },
+  "sidebar.pcSidebar.category.个性设置.link.generated-index.description": {
+    "message": "Learn how to customize your device",
+    "description": "The generated-index page description for category 个性设置 in sidebar pcSidebar"
+  },
   "sidebar.pcSidebar.category.个性设置.link.generated-index.title": {
     "message": "Personalization",
     "description": "The generated-index page title for category 个性设置 in sidebar pcSidebar"
   },
-  "sidebar.pcSidebar.category.个性设置.link.generated-index.description": {
-    "message": "Learn how to customize your device",
-    "description": "The generated-index page description for category 个性设置 in sidebar pcSidebar"
+  "sidebar.pcSidebar.category.全场景": {
+    "message": "All-Scenario",
+    "description": "The label for category 全场景 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.全场景.link.generated-index.description": {
+    "message": "See how multiple products work together seamlessly",
+    "description": "The generated-index page description for category 全场景 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.全场景.link.generated-index.title": {
+    "message": "All-Scenario",
+    "description": "The generated-index page title for category 全场景 in sidebar pcSidebar"
   },
   "sidebar.pcSidebar.category.其它说明": {
     "message": "Other Information",
     "description": "The label for category 其它说明 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.快速上手": {
+  "sidebar.pcSidebar.category.常用手势": {
+    "message": "Common Gestures",
+    "description": "The label for category 常用手势 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.常用手势.link.generated-index.description": {
+    "message": "Learn how to use gesture shortcuts on your PC",
+    "description": "The generated-index page description for category 常用手势 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.常用手势.link.generated-index.title": {
+    "message": "Common Gestures",
+    "description": "The generated-index page title for category 常用手势 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.快捷键": {
+    "message": "Keyboard Shortcuts",
+    "description": "The label for category 快捷键 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.快捷键.link.generated-index.description": {
+    "message": "Learn how to use key combinations on your PC",
+    "description": "The generated-index page description for category 快捷键 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.快捷键.link.generated-index.title": {
+    "message": "Keyboard Shortcuts",
+    "description": "The generated-index page title for category 快捷键 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.新机上手": {
     "message": "Getting Started",
-    "description": "The label for category 快速上手 in sidebar tabletSidebar"
+    "description": "The label for category 新机上手 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.快速上手.link.generated-index.title": {
+  "sidebar.pcSidebar.category.新机上手.link.generated-index.description": {
+    "message": "Learn Control Panel, screenshots, and other basics",
+    "description": "The generated-index page description for category 新机上手 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.新机上手.link.generated-index.title": {
     "message": "Getting Started",
-    "description": "The generated-index page title for category 快速上手 in sidebar tabletSidebar"
+    "description": "The generated-index page title for category 新机上手 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.快速上手.link.generated-index.description": {
-    "message": "Learn basic operations like gesture navigation and screenshots",
-    "description": "The generated-index page description for category 快速上手 in sidebar tabletSidebar"
-  },
-  "sidebar.tabletSidebar.category.智慧体验": {
+  "sidebar.pcSidebar.category.智慧体验": {
     "message": "Smart Experience",
-    "description": "The label for category 智慧体验 in sidebar tabletSidebar"
+    "description": "The label for category 智慧体验 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.智慧体验.link.generated-index.title": {
+  "sidebar.pcSidebar.category.智慧体验.link.generated-index.description": {
+    "message": "Experience more efficient work with smart features",
+    "description": "The generated-index page description for category 智慧体验 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.智慧体验.link.generated-index.title": {
     "message": "Smart Experience",
-    "description": "The generated-index page title for category 智慧体验 in sidebar tabletSidebar"
+    "description": "The generated-index page title for category 智慧体验 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.智慧体验.link.generated-index.description": {
-    "message": "Experience efficient living with smart features",
-    "description": "The generated-index page description for category 智慧体验 in sidebar tabletSidebar"
-  },
-  "sidebar.tabletSidebar.category.纯净安全": {
+  "sidebar.pcSidebar.category.纯净安全": {
     "message": "Pure & Secure",
-    "description": "The label for category 纯净安全 in sidebar tabletSidebar"
+    "description": "The label for category 纯净安全 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.纯净安全.link.generated-index.title": {
-    "message": "Pure & Secure",
-    "description": "The generated-index page title for category 纯净安全 in sidebar tabletSidebar"
-  },
-  "sidebar.tabletSidebar.category.纯净安全.link.generated-index.description": {
+  "sidebar.pcSidebar.category.纯净安全.link.generated-index.description": {
     "message": "Always protecting your privacy and security",
-    "description": "The generated-index page description for category 纯净安全 in sidebar tabletSidebar"
+    "description": "The generated-index page description for category 纯净安全 in sidebar pcSidebar"
   },
-  "sidebar.tabletSidebar.category.精彩影像": {
+  "sidebar.pcSidebar.category.纯净安全.link.generated-index.title": {
+    "message": "Pure & Secure",
+    "description": "The generated-index page title for category 纯净安全 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.高效办公": {
+    "message": "Efficient Work",
+    "description": "The label for category 高效办公 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.高效办公.link.generated-index.description": {
+    "message": "Learn how to work efficiently with Files, Notepad, and other apps",
+    "description": "The generated-index page description for category 高效办公 in sidebar pcSidebar"
+  },
+  "sidebar.pcSidebar.category.高效办公.link.generated-index.title": {
+    "message": "Efficient Work",
+    "description": "The generated-index page title for category 高效办公 in sidebar pcSidebar"
+  },
+  "sidebar.phoneSidebar.category.个性设置": {
+    "message": "Personalization",
+    "description": "The label for category 个性设置 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.个性设置.link.generated-index.description": {
+    "message": "Learn how to customize your device",
+    "description": "The generated-index page description for category 个性设置 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.个性设置.link.generated-index.title": {
+    "message": "Personalization",
+    "description": "The generated-index page title for category 个性设置 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.全场景": {
+    "message": "All-Scenario",
+    "description": "The label for category 全场景 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.全场景.link.generated-index.description": {
+    "message": "See how multiple products work together seamlessly",
+    "description": "The generated-index page description for category 全场景 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.全场景.link.generated-index.title": {
+    "message": "All-Scenario",
+    "description": "The generated-index page title for category 全场景 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.快速上手": {
+    "message": "Getting Started",
+    "description": "The label for category 快速上手 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.快速上手.link.generated-index.description": {
+    "message": "Learn gesture navigation, screenshots, and other basics",
+    "description": "The generated-index page description for category 快速上手 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.快速上手.link.generated-index.title": {
+    "message": "Getting Started",
+    "description": "The generated-index page title for category 快速上手 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.智慧体验": {
+    "message": "Smart Experience",
+    "description": "The label for category 智慧体验 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.智慧体验.link.generated-index.description": {
+    "message": "Experience a more efficient life with smart features",
+    "description": "The generated-index page description for category 智慧体验 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.智慧体验.link.generated-index.title": {
+    "message": "Smart Experience",
+    "description": "The generated-index page title for category 智慧体验 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.精彩影像": {
     "message": "Imaging",
-    "description": "The label for category 精彩影像 in sidebar tabletSidebar"
+    "description": "The label for category 精彩影像 in sidebar phoneSidebar"
   },
-  "sidebar.tabletSidebar.category.精彩影像.link.generated-index.title": {
+  "sidebar.phoneSidebar.category.精彩影像.link.generated-index.description": {
+    "message": "Master photography, image editing, and more",
+    "description": "The generated-index page description for category 精彩影像 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.精彩影像.link.generated-index.title": {
     "message": "Imaging",
-    "description": "The generated-index page title for category 精彩影像 in sidebar tabletSidebar"
+    "description": "The generated-index page title for category 精彩影像 in sidebar phoneSidebar"
   },
-  "sidebar.tabletSidebar.category.精彩影像.link.generated-index.description": {
-    "message": "Master photo shooting, image editing, and more",
-    "description": "The generated-index page description for category 精彩影像 in sidebar tabletSidebar"
+  "sidebar.phoneSidebar.category.纯净安全": {
+    "message": "Pure Security",
+    "description": "The label for category 纯净安全 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.纯净安全.link.generated-index.description": {
+    "message": "Always protecting your privacy and security",
+    "description": "The generated-index page description for category 纯净安全 in sidebar phoneSidebar"
+  },
+  "sidebar.phoneSidebar.category.纯净安全.link.generated-index.title": {
+    "message": "Pure Security",
+    "description": "The generated-index page title for category 纯净安全 in sidebar phoneSidebar"
   },
   "sidebar.tabletSidebar.category.个性设置": {
     "message": "Personalization",
     "description": "The label for category 个性设置 in sidebar tabletSidebar"
   },
-  "sidebar.tabletSidebar.category.个性设置.link.generated-index.title": {
-    "message": "Personalization",
-    "description": "The generated-index page title for category 个性设置 in sidebar tabletSidebar"
-  },
   "sidebar.tabletSidebar.category.个性设置.link.generated-index.description": {
     "message": "Learn how to customize your device",
     "description": "The generated-index page description for category 个性设置 in sidebar tabletSidebar"
+  },
+  "sidebar.tabletSidebar.category.个性设置.link.generated-index.title": {
+    "message": "Personalization",
+    "description": "The generated-index page title for category 个性设置 in sidebar tabletSidebar"
   },
   "sidebar.tabletSidebar.category.全场景": {
     "message": "All Scenarios",
     "description": "The label for category 全场景 in sidebar tabletSidebar"
   },
-  "sidebar.tabletSidebar.category.全场景.link.generated-index.title": {
-    "message": "All Scenarios",
-    "description": "The generated-index page title for category 全场景 in sidebar tabletSidebar"
-  },
   "sidebar.tabletSidebar.category.全场景.link.generated-index.description": {
     "message": "Learn how multiple products work together seamlessly",
     "description": "The generated-index page description for category 全场景 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.快速上手": {
+  "sidebar.tabletSidebar.category.全场景.link.generated-index.title": {
+    "message": "All Scenarios",
+    "description": "The generated-index page title for category 全场景 in sidebar tabletSidebar"
+  },
+  "sidebar.tabletSidebar.category.快速上手": {
     "message": "Getting Started",
-    "description": "The label for category 快速上手 in sidebar tvSidebar"
+    "description": "The label for category 快速上手 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.快速上手.link.generated-index.title": {
+  "sidebar.tabletSidebar.category.快速上手.link.generated-index.description": {
+    "message": "Learn basic operations like gesture navigation and screenshots",
+    "description": "The generated-index page description for category 快速上手 in sidebar tabletSidebar"
+  },
+  "sidebar.tabletSidebar.category.快速上手.link.generated-index.title": {
     "message": "Getting Started",
-    "description": "The generated-index page title for category 快速上手 in sidebar tvSidebar"
+    "description": "The generated-index page title for category 快速上手 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.快速上手.link.generated-index.description": {
-    "message": "Learn how to connect HUAWEI Vision and watch live TV",
-    "description": "The generated-index page description for category 快速上手 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.智慧体验": {
+    "message": "Smart Experience",
+    "description": "The label for category 智慧体验 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀指向遥控": {
-    "message": "Smart Remote",
-    "description": "The label for category 灵犀指向遥控 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.智慧体验.link.generated-index.description": {
+    "message": "Experience efficient living with smart features",
+    "description": "The generated-index page description for category 智慧体验 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀指向遥控.link.generated-index.title": {
-    "message": "Smart Remote",
-    "description": "The generated-index page title for category 灵犀指向遥控 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.智慧体验.link.generated-index.title": {
+    "message": "Smart Experience",
+    "description": "The generated-index page title for category 智慧体验 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀指向遥控.link.generated-index.description": {
-    "message": "Learn how to use the Smart Remote",
-    "description": "The generated-index page description for category 灵犀指向遥控 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.精彩影像": {
+    "message": "Imaging",
+    "description": "The label for category 精彩影像 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.投屏方法": {
-    "message": "Screen Mirroring",
-    "description": "The label for category 投屏方法 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.精彩影像.link.generated-index.description": {
+    "message": "Master photo shooting, image editing, and more",
+    "description": "The generated-index page description for category 精彩影像 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.投屏方法.link.generated-index.title": {
-    "message": "Screen Mirroring",
-    "description": "The generated-index page title for category 投屏方法 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.精彩影像.link.generated-index.title": {
+    "message": "Imaging",
+    "description": "The generated-index page title for category 精彩影像 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.投屏方法.link.generated-index.description": {
-    "message": "Learn how to use each screen mirroring method",
-    "description": "The generated-index page description for category 投屏方法 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.纯净安全": {
+    "message": "Pure & Secure",
+    "description": "The label for category 纯净安全 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.畅连通话": {
-    "message": "MeeTime Calls",
-    "description": "The label for category 畅连通话 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.纯净安全.link.generated-index.description": {
+    "message": "Always protecting your privacy and security",
+    "description": "The generated-index page description for category 纯净安全 in sidebar tabletSidebar"
   },
-  "sidebar.tvSidebar.category.畅连通话.link.generated-index.title": {
-    "message": "MeeTime Calls",
-    "description": "The generated-index page title for category 畅连通话 in sidebar tvSidebar"
-  },
-  "sidebar.tvSidebar.category.畅连通话.link.generated-index.description": {
-    "message": "Learn to use MeeTime on HUAWEI Vision",
-    "description": "The generated-index page description for category 畅连通话 in sidebar tvSidebar"
-  },
-  "sidebar.tvSidebar.category.智享生活": {
-    "message": "Smart Living",
-    "description": "The label for category 智享生活 in sidebar tvSidebar"
-  },
-  "sidebar.tvSidebar.category.智享生活.link.generated-index.title": {
-    "message": "Smart Living",
-    "description": "The generated-index page title for category 智享生活 in sidebar tvSidebar"
-  },
-  "sidebar.tvSidebar.category.智享生活.link.generated-index.description": {
-    "message": "Discover more smart features of HUAWEI Vision",
-    "description": "The generated-index page description for category 智享生活 in sidebar tvSidebar"
+  "sidebar.tabletSidebar.category.纯净安全.link.generated-index.title": {
+    "message": "Pure & Secure",
+    "description": "The generated-index page title for category 纯净安全 in sidebar tabletSidebar"
   },
   "sidebar.tvSidebar.category.全场景协同": {
     "message": "All-Scenario Collaboration",
     "description": "The label for category 全场景协同 in sidebar tvSidebar"
   },
-  "sidebar.tvSidebar.category.全场景协同.link.generated-index.title": {
-    "message": "All-Scenario Collaboration",
-    "description": "The generated-index page title for category 全场景协同 in sidebar tvSidebar"
-  },
   "sidebar.tvSidebar.category.全场景协同.link.generated-index.description": {
     "message": "Learn to use HUAWEI Vision for multi-device collaboration",
     "description": "The generated-index page description for category 全场景协同 in sidebar tvSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀悬浮触控": {
-    "message": "Air Touch",
-    "description": "The label for category 灵犀悬浮触控 in sidebar tvSidebar"
+  "sidebar.tvSidebar.category.全场景协同.link.generated-index.title": {
+    "message": "All-Scenario Collaboration",
+    "description": "The generated-index page title for category 全场景协同 in sidebar tvSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀悬浮触控.link.generated-index.title": {
-    "message": "Air Touch",
-    "description": "The generated-index page title for category 灵犀悬浮触控 in sidebar tvSidebar"
+  "sidebar.tvSidebar.category.快速上手": {
+    "message": "Getting Started",
+    "description": "The label for category 快速上手 in sidebar tvSidebar"
   },
-  "sidebar.tvSidebar.category.灵犀悬浮触控.link.generated-index.description": {
-    "message": "Learn to use Air Touch",
-    "description": "The generated-index page description for category 灵犀悬浮触控 in sidebar tvSidebar"
+  "sidebar.tvSidebar.category.快速上手.link.generated-index.description": {
+    "message": "Learn how to connect HUAWEI Vision and watch live TV",
+    "description": "The generated-index page description for category 快速上手 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.快速上手.link.generated-index.title": {
+    "message": "Getting Started",
+    "description": "The generated-index page title for category 快速上手 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.投屏方法": {
+    "message": "Screen Mirroring",
+    "description": "The label for category 投屏方法 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.投屏方法.link.generated-index.description": {
+    "message": "Learn how to use each screen mirroring method",
+    "description": "The generated-index page description for category 投屏方法 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.投屏方法.link.generated-index.title": {
+    "message": "Screen Mirroring",
+    "description": "The generated-index page title for category 投屏方法 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.智享生活": {
+    "message": "Smart Living",
+    "description": "The label for category 智享生活 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.智享生活.link.generated-index.description": {
+    "message": "Discover more smart features of HUAWEI Vision",
+    "description": "The generated-index page description for category 智享生活 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.智享生活.link.generated-index.title": {
+    "message": "Smart Living",
+    "description": "The generated-index page title for category 智享生活 in sidebar tvSidebar"
   },
   "sidebar.tvSidebar.category.更多技巧": {
     "message": "More Tips",
     "description": "The label for category 更多技巧 in sidebar tvSidebar"
   },
-  "sidebar.tvSidebar.category.更多技巧.link.generated-index.title": {
-    "message": "More Tips",
-    "description": "The generated-index page title for category 更多技巧 in sidebar tvSidebar"
-  },
   "sidebar.tvSidebar.category.更多技巧.link.generated-index.description": {
     "message": "Discover more HUAWEI Vision tips",
     "description": "The generated-index page description for category 更多技巧 in sidebar tvSidebar"
   },
-  "sidebar.carSidebar.category.新机上手": {
-    "message": "Getting Started",
-    "description": "The label for category 新机上手 in sidebar carSidebar"
+  "sidebar.tvSidebar.category.更多技巧.link.generated-index.title": {
+    "message": "More Tips",
+    "description": "The generated-index page title for category 更多技巧 in sidebar tvSidebar"
   },
-  "sidebar.wearableSidebar.category.新机体验": {
-    "message": "New Device Experience",
-    "description": "The label for category 新机体验 in sidebar wearableSidebar"
+  "sidebar.tvSidebar.category.灵犀悬浮触控": {
+    "message": "Air Touch",
+    "description": "The label for category 灵犀悬浮触控 in sidebar tvSidebar"
   },
-  "sidebar.wearableSidebar.category.新机体验.link.generated-index.title": {
-    "message": "New Device Experience",
-    "description": "The generated-index page title for category 新机体验 in sidebar wearableSidebar"
+  "sidebar.tvSidebar.category.灵犀悬浮触控.link.generated-index.description": {
+    "message": "Learn to use Air Touch",
+    "description": "The generated-index page description for category 灵犀悬浮触控 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.灵犀悬浮触控.link.generated-index.title": {
+    "message": "Air Touch",
+    "description": "The generated-index page title for category 灵犀悬浮触控 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.灵犀指向遥控": {
+    "message": "Smart Remote",
+    "description": "The label for category 灵犀指向遥控 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.灵犀指向遥控.link.generated-index.description": {
+    "message": "Learn how to use the Smart Remote",
+    "description": "The generated-index page description for category 灵犀指向遥控 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.灵犀指向遥控.link.generated-index.title": {
+    "message": "Smart Remote",
+    "description": "The generated-index page title for category 灵犀指向遥控 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.畅连通话": {
+    "message": "MeeTime Calls",
+    "description": "The label for category 畅连通话 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.畅连通话.link.generated-index.description": {
+    "message": "Learn to use MeeTime on HUAWEI Vision",
+    "description": "The generated-index page description for category 畅连通话 in sidebar tvSidebar"
+  },
+  "sidebar.tvSidebar.category.畅连通话.link.generated-index.title": {
+    "message": "MeeTime Calls",
+    "description": "The generated-index page title for category 畅连通话 in sidebar tvSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 5": {
+    "message": "HUAWEI WATCH 5",
+    "description": "The label for category HUAWEI WATCH 5 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 5.link.generated-index.description": {
+    "message": "Product ID M0EB",
+    "description": "The label for category HUAWEI WATCH 5 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 5.link.generated-index.title": {
+    "message": "HUAWEI WATCH 5",
+    "description": "The label for category HUAWEI WATCH 5 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 6 系列": {
+    "message": "HUAWEI WATCH 6 Series",
+    "description": "The label for category HUAWEI WATCH 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 6 系列.link.generated-index.description": {
+    "message": "Product ID M0FO",
+    "description": "The label for category HUAWEI WATCH 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH 6 系列.link.generated-index.title": {
+    "message": "HUAWEI WATCH 6 Series",
+    "description": "The label for category HUAWEI WATCH 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Buds 2": {
+    "message": "HUAWEI WATCH Buds 2",
+    "description": "The label for category HUAWEI WATCH Buds 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Buds 2.link.generated-index.description": {
+    "message": "Product ID M0F1",
+    "description": "The label for category HUAWEI WATCH Buds 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Buds 2.link.generated-index.title": {
+    "message": "HUAWEI WATCH Buds 2",
+    "description": "The label for category HUAWEI WATCH Buds 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH D3": {
+    "message": "HUAWEI WATCH D3",
+    "description": "The label for category HUAWEI WATCH D3 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH D3.link.generated-index.description": {
+    "message": "Product ID M0FG",
+    "description": "The label for category HUAWEI WATCH D3 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH D3.link.generated-index.title": {
+    "message": "HUAWEI WATCH D3",
+    "description": "The label for category HUAWEI WATCH D3 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH FIT 5 系列": {
+    "message": "HUAWEI WATCH FIT 5 Series",
+    "description": "The label for category HUAWEI WATCH FIT 5 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH FIT 5 系列.link.generated-index.description": {
+    "message": "Product ID M0F9",
+    "description": "The label for category HUAWEI WATCH FIT 5 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH FIT 5 系列.link.generated-index.title": {
+    "message": "HUAWEI WATCH FIT 5 Series",
+    "description": "The label for category HUAWEI WATCH FIT 5 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 6 系列": {
+    "message": "HUAWEI WATCH GT 6 Series",
+    "description": "The label for category HUAWEI WATCH GT 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 6 系列.link.generated-index.description": {
+    "message": "Product ID M0ER",
+    "description": "The label for category HUAWEI WATCH GT 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 6 系列.link.generated-index.title": {
+    "message": "HUAWEI WATCH GT 6 Series",
+    "description": "The label for category HUAWEI WATCH GT 6 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 7 系列": {
+    "message": "HUAWEI WATCH GT 7 Series",
+    "description": "The label for category HUAWEI WATCH GT 7 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 7 系列.link.generated-index.description": {
+    "message": "Product ID M0FW",
+    "description": "The label for category HUAWEI WATCH GT 7 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT 7 系列.link.generated-index.title": {
+    "message": "HUAWEI WATCH GT 7 Series",
+    "description": "The label for category HUAWEI WATCH GT 7 系列 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT Runner 2": {
+    "message": "HUAWEI WATCH GT Runner 2",
+    "description": "The label for category HUAWEI WATCH GT Runner 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT Runner 2.link.generated-index.description": {
+    "message": "Product ID M0EV",
+    "description": "The label for category HUAWEI WATCH GT Runner 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH GT Runner 2.link.generated-index.title": {
+    "message": "HUAWEI WATCH GT Runner 2",
+    "description": "The label for category HUAWEI WATCH GT Runner 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Ultimate 2": {
+    "message": "HUAWEI WATCH Ultimate 2",
+    "description": "The label for category HUAWEI WATCH Ultimate 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Ultimate 2.link.generated-index.description": {
+    "message": "Product ID M0EX",
+    "description": "The label for category HUAWEI WATCH Ultimate 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH Ultimate 2.link.generated-index.title": {
+    "message": "HUAWEI WATCH Ultimate 2",
+    "description": "The label for category HUAWEI WATCH Ultimate 2 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款": {
+    "message": "HUAWEI WATCH | ULTIMATE DESIGN Spring Edition",
+    "description": "The label for category HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款.link.generated-index.description": {
+    "message": "Product ID M0F7",
+    "description": "The label for category HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款.link.generated-index.title": {
+    "message": "HUAWEI WATCH | ULTIMATE DESIGN Spring Edition",
+    "description": "The label for category HUAWEI WATCH | ULTIMATE DESIGN 星钻绽放款 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.eSIM 开通": {
+    "message": "eSIM subscription",
+    "description": "The label for category eSIM 开通 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.eSIM 开通.link.generated-index.description": {
+    "message": "eSIM subscription",
+    "description": "The label for category eSIM 开通 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.eSIM 开通.link.generated-index.title": {
+    "message": "eSIM subscription",
+    "description": "The label for category eSIM 开通 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.eSIM开通": {
-    "message": "eSIM Activation",
+    "message": "eSIM subscription",
+    "description": "The label for category eSIM开通 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.eSIM开通.link.generated-index.description": {
+    "message": "eSIM subscription",
     "description": "The label for category eSIM开通 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.eSIM开通.link.generated-index.title": {
-    "message": "eSIM Activation",
+    "message": "eSIM subscription",
     "description": "The generated-index page title for category eSIM开通 in sidebar wearableSidebar"
   },
-  "sidebar.wearableSidebar.category.户外探索": {
-    "message": "Outdoor Exploration",
-    "description": "The label for category 户外探索 in sidebar wearableSidebar"
+  "sidebar.wearableSidebar.category.专业运动": {
+    "message": "Exercise",
+    "description": "The label for category 专业运动 in sidebar wearableSidebar"
   },
-  "sidebar.wearableSidebar.category.户外探索.link.generated-index.title": {
-    "message": "Outdoor Exploration",
-    "description": "The generated-index page title for category 户外探索 in sidebar wearableSidebar"
+  "sidebar.wearableSidebar.category.专业运动.link.generated-index.description": {
+    "message": "Exercise",
+    "description": "The label for category 专业运动 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.专业运动.link.generated-index.title": {
+    "message": "Exercise",
+    "description": "The generated-index page title for category 专业运动 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EB": {
+    "message": "Product ID M0EB",
+    "description": "The label for category 产品 ID M0EB in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EB.link.generated-index.description": {
+    "message": "Product ID M0EB",
+    "description": "The label for category 产品 ID M0EB in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EB.link.generated-index.title": {
+    "message": "Product ID M0EB",
+    "description": "The label for category 产品 ID M0EB in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0ER": {
+    "message": "Product ID M0ER",
+    "description": "The label for category 产品 ID M0ER in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0ER.link.generated-index.description": {
+    "message": "Product ID M0ER",
+    "description": "The label for category 产品 ID M0ER in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0ER.link.generated-index.title": {
+    "message": "Product ID M0ER",
+    "description": "The label for category 产品 ID M0ER in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EV": {
+    "message": "Product ID M0EV",
+    "description": "The label for category 产品 ID M0EV in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EV.link.generated-index.description": {
+    "message": "Product ID M0EV",
+    "description": "The label for category 产品 ID M0EV in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EV.link.generated-index.title": {
+    "message": "Product ID M0EV",
+    "description": "The label for category 产品 ID M0EV in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EX": {
+    "message": "Product ID M0EX",
+    "description": "The label for category 产品 ID M0EX in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EX.link.generated-index.description": {
+    "message": "Product ID M0EX",
+    "description": "The label for category 产品 ID M0EX in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0EX.link.generated-index.title": {
+    "message": "Product ID M0EX",
+    "description": "The label for category 产品 ID M0EX in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F1": {
+    "message": "Product ID M0F1",
+    "description": "The label for category 产品 ID M0F1 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F1.link.generated-index.description": {
+    "message": "Product ID M0F1",
+    "description": "The label for category 产品 ID M0F1 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F1.link.generated-index.title": {
+    "message": "Product ID M0F1",
+    "description": "The label for category 产品 ID M0F1 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F7": {
+    "message": "Product ID M0F7",
+    "description": "The label for category 产品 ID M0F7 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F7.link.generated-index.description": {
+    "message": "Product ID M0F7",
+    "description": "The label for category 产品 ID M0F7 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F7.link.generated-index.title": {
+    "message": "Product ID M0F7",
+    "description": "The label for category 产品 ID M0F7 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F9": {
+    "message": "Product ID M0F9",
+    "description": "The label for category 产品 ID M0F9 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F9.link.generated-index.description": {
+    "message": "Product ID M0F9",
+    "description": "The label for category 产品 ID M0F9 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0F9.link.generated-index.title": {
+    "message": "Product ID M0F9",
+    "description": "The label for category 产品 ID M0F9 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FG": {
+    "message": "Product ID M0FG",
+    "description": "The label for category 产品 ID M0FG in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FG.link.generated-index.description": {
+    "message": "Product ID M0FG",
+    "description": "The label for category 产品 ID M0FG in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FG.link.generated-index.title": {
+    "message": "Product ID M0FG",
+    "description": "The label for category 产品 ID M0FG in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FO": {
+    "message": "Product ID M0FO",
+    "description": "The label for category 产品 ID M0FO in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FO.link.generated-index.description": {
+    "message": "Product ID M0FO",
+    "description": "The label for category 产品 ID M0FO in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FO.link.generated-index.title": {
+    "message": "Product ID M0FO",
+    "description": "The label for category 产品 ID M0FO in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FW": {
+    "message": "Product ID M0FW",
+    "description": "The label for category 产品 ID M0FW in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FW.link.generated-index.description": {
+    "message": "Product ID M0FW",
+    "description": "The label for category 产品 ID M0FW in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.产品 ID M0FW.link.generated-index.title": {
+    "message": "Product ID M0FW",
+    "description": "The label for category 产品 ID M0FW in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.便捷生活": {
-    "message": "Convenient Living",
+    "message": "Assistant",
+    "description": "The label for category 便捷生活 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.便捷生活.link.generated-index.description": {
+    "message": "Assistant",
     "description": "The label for category 便捷生活 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.便捷生活.link.generated-index.title": {
-    "message": "Convenient Living",
+    "message": "Assistant",
     "description": "The generated-index page title for category 便捷生活 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.健康管理": {
+    "message": "Health Management",
+    "description": "The label for category 健康管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.健康管理.link.generated-index.description": {
     "message": "Health Management",
     "description": "The label for category 健康管理 in sidebar wearableSidebar"
   },
@@ -387,20 +643,80 @@
     "message": "Health Management",
     "description": "The generated-index page title for category 健康管理 in sidebar wearableSidebar"
   },
-  "sidebar.wearableSidebar.category.专业运动": {
-    "message": "Professional Sports",
-    "description": "The label for category 专业运动 in sidebar wearableSidebar"
+  "sidebar.wearableSidebar.category.心脏健康": {
+    "message": "Heart Health",
+    "description": "The label for category 心脏健康 in sidebar wearableSidebar"
   },
-  "sidebar.wearableSidebar.category.专业运动.link.generated-index.title": {
-    "message": "Professional Sports",
-    "description": "The generated-index page title for category 专业运动 in sidebar wearableSidebar"
+  "sidebar.wearableSidebar.category.心脏健康.link.generated-index.description": {
+    "message": "Heart Health",
+    "description": "The label for category 心脏健康 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.心脏健康.link.generated-index.title": {
+    "message": "Heart Health",
+    "description": "The label for category 心脏健康 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.户外探索": {
+    "message": "Outdoor Adventures",
+    "description": "The label for category 户外探索 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.户外探索.link.generated-index.description": {
+    "message": "Outdoor Adventures",
+    "description": "The label for category 户外探索 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.户外探索.link.generated-index.title": {
+    "message": "Outdoor Adventures",
+    "description": "The generated-index page title for category 户外探索 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.新机体验": {
+    "message": "Getting Started",
+    "description": "The label for category 新机体验 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.新机体验.link.generated-index.description": {
+    "message": "Getting Started",
+    "description": "The label for category 新机体验 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.新机体验.link.generated-index.title": {
+    "message": "Getting Started",
+    "description": "The generated-index page title for category 新机体验 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.更多指导": {
-    "message": "More Guides",
+    "message": "More",
+    "description": "The label for category 更多指导 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.更多指导.link.generated-index.description": {
+    "message": "More",
     "description": "The label for category 更多指导 in sidebar wearableSidebar"
   },
   "sidebar.wearableSidebar.category.更多指导.link.generated-index.title": {
-    "message": "More Guides",
+    "message": "More",
     "description": "The generated-index page title for category 更多指导 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.耳机管理": {
+    "message": "Earbuds Management",
+    "description": "The label for category 耳机管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.耳机管理.link.generated-index.description": {
+    "message": "Earbuds Management",
+    "description": "The label for category 耳机管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.耳机管理.link.generated-index.title": {
+    "message": "Earbuds Management",
+    "description": "The label for category 耳机管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.血压管理": {
+    "message": "Blood Pressure (BP) Management",
+    "description": "The label for category 血压管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.血压管理.link.generated-index.description": {
+    "message": "Blood Pressure (BP) Management",
+    "description": "The label for category 血压管理 in sidebar wearableSidebar"
+  },
+  "sidebar.wearableSidebar.category.血压管理.link.generated-index.title": {
+    "message": "Blood Pressure (BP) Management",
+    "description": "The label for category 血压管理 in sidebar wearableSidebar"
+  },
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
   }
 }
