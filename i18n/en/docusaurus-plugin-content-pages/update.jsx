@@ -65,6 +65,206 @@ export default function ContentUpdates() {
 
   const rawUpdates = [
     {
+      date: "2026-09-27",
+      items: [
+{
+          text: "Immersive Light for Stunning Lighting Effects",
+          link: "/docs/quick-start-pc/immersive-light",
+          category: "PC content"
+        },
+{
+          text: "Unlock Your Phone on Other Devices",
+          link: "/docs/full-scene-pc/unlock-phone-across-devices",
+          category: "PC content"
+        },
+{
+          text: "Clipboard",
+          link: "/docs/quick-start-pc/clipboard-history",
+          category: "PC content"
+        },
+{
+          text: "Fun, Interactive Standby Display",
+          link: "/docs/quick-start-pc/standby-screensaver",
+          category: "PC content"
+        },
+{
+          text: "Wave a Magic Wand to Remove Unwanted Objects",
+          link: "/docs/ai-pc/remove-photo-clutter",
+          category: "PC content"
+        },
+{
+          text: "Apply Colors with One Tap",
+          link: "/docs/ai-pc/color-transfer",
+          category: "PC content"
+        },
+{
+          text: "Move, for a Perfect Group Photo",
+          link: "/docs/ai-pc/magic-image-move",
+          category: "PC content"
+        },
+{
+          text: "Share Files Between HarmonyOS and iOS Devices",
+          link: "/docs/full-scene-pc/star-river-interop-ios",
+          category: "PC content"
+        },
+{
+          text: "Digital Note-Taking that Feels so Real",
+          link: "/docs/work/notes-paperless-experience",
+          category: "PC content"
+        },
+{
+          text: "Your New HarmonyOS Home Screen",
+          link: "/docs/quick-start-pc/harmonyos-desktop",
+          category: "PC content"
+        },
+{
+          text: "Share Files over LAN",
+          link: "/docs/work/network-neighborhood",
+          category: "PC content"
+        },
+{
+          text: "Connect an External Monitor for Seamless Dual-Screen Experience",
+          link: "/docs/full-scene-pc/external-monitor",
+          category: "PC content"
+        },
+{
+          text: "Secured App Data with App Lock",
+          link: "/docs/security-pc/app-lock",
+          category: "PC content"
+        },
+{
+          text: "Communication Shield, Safeguarding Call Security",
+          link: "/docs/security-pc/communication-protection",
+          category: "PC content"
+        },
+{
+          text: "Customize the Home Screen",
+          link: "/docs/quick-start-pc/desktop-personalization",
+          category: "PC content"
+        },
+{
+          text: "View and Optimize Device Storage",
+          link: "/docs/setting-pc/storage-space",
+          category: "PC content"
+        },
+{
+          text: "Control Panel for Quick Feature Access",
+          link: "/docs/quick-start-tablet/control-center",
+          category: "Tablet content"
+        },
+{
+          text: "Edit Control Panel",
+          link: "/docs/quick-start-tablet/edit-control-center",
+          category: "Tablet content"
+        },
+{
+          text: "Quick Screen Lock",
+          link: "/docs/quick-start-tablet/lock-screen",
+          category: "Tablet content"
+        },
+{
+          text: "Lock Screen Widgets For Instant App Launch",
+          link: "/docs/quick-start-tablet/lock-screen-tool",
+          category: "Tablet content"
+        },
+{
+          text: "Screen Recording Made Easy",
+          link: "/docs/quick-start-tablet/screen-recording",
+          category: "Tablet content"
+        },
+{
+          text: "Log In Faster with Password Vault",
+          link: "/docs/security-tablet/auto-fill-in-password",
+          category: "Tablet content"
+        },
+{
+          text: "Encrypted File Sharing",
+          link: "/docs/security-tablet/share-encrypt-file",
+          category: "Tablet content"
+        },
+{
+          text: "Effortless Doodling and Restoration",
+          link: "/docs/camera-tablet/photo-graffiti",
+          category: "Tablet content"
+        },
+{
+          text: "Highlights to Bring Out Your Best Moments",
+          link: "/docs/camera-tablet/time-album",
+          category: "Tablet content"
+        },
+{
+          text: "Senior Mode",
+          link: "/docs/setting-tablet/care-mode",
+          category: "Tablet content"
+        },
+{
+          text: "Personalize and Streamline Your Home Screen",
+          link: "/docs/setting-tablet/desktop-editting",
+          category: "Tablet content"
+        },
+{
+          text: "Make a Lock Screen of Your Own",
+          link: "/docs/setting-tablet/lock-screen",
+          category: "Tablet content"
+        },
+{
+          text: "Instant Transfers with Huawei Share",
+          link: "/docs/full-scene-tablet/huawei-share",
+          category: "Tablet content"
+        },
+{
+          text: "Seamless Image Editing Between Devices",
+          link: "/docs/full-scene-tablet/seamless-connection",
+          category: "Tablet content"
+        },
+{
+          text: "ScreenCast, for an Immersive Experience",
+          link: "/docs/full-scene-tablet/wireless-screen-mirroring",
+          category: "Tablet content"
+        },
+{
+          text: "Add Home Screen Widgets",
+          link: "/docs/quick-start-pc/desktop-card",
+          category: "PC content"
+        },
+{
+          text: "Super Device for Effortless Device Collaboration",
+          link: "/docs/full-scene-pc/super-device",
+          category: "PC content"
+        },
+{
+          text: "Access High-Quality Photos with Connected Devices",
+          link: "/docs/full-scene-pc/cross-device-image-acquisition",
+          category: "PC content"
+        },
+{
+          text: "Smartly Sort Your Files",
+          link: "/docs/ai-pc/smart-file-categorization",
+          category: "PC content"
+        },
+{
+          text: "A Smart Notepad",
+          link: "/docs/work/intelligent-organization",
+          category: "PC content"
+        },
+{
+          text: "Encrypted File Sharing",
+          link: "/docs/security-pc/encrypt-file",
+          category: "PC content"
+        },
+{
+          text: "Wallpaper Settings",
+          link: "/docs/setting-pc/change-wallpaper",
+          category: "PC content"
+        },
+{
+          text: "AI-powered Singing",
+          link: "/docs/ai-pc/xiaoyi-ktv",
+          category: "PC content"
+        },
+]
+    },
+    {
       date: "2026-09-26",
       items: [
         {

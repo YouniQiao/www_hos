@@ -91,9 +91,7 @@ function HomepageHeader() {
         <div className="flex items-center justify-center">
           <p className="text-lg text-center text-slate-500">
             <p>
-            A brand-new distributed operating system for all scenarios, creating a world of interconnected super virtual terminals that organically links people, devices, and scenarios.
-              <br />
-              Connects multiple smart devices across all scenarios for instant discovery, instant connection, hardware collaboration, and resource sharing, delivering the right device for each scenario.
+              A brand-new distributed operating system for all scenarios, creating a world of interconnected super virtual terminals that organically links people, devices, and scenarios. Connects multiple smart devices across all scenarios for instant discovery, instant connection, hardware collaboration, and resource sharing, delivering the right device for each scenario.
             </p>
           </p>
         </div>

@@ -349,13 +349,15 @@ button.menu__caret {
   background-image: url('/device/car.png');
 }
 
-/* Navbar "玩转设备" dropdown device icons */
-.dropdown__link[href="/docs/phone"]::before,
-.dropdown__link[href="/docs/tablet"]::before,
-.dropdown__link[href="/docs/pc"]::before,
-.dropdown__link[href="/docs/wearable"]::before,
-.dropdown__link[href="/docs/tv"]::before,
-.dropdown__link[href="/docs/quick-start-car/start"]::before {
+/* Navbar "玩转设备" / "Devices" dropdown device icons.
+   注意：英文站的链接是 /en/docs/phone，原来只写 "/docs/phone" 会让英文站没图标。
+   改用 [href$="..."] 结尾匹配，中英两种路径都能命中。 */
+.dropdown__link[href$="/docs/phone"]::before,
+.dropdown__link[href$="/docs/tablet"]::before,
+.dropdown__link[href$="/docs/pc"]::before,
+.dropdown__link[href$="/docs/wearable"]::before,
+.dropdown__link[href$="/docs/tv"]::before,
+.dropdown__link[href$="/docs/quick-start-car/start"]::before {
   content: '';
   display: inline-block;
   width: 18px;
@@ -367,12 +369,12 @@ button.menu__caret {
   margin-right: 8px;
   vertical-align: middle;
 }
-.dropdown__link[href="/docs/phone"]::before { background-image: url('/device/phone.png'); }
-.dropdown__link[href="/docs/tablet"]::before { background-image: url('/device/pad.png'); }
-.dropdown__link[href="/docs/pc"]::before { background-image: url('/device/pc.png'); }
-.dropdown__link[href="/docs/wearable"]::before { background-image: url('/device/watch.png'); }
-.dropdown__link[href="/docs/tv"]::before { background-image: url('/device/tv.png'); }
-.dropdown__link[href="/docs/quick-start-car/start"]::before { background-image: url('/device/car.png'); }
+.dropdown__link[href$="/docs/phone"]::before { background-image: url('/device/phone.png'); }
+.dropdown__link[href$="/docs/tablet"]::before { background-image: url('/device/pad.png'); }
+.dropdown__link[href$="/docs/pc"]::before { background-image: url('/device/pc.png'); }
+.dropdown__link[href$="/docs/wearable"]::before { background-image: url('/device/watch.png'); }
+.dropdown__link[href$="/docs/tv"]::before { background-image: url('/device/tv.png'); }
+.dropdown__link[href$="/docs/quick-start-car/start"]::before { background-image: url('/device/car.png'); }
 
 .hero-image {
   mask-image: linear-gradient(180deg,#fff 60%,transparent);
