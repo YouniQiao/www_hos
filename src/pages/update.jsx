@@ -11,6 +11,176 @@ export default function ContentUpdates() {
       date: "2026-09-27",
       items: [
         {
+          text: "添加桌面卡片",
+          link: "/docs/quick-start-pc/desktop-card",
+          category: "电脑内容"
+        },
+        {
+          text: "全新沉浸光感，光影灵动",
+          link: "/docs/quick-start-pc/immersive-light",
+          category: "电脑内容"
+        },
+        {
+          text: "历史剪贴板",
+          link: "/docs/quick-start-pc/clipboard-history",
+          category: "电脑内容"
+        },
+        {
+          text: "待机屏保，趣味灵动显示",
+          link: "/docs/quick-start-pc/standby-screensaver",
+          category: "电脑内容"
+        },
+        {
+          text: "HarmonyOS 桌面新体验",
+          link: "/docs/quick-start-pc/harmonyos-desktop",
+          category: "电脑内容"
+        },
+        {
+          text: "桌面个性设置",
+          link: "/docs/quick-start-pc/desktop-personalization",
+          category: "电脑内容"
+        },
+        {
+          text: "智能分类，指定文件自动归类",
+          link: "/docs/ai-pc/smart-file-categorization",
+          category: "电脑内容"
+        },
+        {
+          text: "AI 智慧伴唱，随时 K 歌",
+          link: "/docs/ai-pc/xiaoyi-ktv",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺任务，自动整理桌面",
+          link: "/docs/ai-pc/xiaoyi-tasks-organize-desktop",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺任务，自动执行预设任务",
+          link: "/docs/ai-pc/xiaoyi-tasks-preset",
+          category: "电脑内容"
+        },
+        {
+          text: "智能消除照片杂物",
+          link: "/docs/ai-pc/remove-photo-clutter",
+          category: "电脑内容"
+        },
+        {
+          text: "一键沾色，快速调整图片色调",
+          link: "/docs/ai-pc/color-transfer",
+          category: "电脑内容"
+        },
+        {
+          text: "魔法移图，智能生成合影",
+          link: "/docs/ai-pc/magic-image-move",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺深度解题，您的智能助教",
+          link: "/docs/ai-pc/xiaoyi-deep-problem-solving",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺帮记，您的专属知识管家",
+          link: "/docs/ai-pc/xiaoyi-memory",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺卡片，一键直达智能体",
+          link: "/docs/ai-pc/xiaoyi-card-agents",
+          category: "电脑内容"
+        },
+        {
+          text: "小艺知识闪卡，助您记忆学习",
+          link: "/docs/ai-pc/xiaoyi-knowledge-flashcards",
+          category: "电脑内容"
+        },
+        {
+          text: "AI 播客，助您碎片化学习",
+          link: "/docs/ai-pc/ai-podcast",
+          category: "电脑内容"
+        },
+        {
+          text: "超级终端，快速协同多设备",
+          link: "/docs/full-scene-pc/super-device",
+          category: "电脑内容"
+        },
+        {
+          text: "跨设备快速获取精美图片",
+          link: "/docs/full-scene-pc/cross-device-image-acquisition",
+          category: "电脑内容"
+        },
+        {
+          text: "跨设备解锁手机",
+          link: "/docs/full-scene-pc/unlock-phone-across-devices",
+          category: "电脑内容"
+        },
+        {
+          text: "鸿蒙星河互联，与 iOS 设备互传文件",
+          link: "/docs/full-scene-pc/star-river-interop-ios",
+          category: "电脑内容"
+        },
+        {
+          text: "外接显示器，畅享双屏体验",
+          link: "/docs/full-scene-pc/external-monitor",
+          category: "电脑内容"
+        },
+        {
+          text: "加密文件，分享指定授权人",
+          link: "/docs/security-pc/encrypt-file",
+          category: "电脑内容"
+        },
+        {
+          text: "应用锁，保护应用隐私数据",
+          link: "/docs/security-pc/app-lock",
+          category: "电脑内容"
+        },
+        {
+          text: "通信防护，守护通话安全",
+          link: "/docs/security-pc/communication-protection",
+          category: "电脑内容"
+        },
+        {
+          text: "更换壁纸",
+          link: "/docs/setting-pc/change-wallpaper",
+          category: "电脑内容"
+        },
+        {
+          text: "查看和优化存储空间",
+          link: "/docs/setting-pc/storage-space",
+          category: "电脑内容"
+        },
+        {
+          text: "智能整理备忘内容",
+          link: "/docs/work/intelligent-organization",
+          category: "电脑内容"
+        },
+        {
+          text: "图片转 PPT，助您高效创作",
+          link: "/docs/work/image-to-ppt-efficient-creation",
+          category: "电脑内容"
+        },
+        {
+          text: "笔记，无纸化学习办公新体验",
+          link: "/docs/work/notes-paperless-experience",
+          category: "电脑内容"
+        },
+        {
+          text: "网络邻居，跨设备共享文件夹",
+          link: "/docs/work/network-neighborhood",
+          category: "电脑内容"
+        },
+        {
+          text: "快捷键以使用热键模式",
+          link: "/docs/shortcut-key/hotkey-mode",
+          category: "电脑内容"
+        },
+      ]
+    },
+    {
+      date: "2026-09-27",
+      items: [
+        {
           text: "使用控制中心",
           link: "/docs/quick-start-tablet/control-center",
           category: "平板内容"
