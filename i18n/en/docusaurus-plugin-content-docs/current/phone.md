@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Get the Most Out of Your HarmonyOS Phone
+# HarmonyOS Phone Tips
 
 <img src="/img/phone.png" width="480" height=""/>
 

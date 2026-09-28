@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Get the Most Out of Your HarmonyOS PC
+# HarmonyOS PC Tips
 
 <img src="/img/pc.png" width="480" height=""/>
 

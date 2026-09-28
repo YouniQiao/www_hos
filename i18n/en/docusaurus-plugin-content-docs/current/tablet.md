@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Get the Most Out of Your HarmonyOS Tablet
+# HarmonyOS Tablet Tips
 
 <img src="/img/tablet.webp" width="480" height=""/>
 

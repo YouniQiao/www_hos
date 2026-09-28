@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Cross-device File Transfers via Grab & drop
+# Cross-device File Transfers via Grab & Drop
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031/resource/card/202601231gjcjr/en/image/figure/20008655_f001_Swing_share.png" alt="" width="360" height="486"/>
 

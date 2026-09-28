@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Digital Note-Taking That Feels So Real
+# Digital Note-Taking that Feels so Real
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202605280pkqzz/en-us/image/figure/fig_notes_edit.png" alt="" width="720" height=""/>
 

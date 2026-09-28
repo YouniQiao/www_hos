@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Display Battery Percentage in the Status bar
+# Display Battery Percentage in the Status Bar
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202605280pkqzz/en-us/image/figure/fig_settings_BatteryPercent.png" alt="" width="720" height=""/>
 

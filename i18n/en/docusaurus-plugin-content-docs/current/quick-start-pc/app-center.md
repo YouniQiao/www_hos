@@ -4,7 +4,7 @@ last_update:
   author: 油腻樵夫
 ---
 
-# Use App chest
+# Use App Chest
 
 <img src="https://tips-p01-drcn.dbankcdn.cn/MODEL/DOC/C00B031BETA/resource/card/202605280pkqzz/en-us/image/figure/fig_AppCenter.png" alt="" width="720" height=""/>
 
