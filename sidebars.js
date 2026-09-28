@@ -859,6 +859,7 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'touch-tv/touch-control-functions',
         'touch-tv/touch-control-overview',
         'touch-tv/touch-control-connect',
         'touch-tv/touch-control-key',
@@ -877,6 +878,8 @@ const sidebars = {
         image: '/img/docusaurus.png',
       },
       items: [
+        'more-tv/local-video-loop',
+        'more-tv/one-remote-two-controls',
         'more-tv/system-update',
         'more-tv/home-theater',
         'more-tv/external-storage',

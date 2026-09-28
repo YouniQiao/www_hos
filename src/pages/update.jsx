@@ -8,6 +8,46 @@ export default function ContentUpdates() {
 
   const updates = [
     {
+      date: "2026-09-28",
+      items: [
+        {
+          text: "功能介绍和使用方法",
+          link: "/docs/touch-tv/touch-control-functions",
+          category: "智慧屏内容"
+        },
+        {
+          text: "华为智慧屏本地视频如何设置循环播放",
+          link: "/docs/more-tv/local-video-loop",
+          category: "智慧屏内容"
+        },
+        {
+          text: "华为智慧屏Mate TV系列一遥两控如何绑定机顶盒",
+          link: "/docs/more-tv/one-remote-two-controls",
+          category: "智慧屏内容"
+        },
+        {
+          text: "手机/手表感知控制卡片",
+          link: "/docs/full-scene-tv/phone-control-card",
+          category: "智慧屏内容"
+        },
+        {
+          text: "如何与智慧屏配对",
+          link: "/docs/touch-tv/touch-control-connect",
+          category: "智慧屏内容"
+        },
+        {
+          text: "灵犀悬浮触控是什么",
+          link: "/docs/touch-tv/touch-control-overview",
+          category: "智慧屏内容"
+        },
+        {
+          text: "华为智慧屏如何访问NAS设备/家庭存储",
+          link: "/docs/more-tv/nas",
+          category: "智慧屏内容"
+        },
+      ]
+    },
+    {
       date: "2026-09-27",
       items: [
         {
