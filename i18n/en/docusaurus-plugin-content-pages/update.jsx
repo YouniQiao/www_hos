@@ -65,6 +65,61 @@ export default function ContentUpdates() {
 
   const rawUpdates = [
     {
+      date: "2026-09-28",
+      items: [
+        {
+          text: "HUAWEI WATCH D3",
+          link: "/docs/wearable-watch-d3",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH 6 Series",
+          link: "/docs/wearable-watch-6",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH GT 7 Series",
+          link: "/docs/wearable-watch-gt7",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH FIT 5 Series",
+          link: "/docs/wearable-watch-fit5",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH Buds 2",
+          link: "/docs/wearable-watch-buds2",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH | ULTIMATE DESIGN Spring Edition",
+          link: "/docs/wearable-watch-ultimate-design",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH GT Runner 2",
+          link: "/docs/wearable-watch-gt-runner2",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH Ultimate 2",
+          link: "/docs/wearable-watch-ultimate2",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH GT 6 Series",
+          link: "/docs/wearable-watch-gt6",
+          category: "Wearable content"
+        },
+        {
+          text: "HUAWEI WATCH 5",
+          link: "/docs/wearable-watch-5",
+          category: "Wearable content"
+        },
+      ]
+    },
+    {
       date: "2026-09-27",
       items: [
 {
