@@ -140,21 +140,63 @@ const FeatureListTablet = [
 const FeatureListWearable = [
 {
   icon: "/device/watch.png",
-  title: translate({ message: 'WATCH Ultimate系列' }),
-  description: translate({ message: 'Ultimate系列鸿蒙手表。' }),
-  readMore: '/docs/wearable'
+  title: 'HUAWEI WATCH D3',
+  description: translate({ message: '轻薄舒适，平稳加压，安心测量。' }),
+  readMore: '/docs/category/watch-d3'
 },
 {
   icon: "/device/watch.png",
-  title: translate({ message: 'WATCH GT 6系列' }),
-  description: translate({ message: 'GT系列鸿蒙手表。' }),
-  readMore: '/docs/wearable'
+  title: translate({ message: 'HUAWEI WATCH 6 系列' }),
+  description: translate({ message: '腕上 AI 助手，独立智慧体验。' }),
+  readMore: '/docs/category/watch-6'
 },
 {
   icon: "/device/watch.png",
-  title: 'WATCH 5',
-  description: translate({ message: '首款AI智能手表。' }),
-  readMore: '/docs/wearable'
+  title: translate({ message: 'HUAWEI WATCH GT 7 系列' }),
+  description: translate({ message: '户外进阶运动，突破有迹可循。' }),
+  readMore: '/docs/category/watch-gt7'
+},
+{
+  icon: "/device/watch.png",
+  title: translate({ message: 'HUAWEI WATCH FIT 5 系列' }),
+  description: translate({ message: '睡眠监测升级，全面健康守护。' }),
+  readMore: '/docs/category/watch-fit5'
+},
+{
+  icon: "/device/watch.png",
+  title: 'HUAWEI WATCH Buds 2',
+  description: translate({ message: '耳机手表二合一，自由佩戴更随心。' }),
+  readMore: '/docs/category/watch-buds2'
+},
+{
+  icon: "/device/watch.png",
+  title: translate({ message: 'WATCH | ULTIMATE DESIGN' }),
+  description: translate({ message: '非凡大师星钻绽放款，优雅盛放。' }),
+  readMore: '/docs/category/watch-ultimate-design'
+},
+{
+  icon: "/device/watch.png",
+  title: 'HUAWEI WATCH GT Runner 2',
+  description: translate({ message: '超精准定位，智能马拉松模式。' }),
+  readMore: '/docs/category/watch-gt-runner2'
+},
+{
+  icon: "/device/watch.png",
+  title: 'HUAWEI WATCH Ultimate 2',
+  description: translate({ message: '海豚声呐通信，北斗卫星语音消息。' }),
+  readMore: '/docs/category/watch-ultimate2'
+},
+{
+  icon: "/device/watch.png",
+  title: translate({ message: 'HUAWEI WATCH GT 6 系列' }),
+  description: translate({ message: '多维情绪健康，全新骑行体验。' }),
+  readMore: '/docs/category/watch-gt6'
+},
+{
+  icon: "/device/watch.png",
+  title: 'HUAWEI WATCH 5',
+  description: translate({ message: '鸿蒙 AI 智能手表。' }),
+  readMore: '/docs/category/watch-5'
 }];
 
 
@@ -165,6 +207,12 @@ const FeatureListTV = [
   title: translate({ message: '新机上手' }),
   description: translate({ message: '了解智慧屏连接、观看电视直播等操作。' }),
   readMore: '/docs/category/tv-quickstart'
+},
+{
+  icon: "/device/tv.png",
+  title: translate({ message: '灵犀指向遥控' }),
+  description: translate({ message: '了解灵犀指向遥控的配对与操控。' }),
+  readMore: '/docs/category/tv-remote-control'
 },
 {
   icon: "/device/tv.png",
@@ -189,6 +237,12 @@ const FeatureListTV = [
   title: translate({ message: '全场景协同' }),
   description: translate({ message: '了解如何使用智慧屏进行多设备协同。' }),
   readMore: '/docs/category/tv-full-scene'
+},
+{
+  icon: "/device/tv.png",
+  title: translate({ message: '灵犀悬浮触控' }),
+  description: translate({ message: '像用手机一样双指操控智慧屏。' }),
+  readMore: '/docs/category/tv-touch-control'
 },
 {
   icon: "/device/tv.png",

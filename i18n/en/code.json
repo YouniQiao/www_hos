@@ -1,146 +1,218 @@
 {
-  "theme.ErrorPageContent.title": {
-    "message": "This page crashed.",
-    "description": "The title of the fallback page when the page crashed"
+  "HUAWEI WATCH 6 系列": {
+    "message": "HUAWEI WATCH 6 Series",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "HUAWEI WATCH FIT 5 系列": {
+    "message": "HUAWEI WATCH FIT 5 Series",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "HUAWEI WATCH GT 6 系列": {
+    "message": "HUAWEI WATCH GT 6 Series",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "HUAWEI WATCH GT 6系列": {
+    "message": "HUAWEI WATCH GT 6 Series",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "HUAWEI WATCH GT 7 系列": {
+    "message": "HUAWEI WATCH GT 7 Series",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "WATCH | ULTIMATE DESIGN": {
+    "message": "WATCH | ULTIMATE DESIGN",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of announcement bar"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
     "message": "Scroll back to top",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Archive",
-    "description": "The page & hero title of the blog archive page"
+  "theme.CodeBlock.copied": {
+    "message": "Copied",
+    "description": "The copied button label on code blocks"
   },
-  "theme.blog.archive.description": {
-    "message": "Archive",
-    "description": "The page & hero description of the blog archive page"
+  "theme.CodeBlock.copy": {
+    "message": "Copy",
+    "description": "The copy button label on code blocks"
   },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog list page navigation",
-    "description": "The ARIA label for the blog pagination"
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
   },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Newer entries",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
   },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Older entries",
-    "description": "The label used to navigate to the older blog posts page (next page)"
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
   },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog post page navigation",
-    "description": "The ARIA label for the blog posts pagination"
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
   },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Newer post",
-    "description": "The blog post button label to navigate to the newer/previous post"
+  "theme.ErrorPageContent.title": {
+    "message": "This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
   },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Older post",
-    "description": "The blog post button label to navigate to the older/next post"
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Try again",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
-  "theme.tags.tagsPageLink": {
-    "message": "View all tags",
-    "description": "The label of the link targeting the tag list page"
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
   },
-  "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "system mode",
-    "description": "The name for the system color mode"
+  "theme.NotFound.p1": {
+    "message": "We could not find what you were looking for.",
+    "description": "The first paragraph of the 404 page"
   },
-  "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "light mode",
-    "description": "The name for the light color mode"
-  },
-  "theme.colorToggle.ariaLabel.mode.dark": {
-    "message": "dark mode",
-    "description": "The name for the dark color mode"
-  },
-  "theme.colorToggle.ariaLabel": {
-    "message": "Switch between dark and light mode (currently {mode})",
-    "description": "The ARIA label for the color mode toggle"
-  },
-  "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Breadcrumbs",
-    "description": "The ARIA label for the breadcrumbs"
-  },
-  "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item|{count} items",
-    "description": "The default description for a category card in the generated index about how many items this category includes"
-  },
-  "theme.docs.paginator.navAriaLabel": {
-    "message": "Docs pages",
-    "description": "The ARIA label for the docs pagination"
-  },
-  "theme.docs.paginator.previous": {
-    "message": "Previous",
-    "description": "The label used to navigate to the previous doc"
-  },
-  "theme.docs.paginator.next": {
-    "message": "Next",
-    "description": "The label used to navigate to the next doc"
-  },
-  "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged",
-    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.docs.tagDocListPageTitle": {
-    "message": "{nDocsTagged} with \"{tagName}\"",
-    "description": "The title of the page for a docs tag"
-  },
-  "theme.docs.versionBadge.label": {
-    "message": "Version: {versionLabel}"
-  },
-  "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
-    "description": "The label used to tell the user that he's browsing an unreleased doc version"
-  },
-  "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
-    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
-  },
-  "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
-    "description": "The label used to tell the user to check the latest version"
-  },
-  "theme.docs.versions.latestVersionLinkLabel": {
-    "message": "latest version",
-    "description": "The label used for the latest version suggestion link label"
-  },
-  "theme.common.editThisPage": {
-    "message": "Edit this page",
-    "description": "The link label to edit the current page"
-  },
-  "theme.common.headingLinkTitle": {
-    "message": "Direct link to {heading}",
-    "description": "Title for link to heading"
-  },
-  "theme.lastUpdated.atDate": {
-    "message": " on {date}",
-    "description": "The words used to describe on which date a page has been last updated"
-  },
-  "theme.lastUpdated.byUser": {
-    "message": " by {user}",
-    "description": "The words used to describe by who the page has been last updated"
-  },
-  "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Last updated{atDate}{byUser}",
-    "description": "The sentence used to display when a page has been last updated, and by who"
-  },
-  "theme.navbar.mobileVersionsDropdown.label": {
-    "message": "Versions",
-    "description": "The label for the navbar versions dropdown on mobile view"
+  "theme.NotFound.p2": {
+    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "description": "The 2nd paragraph of the 404 page"
   },
   "theme.NotFound.title": {
     "message": "Page Not Found",
     "description": "The title of the 404 page"
   },
-  "theme.tags.tagsListLabel": {
-    "message": "Tags:",
-    "description": "The label alongside a tag list"
+  "theme.SearchBar.label": {
+    "message": "Search",
+    "description": "The ARIA label and placeholder for search button"
   },
-  "theme.AnnouncementBar.closeButtonAriaLabel": {
-    "message": "Close",
-    "description": "The ARIA label for close button of announcement bar"
+  "theme.SearchBar.seeAll": {
+    "message": "See all {count} results"
+  },
+  "theme.SearchModal.errorScreen.helpText": {
+    "message": "You might want to check your network connection.",
+    "description": "The help text for error screen of search modal"
+  },
+  "theme.SearchModal.errorScreen.titleText": {
+    "message": "Unable to fetch results",
+    "description": "The title for error screen of search modal"
+  },
+  "theme.SearchModal.footer.closeKeyAriaLabel": {
+    "message": "Escape key",
+    "description": "The ARIA label for the Escape key button that close the modal"
+  },
+  "theme.SearchModal.footer.closeText": {
+    "message": "to close",
+    "description": "The explanatory text of the action for Escape key"
+  },
+  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
+    "message": "Arrow down",
+    "description": "The ARIA label for the Arrow down key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.navigateText": {
+    "message": "to navigate",
+    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
+  },
+  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
+    "message": "Arrow up",
+    "description": "The ARIA label for the Arrow up key button that makes the navigation"
+  },
+  "theme.SearchModal.footer.searchByText": {
+    "message": "Search by",
+    "description": "The text explain that the search is making by Algolia"
+  },
+  "theme.SearchModal.footer.selectKeyAriaLabel": {
+    "message": "Enter key",
+    "description": "The ARIA label for the Enter key button that makes the selection"
+  },
+  "theme.SearchModal.footer.selectText": {
+    "message": "to select",
+    "description": "The explanatory text of the action for the enter key"
+  },
+  "theme.SearchModal.noResultsScreen.noResultsText": {
+    "message": "No results for",
+    "description": "The text explains that there are no results for the following search"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
+    "message": "Let us know.",
+    "description": "The text for the link to report missing results"
+  },
+  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
+    "message": "Believe this query should return results?",
+    "description": "The text for the question where the user thinks there are missing results"
+  },
+  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
+    "message": "Try searching for",
+    "description": "The text for the suggested query when no results are found for the following search"
+  },
+  "theme.SearchModal.placeholder": {
+    "message": "Search docs",
+    "description": "The placeholder of the input of the DocSearch pop-up modal"
+  },
+  "theme.SearchModal.searchBox.cancelButtonText": {
+    "message": "Cancel",
+    "description": "The label and ARIA label for search box cancel button"
+  },
+  "theme.SearchModal.searchBox.resetButtonTitle": {
+    "message": "Clear the query",
+    "description": "The label and ARIA label for search box reset button"
+  },
+  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
+    "message": "Favorite",
+    "description": "The title for favorite searches"
+  },
+  "theme.SearchModal.startScreen.noRecentSearchesText": {
+    "message": "No recent searches",
+    "description": "The text when no recent searches"
+  },
+  "theme.SearchModal.startScreen.recentSearchesTitle": {
+    "message": "Recent",
+    "description": "The title for recent searches"
+  },
+  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
+    "message": "Remove this search from favorites",
+    "description": "The label for remove favorite search button"
+  },
+  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
+    "message": "Remove this search from history",
+    "description": "The label for remove recent search button"
+  },
+  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
+    "message": "Save this search",
+    "description": "The label for save recent search button"
+  },
+  "theme.SearchPage.algoliaLabel": {
+    "message": "Search by Algolia",
+    "description": "The ARIA label for Algolia mention"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "One document found|{count} documents found",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Search the documentation",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Search results for \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.fetchingNewResults": {
+    "message": "Fetching new results...",
+    "description": "The paragraph for fetching new search results"
+  },
+  "theme.SearchPage.inputLabel": {
+    "message": "Search",
+    "description": "The ARIA label for search page input"
+  },
+  "theme.SearchPage.inputPlaceholder": {
+    "message": "Type your search here",
+    "description": "The placeholder for search page input"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "No results were found",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.admonition.caution": {
     "message": "caution",
@@ -166,248 +238,17 @@
     "message": "warning",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recent posts navigation",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+  "theme.blog.archive.description": {
+    "message": "Archive",
+    "description": "The page & hero description of the blog archive page"
   },
-  "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expand sidebar category '{label}'",
-    "description": "The ARIA label to expand the sidebar category"
+  "theme.blog.archive.title": {
+    "message": "Archive",
+    "description": "The page & hero title of the blog archive page"
   },
-  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Collapse sidebar category '{label}'",
-    "description": "The ARIA label to collapse the sidebar category"
-  },
-  "theme.NavBar.navAriaLabel": {
-    "message": "Main",
-    "description": "The ARIA label for the main navigation"
-  },
-  "theme.navbar.mobileLanguageDropdown.label": {
-    "message": "Languages",
-    "description": "The label for the mobile language switcher dropdown"
-  },
-  "theme.NotFound.p1": {
-    "message": "We could not find what you were looking for.",
-    "description": "The first paragraph of the 404 page"
-  },
-  "theme.NotFound.p2": {
-    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
-    "description": "The 2nd paragraph of the 404 page"
-  },
-  "theme.TOCCollapsible.toggleButtonLabel": {
-    "message": "On this page",
-    "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Read more",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Read more about {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "One min read|{readingTime} min read",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.CodeBlock.wordWrapToggle": {
-    "message": "Toggle word wrap",
-    "description": "The title attribute for toggle word wrapping button of code block lines"
-  },
-  "theme.docs.breadcrumbs.home": {
-    "message": "Home page",
-    "description": "The ARIA label for the home page in the breadcrumbs"
-  },
-  "theme.CodeBlock.copy": {
-    "message": "Copy",
-    "description": "The copy button label on code blocks"
-  },
-  "theme.CodeBlock.copied": {
-    "message": "Copied",
-    "description": "The copied button label on code blocks"
-  },
-  "theme.CodeBlock.copyButtonAriaLabel": {
-    "message": "Copy code to clipboard",
-    "description": "The ARIA label for copy code blocks button"
-  },
-  "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
-    "description": "The ARIA label for the sidebar navigation"
-  },
-  "theme.docs.sidebar.collapseButtonTitle": {
-    "message": "Collapse sidebar",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.docs.sidebar.collapseButtonAriaLabel": {
-    "message": "Collapse sidebar",
-    "description": "The title attribute for collapse button of doc sidebar"
-  },
-  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Expand the dropdown",
-    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
-  },
-  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Collapse the dropdown",
-    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
-  },
-  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
-    "message": "Close navigation bar",
-    "description": "The ARIA label for close button of mobile sidebar"
-  },
-  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Back to main menu",
-    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
-  },
-  "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
-    "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Toggle navigation bar",
-    "description": "The ARIA label for hamburger menu button of mobile navigation"
-  },
-  "theme.SearchBar.seeAll": {
-    "message": "See all {count} results"
-  },
-  "theme.SearchPage.documentsFound.plurals": {
-    "message": "One document found|{count} documents found",
-    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.SearchPage.existingResultsTitle": {
-    "message": "Search results for \"{query}\"",
-    "description": "The search page title for non-empty query"
-  },
-  "theme.SearchPage.emptyResultsTitle": {
-    "message": "Search the documentation",
-    "description": "The search page title for empty query"
-  },
-  "theme.SearchPage.inputPlaceholder": {
-    "message": "Type your search here",
-    "description": "The placeholder for search page input"
-  },
-  "theme.SearchPage.inputLabel": {
-    "message": "Search",
-    "description": "The ARIA label for search page input"
-  },
-  "theme.SearchPage.algoliaLabel": {
-    "message": "Search by Algolia",
-    "description": "The ARIA label for Algolia mention"
-  },
-  "theme.SearchPage.noResultsText": {
-    "message": "No results were found",
-    "description": "The paragraph for empty search result"
-  },
-  "theme.SearchPage.fetchingNewResults": {
-    "message": "Fetching new results...",
-    "description": "The paragraph for fetching new search results"
-  },
-  "theme.SearchBar.label": {
-    "message": "Search",
-    "description": "The ARIA label and placeholder for search button"
-  },
-  "theme.SearchModal.searchBox.resetButtonTitle": {
-    "message": "Clear the query",
-    "description": "The label and ARIA label for search box reset button"
-  },
-  "theme.SearchModal.searchBox.cancelButtonText": {
-    "message": "Cancel",
-    "description": "The label and ARIA label for search box cancel button"
-  },
-  "theme.SearchModal.startScreen.recentSearchesTitle": {
-    "message": "Recent",
-    "description": "The title for recent searches"
-  },
-  "theme.SearchModal.startScreen.noRecentSearchesText": {
-    "message": "No recent searches",
-    "description": "The text when no recent searches"
-  },
-  "theme.SearchModal.startScreen.saveRecentSearchButtonTitle": {
-    "message": "Save this search",
-    "description": "The label for save recent search button"
-  },
-  "theme.SearchModal.startScreen.removeRecentSearchButtonTitle": {
-    "message": "Remove this search from history",
-    "description": "The label for remove recent search button"
-  },
-  "theme.SearchModal.startScreen.favoriteSearchesTitle": {
-    "message": "Favorite",
-    "description": "The title for favorite searches"
-  },
-  "theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle": {
-    "message": "Remove this search from favorites",
-    "description": "The label for remove favorite search button"
-  },
-  "theme.SearchModal.errorScreen.titleText": {
-    "message": "Unable to fetch results",
-    "description": "The title for error screen of search modal"
-  },
-  "theme.SearchModal.errorScreen.helpText": {
-    "message": "You might want to check your network connection.",
-    "description": "The help text for error screen of search modal"
-  },
-  "theme.SearchModal.footer.selectText": {
-    "message": "to select",
-    "description": "The explanatory text of the action for the enter key"
-  },
-  "theme.SearchModal.footer.selectKeyAriaLabel": {
-    "message": "Enter key",
-    "description": "The ARIA label for the Enter key button that makes the selection"
-  },
-  "theme.SearchModal.footer.navigateText": {
-    "message": "to navigate",
-    "description": "The explanatory text of the action for the Arrow up and Arrow down key"
-  },
-  "theme.SearchModal.footer.navigateUpKeyAriaLabel": {
-    "message": "Arrow up",
-    "description": "The ARIA label for the Arrow up key button that makes the navigation"
-  },
-  "theme.SearchModal.footer.navigateDownKeyAriaLabel": {
-    "message": "Arrow down",
-    "description": "The ARIA label for the Arrow down key button that makes the navigation"
-  },
-  "theme.SearchModal.footer.closeText": {
-    "message": "to close",
-    "description": "The explanatory text of the action for Escape key"
-  },
-  "theme.SearchModal.footer.closeKeyAriaLabel": {
-    "message": "Escape key",
-    "description": "The ARIA label for the Escape key button that close the modal"
-  },
-  "theme.SearchModal.footer.searchByText": {
-    "message": "Search by",
-    "description": "The text explain that the search is making by Algolia"
-  },
-  "theme.SearchModal.noResultsScreen.noResultsText": {
-    "message": "No results for",
-    "description": "The text explains that there are no results for the following search"
-  },
-  "theme.SearchModal.noResultsScreen.suggestedQueryText": {
-    "message": "Try searching for",
-    "description": "The text for the suggested query when no results are found for the following search"
-  },
-  "theme.SearchModal.noResultsScreen.reportMissingResultsText": {
-    "message": "Believe this query should return results?",
-    "description": "The text for the question where the user thinks there are missing results"
-  },
-  "theme.SearchModal.noResultsScreen.reportMissingResultsLinkText": {
-    "message": "Let us know.",
-    "description": "The text for the link to report missing results"
-  },
-  "theme.SearchModal.placeholder": {
-    "message": "Search docs",
-    "description": "The placeholder of the input of the DocSearch pop-up modal"
-  },
-  "theme.blog.post.plurals": {
-    "message": "One post|{count} posts",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} tagged with \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
+  "theme.blog.author.noPosts": {
+    "message": "This author has not written any posts yet.",
+    "description": "The text for authors with 0 blog post"
   },
   "theme.blog.author.pageTitle": {
     "message": "{authorName} - {nPosts}",
@@ -421,216 +262,239 @@
     "message": "View all authors",
     "description": "The label of the link targeting the blog authors page"
   },
-  "theme.blog.author.noPosts": {
-    "message": "This author has not written any posts yet.",
-    "description": "The text for authors with 0 blog post"
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
   },
-  "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Unlisted page",
-    "description": "The unlisted content banner title"
+  "theme.blog.paginator.newerEntries": {
+    "message": "Newer entries",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
-  "theme.contentVisibility.unlistedBanner.message": {
-    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
-    "description": "The unlisted content banner message"
+  "theme.blog.paginator.olderEntries": {
+    "message": "Older entries",
+    "description": "The label used to navigate to the older blog posts page (next page)"
   },
-  "theme.contentVisibility.draftBanner.title": {
-    "message": "Draft page",
-    "description": "The draft content banner title"
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
   },
-  "theme.contentVisibility.draftBanner.message": {
-    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
-    "description": "The draft content banner message"
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer post",
+    "description": "The blog post button label to navigate to the newer/previous post"
   },
-  "theme.ErrorPageContent.tryAgain": {
-    "message": "Try again",
-    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Read more",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Switch between dark and light mode (currently {mode})",
+    "description": "The ARIA label for the color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "dark mode",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "light mode",
+    "description": "The name for the light color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "system mode",
+    "description": "The name for the system color mode"
+  },
+  "theme.common.editThisPage": {
+    "message": "Edit this page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Direct link to {heading}",
+    "description": "Title for link to heading"
   },
   "theme.common.skipToMainContent": {
     "message": "Skip to main content",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "description": "The draft content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "Draft page",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Home page",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " on {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " by {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Last updated{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "Collapse the dropdown",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "Expand the dropdown",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Back to main menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tags:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "View all tags",
+    "description": "The label of the link targeting the tag list page"
+  },
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
   },
-  "原生精致": {
-    "message": "Native Refinement",
-    "description": "Homepage component string"
-  },
-  "了解详情 ->": {
-    "message": "Learn more ->",
-    "description": "Homepage component string"
-  },
-  "原生互联": {
-    "message": "Native Interconnectivity",
-    "description": "Homepage component string"
-  },
-  "原生智能": {
-    "message": "Native Intelligence",
-    "description": "Homepage component string"
-  },
-  "原生安全": {
-    "message": "Native Security",
-    "description": "Homepage component string"
-  },
-  "原生流畅": {
-    "message": "Native Smoothness",
-    "description": "Homepage component string"
-  },
-  "原生应用": {
-    "message": "Native Apps",
-    "description": "Homepage component string"
-  },
-  "和谐美学，遵循自然物理法则，构建和谐美学秩序。引力动效，锁屏到解锁一镜到底，更流畅，更灵动。": {
-    "message": "Harmonious aesthetics that follow the laws of nature and physics to build a harmonious aesthetic order. Gravity-based motion effects create a seamless transition from lock screen to unlock, making everything smoother and more fluid.",
-    "description": "Homepage component string"
-  },
   "一碰互传，美图、视频或好物，随时随地轻松分享。跨设备互通，手机相机一键调用，素材一扫即得。": {
     "message": "Tap to share photos, videos, or great finds anytime, anywhere. Cross-device connectivity lets you access your phone camera with one tap and grab materials instantly.",
-    "description": "Homepage component string"
-  },
-  "识屏对话，论文精读，指关节圈选直接抠图、问答、购物，更有业界首创小艺声音修复。": {
-    "message": "Screen recognition and conversation, in-depth paper reading, and knuckle-circling for direct cutouts, Q&A, and shopping—plus the industry-first Celia voice repair.",
-    "description": "Homepage component string"
-  },
-  "禁止开放9类不合理权限，从源头降低隐私泄露风险。安全访问，仅给选定的数据，权限授权弹大幅减少。": {
-    "message": "Nine categories of unreasonable permissions are prohibited, reducing privacy leak risks at the source. Secure access grants only selected data, and permission pop-ups are greatly reduced.",
-    "description": "Homepage component string"
-  },
-  "系统流畅，相应更及时，动效更跟手。游戏流畅，图形加速，高帧稳定。应用流畅，使用更丝滑，纵享流畅应用体验。": {
-    "message": "Smooth system with faster responses and more responsive motion effects. Smooth gaming with graphics acceleration and stable high frame rates. Smooth apps for a silky-smooth app experience.",
-    "description": "Homepage component string"
-  },
-  "全新应用市场，带来高品质应用，纯净安全下载。": {
-    "message": "The all-new AppGallery brings high-quality apps with pure, secure downloads.",
-    "description": "Homepage component string"
-  },
-  "快速上手": {
-    "message": "Quick Start",
-    "description": "Homepage component string"
-  },
-  "智慧体验": {
-    "message": "Smart Experience",
-    "description": "Homepage component string"
-  },
-  "纯净安全": {
-    "message": "Pure Security",
-    "description": "Homepage component string"
-  },
-  "精彩影像": {
-    "message": "Amazing Imaging",
     "description": "Homepage component string"
   },
   "个性设置": {
     "message": "Personal Settings",
     "description": "Homepage component string"
   },
-  "全场景": {
-    "message": "All Scenarios",
+  "了解各类投屏的具体操作。": {
+    "message": "Learn how to use each screen casting method.",
     "description": "Homepage component string"
   },
-  "新机上手": {
-    "message": "New Device Setup",
-    "description": "Homepage component string"
-  },
-  "常用手势": {
-    "message": "Common Gestures",
-    "description": "Homepage component string"
-  },
-  "快捷键": {
-    "message": "Shortcuts",
-    "description": "Homepage component string"
-  },
-  "高效办公": {
-    "message": "Efficient Work",
-    "description": "Homepage component string"
-  },
-  "WATCH Ultimate系列": {
-    "message": "WATCH Ultimate Series",
-    "description": "Homepage component string"
-  },
-  "WATCH GT 6系列": {
-    "message": "WATCH GT 6 Series",
-    "description": "Homepage component string"
-  },
-  "投屏方法": {
-    "message": "Screen Casting",
-    "description": "Homepage component string"
-  },
-  "畅连通话": {
-    "message": "MeeTime Calls",
-    "description": "Homepage component string"
-  },
-  "智享生活": {
-    "message": "Smart Living",
-    "description": "Homepage component string"
-  },
-  "全场景协同": {
-    "message": "All-Scenario Collaboration",
-    "description": "Homepage component string"
-  },
-  "更多技巧": {
-    "message": "More Tips",
-    "description": "Homepage component string"
-  },
-  "手机": {
-    "message": "Phone",
-    "description": "Homepage component string"
-  },
-  "平板": {
-    "message": "Tablet",
-    "description": "Homepage component string"
-  },
-  "电脑": {
-    "message": "PC",
-    "description": "Homepage component string"
-  },
-  "穿戴": {
-    "message": "Wearable",
-    "description": "Homepage component string"
-  },
-  "智慧屏": {
-    "message": "HUAWEI Vision",
-    "description": "Homepage component string"
-  },
-  "智能座舱": {
-    "message": "Smart Cockpit",
-    "description": "Homepage component string"
-  },
-  "了解手势导航，截图等基础操作。": {
-    "message": "Learn gesture navigation, screenshots, and other basics.",
-    "description": "Homepage component string"
-  },
-  "体验智慧功能带来的高效生活。": {
-    "message": "Experience how smart features make life more efficient.",
-    "description": "Homepage component string"
-  },
-  "时刻守护你的隐私安全。": {
-    "message": "Your privacy and security, protected at all times.",
-    "description": "Homepage component string"
-  },
-  "玩转影像拍摄，图片编辑等技巧。": {
-    "message": "Master imaging, photo editing, and more.",
-    "description": "Homepage component string"
-  },
-  "了解如何自定义你的设置。": {
-    "message": "Learn how to customize your settings.",
-    "description": "Homepage component string"
-  },
-  "了解更多产品如何默契配合。": {
-    "message": "See how more products work together seamlessly.",
-    "description": "Homepage component string"
-  },
-  "了解控制中心，截图等基础操作。": {
-    "message": "Learn the Control Panel, screenshots, and other basics.",
+  "了解在智慧屏上使用畅连通话。": {
+    "message": "Learn how to make MeeTime calls on HUAWEI Vision.",
     "description": "Homepage component string"
   },
   "了解多产品如何默契配合。": {
     "message": "See how multiple products work together seamlessly.",
-    "description": "Homepage component string"
-  },
-  "体验智慧功能带来的高效办公。": {
-    "message": "Experience efficient work with smart features.",
     "description": "Homepage component string"
   },
   "了解如何使用手势快捷操作电脑。": {
@@ -645,68 +509,264 @@
     "message": "Learn how to work efficiently with apps like File Manager and Notes.",
     "description": "Homepage component string"
   },
+  "了解如何使用智慧屏进行多设备协同。": {
+    "message": "Learn how to use HUAWEI Vision for multi-device collaboration.",
+    "description": "Homepage component string"
+  },
   "了解如何自定义你的设备。": {
     "message": "Learn how to customize your device.",
     "description": "Homepage component string"
   },
-  "Ultimate系列鸿蒙手表。": {
-    "message": "Ultimate series HarmonyOS watch.",
+  "了解如何自定义你的设置。": {
+    "message": "Learn how to customize your settings.",
     "description": "Homepage component string"
   },
-  "GT系列鸿蒙手表。": {
-    "message": "GT series HarmonyOS watch.",
+  "了解手势导航，截图等基础操作。": {
+    "message": "Learn gesture navigation, screenshots, and other basics.",
     "description": "Homepage component string"
   },
-  "首款AI智能手表。": {
-    "message": "The first AI smartwatch.",
+  "了解控制中心，截图等基础操作。": {
+    "message": "Learn the Control Panel, screenshots, and other basics.",
     "description": "Homepage component string"
   },
   "了解智慧屏连接、观看电视直播等操作。": {
     "message": "Learn how to connect HUAWEI Vision, watch live TV, and more.",
     "description": "Homepage component string"
   },
-  "了解各类投屏的具体操作。": {
-    "message": "Learn how to use each screen casting method.",
+  "了解更多": {
+    "message": "Learn more",
     "description": "Homepage component string"
   },
-  "了解在智慧屏上使用畅连通话。": {
-    "message": "Learn how to make MeeTime calls on HUAWEI Vision.",
-    "description": "Homepage component string"
-  },
-  "了解更多智慧屏的智能功能。": {
-    "message": "Discover more smart features of HUAWEI Vision.",
-    "description": "Homepage component string"
-  },
-  "了解如何使用智慧屏进行多设备协同。": {
-    "message": "Learn how to use HUAWEI Vision for multi-device collaboration.",
+  "了解更多产品如何默契配合。": {
+    "message": "See how more products work together seamlessly.",
     "description": "Homepage component string"
   },
   "了解更多智慧屏使用技巧。": {
     "message": "Discover more HUAWEI Vision tips and tricks.",
     "description": "Homepage component string"
   },
-  "纯血鸿蒙智能座舱，敬请期待。": {
-    "message": "Pure HarmonyOS smart cockpit, coming soon.",
+  "了解更多智慧屏的智能功能。": {
+    "message": "Discover more smart features of HUAWEI Vision.",
+    "description": "Homepage component string"
+  },
+  "了解灵犀指向遥控的配对与操控。": {
+    "message": "Learn how to pair and use the Smart Remote.",
+    "description": "首页玩机设备 · 智慧屏"
+  },
+  "了解详情 ->": {
+    "message": "Learn more ->",
+    "description": "Homepage component string"
+  },
+  "体验智慧功能带来的高效办公。": {
+    "message": "Experience efficient work with smart features.",
+    "description": "Homepage component string"
+  },
+  "体验智慧功能带来的高效生活。": {
+    "message": "Experience how smart features make life more efficient.",
+    "description": "Homepage component string"
+  },
+  "像用手机一样双指操控智慧屏。": {
+    "message": "Control your HUAWEI Vision with two fingers, just like a phone.",
+    "description": "首页玩机设备 · 智慧屏"
+  },
+  "全场景": {
+    "message": "All Scenarios",
+    "description": "Homepage component string"
+  },
+  "全场景协同": {
+    "message": "All-Scenario Collaboration",
+    "description": "Homepage component string"
+  },
+  "全新应用市场，带来高品质应用，纯净安全下载。": {
+    "message": "The all-new AppGallery brings high-quality apps with pure, secure downloads.",
+    "description": "Homepage component string"
+  },
+  "原生互联": {
+    "message": "Native Interconnectivity",
+    "description": "Homepage component string"
+  },
+  "原生安全": {
+    "message": "Native Security",
+    "description": "Homepage component string"
+  },
+  "原生应用": {
+    "message": "Native Apps",
+    "description": "Homepage component string"
+  },
+  "原生智能": {
+    "message": "Native Intelligence",
+    "description": "Homepage component string"
+  },
+  "原生流畅": {
+    "message": "Native Smoothness",
+    "description": "Homepage component string"
+  },
+  "原生精致": {
+    "message": "Native Refinement",
     "description": "Homepage component string"
   },
   "各类设备的玩机技巧内容，全部来自各设备提供的《玩机技巧》App。": {
     "message": "Tips and tricks for all kinds of devices, all from the Tips app included with each device.",
     "description": "Homepage component string"
   },
-  "欢迎来到鸿蒙新世界，从内到外，焕然一新。": {
-    "message": "Welcome to the new HarmonyOS world — renewed inside and out.",
+  "和谐美学，遵循自然物理法则，构建和谐美学秩序。引力动效，锁屏到解锁一镜到底，更流畅，更灵动。": {
+    "message": "Harmonious aesthetics that follow the laws of nature and physics to build a harmonious aesthetic order. Gravity-based motion effects create a seamless transition from lock screen to unlock, making everything smoother and more fluid.",
     "description": "Homepage component string"
   },
-  "了解更多": {
-    "message": "Learn more",
+  "多维情绪健康，全新骑行体验。": {
+    "message": "All-round emotional health, a brand-new cycling experience.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "常用手势": {
+    "message": "Common Gestures",
+    "description": "Homepage component string"
+  },
+  "平板": {
+    "message": "Tablet",
+    "description": "Homepage component string"
+  },
+  "快捷键": {
+    "message": "Shortcuts",
+    "description": "Homepage component string"
+  },
+  "快速上手": {
+    "message": "Quick Start",
+    "description": "Homepage component string"
+  },
+  "户外进阶运动，突破有迹可循。": {
+    "message": "Advanced outdoor sports, every step of progress on record.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "手机": {
+    "message": "Phone",
+    "description": "Homepage component string"
+  },
+  "投屏方法": {
+    "message": "Screen Casting",
+    "description": "Homepage component string"
+  },
+  "新机上手": {
+    "message": "New Device Setup",
+    "description": "Homepage component string"
+  },
+  "时刻守护你的隐私安全。": {
+    "message": "Your privacy and security, protected at all times.",
+    "description": "Homepage component string"
+  },
+  "智享生活": {
+    "message": "Smart Living",
+    "description": "Homepage component string"
+  },
+  "智慧体验": {
+    "message": "Smart Experience",
+    "description": "Homepage component string"
+  },
+  "智慧屏": {
+    "message": "HUAWEI Vision",
+    "description": "Homepage component string"
+  },
+  "智能座舱": {
+    "message": "Smart Cockpit",
+    "description": "Homepage component string"
+  },
+  "更多技巧": {
+    "message": "More Tips",
     "description": "Homepage component string"
   },
   "核心特征": {
     "message": "Core features",
     "description": "Homepage component string"
   },
+  "欢迎来到鸿蒙新世界，从内到外，焕然一新。": {
+    "message": "Welcome to the new HarmonyOS world — renewed inside and out.",
+    "description": "Homepage component string"
+  },
+  "海豚声呐通信，北斗卫星语音消息。": {
+    "message": "Dolphin sonar communication, BeiDou satellite messaging.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "灵犀悬浮触控": {
+    "message": "Air Touch",
+    "description": "首页玩机设备 · 智慧屏"
+  },
+  "灵犀指向遥控": {
+    "message": "Smart Remote",
+    "description": "首页玩机设备 · 智慧屏"
+  },
   "玩机设备": {
     "message": "Devices covered",
     "description": "Homepage component string"
+  },
+  "玩转影像拍摄，图片编辑等技巧。": {
+    "message": "Master imaging, photo editing, and more.",
+    "description": "Homepage component string"
+  },
+  "电脑": {
+    "message": "PC",
+    "description": "Homepage component string"
+  },
+  "畅连通话": {
+    "message": "MeeTime Calls",
+    "description": "Homepage component string"
+  },
+  "睡眠监测升级，全面健康守护。": {
+    "message": "Upgraded sleep monitoring, all-round health protection.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "禁止开放9类不合理权限，从源头降低隐私泄露风险。安全访问，仅给选定的数据，权限授权弹大幅减少。": {
+    "message": "Nine categories of unreasonable permissions are prohibited, reducing privacy leak risks at the source. Secure access grants only selected data, and permission pop-ups are greatly reduced.",
+    "description": "Homepage component string"
+  },
+  "穿戴": {
+    "message": "Wearable",
+    "description": "Homepage component string"
+  },
+  "精彩影像": {
+    "message": "Amazing Imaging",
+    "description": "Homepage component string"
+  },
+  "系统流畅，相应更及时，动效更跟手。游戏流畅，图形加速，高帧稳定。应用流畅，使用更丝滑，纵享流畅应用体验。": {
+    "message": "Smooth system with faster responses and more responsive motion effects. Smooth gaming with graphics acceleration and stable high frame rates. Smooth apps for a silky-smooth app experience.",
+    "description": "Homepage component string"
+  },
+  "纯净安全": {
+    "message": "Pure Security",
+    "description": "Homepage component string"
+  },
+  "纯血鸿蒙智能座舱，敬请期待。": {
+    "message": "Pure HarmonyOS smart cockpit, coming soon.",
+    "description": "Homepage component string"
+  },
+  "耳机手表二合一，自由佩戴更随心。": {
+    "message": "Earbuds and watch in one, wear it however you like.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "腕上 AI 助手，独立智慧体验。": {
+    "message": "An AI assistant on your wrist, with a standalone smart experience.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "识屏对话，论文精读，指关节圈选直接抠图、问答、购物，更有业界首创小艺声音修复。": {
+    "message": "Screen recognition and conversation, in-depth paper reading, and knuckle-circling for direct cutouts, Q&A, and shopping—plus the industry-first Celia voice repair.",
+    "description": "Homepage component string"
+  },
+  "超精准定位，智能马拉松模式。": {
+    "message": "Ultra-precise positioning, smart marathon mode.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "轻薄舒适，平稳加压，安心测量。": {
+    "message": "Slim and comfortable, with steady pressure for reliable measurement.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "非凡大师星钻绽放款，优雅盛放。": {
+    "message": "The Spring Edition of the Ultimate Design, elegantly in full bloom.",
+    "description": "首页玩机设备 · 穿戴"
+  },
+  "高效办公": {
+    "message": "Efficient Work",
+    "description": "Homepage component string"
+  },
+  "鸿蒙 AI 智能手表。": {
+    "message": "The HarmonyOS AI smart watch.",
+    "description": "首页玩机设备 · 穿戴"
   }
 }
