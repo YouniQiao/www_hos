@@ -86,7 +86,8 @@ function HomepageHeader() {
     <header className="hero hero--primary text-center">
       <div className="container text-center">
         <h1 className="hero__title mb-4">
-          {"HarmonyOS"}
+          <span className="hero-title-main">HarmonyOS</span>
+          <span className="hero-title-tagline">is so cool</span>
         </h1>
         <div className="flex items-center justify-center">
           <p className="text-lg text-center text-slate-500">
@@ -105,12 +106,12 @@ function HomepageHeader() {
           </a>
         </div> */}
         <HarmonyInstallStats />
-        <div className="flex flex-col md:flex-row md:space-y-0 justify-center mt-10">
+        <div className="flex flex-col md:flex-row md:space-y-0 justify-center mt-2">
           <div>
             <div className="flex justify-center">
               <img
                 width={1054}
-                height={490}
+                height={410}
                 alt="HarmonyOS"
                 src="/img/hero-banner.png"
               />
