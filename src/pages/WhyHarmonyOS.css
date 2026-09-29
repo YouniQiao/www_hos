@@ -50,6 +50,10 @@
 
 .hero-title-text {
   color: #0f172a !important; /* 明确设置"为什么选择"为黑色 */
+  /* 与后面的 gradient-text(HarmonyOS) 之间留出间隔。
+     这两个 span 在 JSX 里是相邻元素、中间没有文本节点，
+     靠补空字符串会被 HTML 折叠，所以用 margin 保证中英都有间隔。 */
+  margin-right: 0.28em;
 }
 
 .gradient-text {
