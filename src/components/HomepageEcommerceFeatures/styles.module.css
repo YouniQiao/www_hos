@@ -1,3 +1,59 @@
 .features {
   border-top: 1px solid #E3E6E9
 }
+
+/* 「核心特征」区块
+   原来每条内容：图片固定 220px（占掉半个手机屏）、桌面端单元格上下各 80px 内边距，
+   一条 387px 高、整个区块 1348px。这里把图片和留白一起收紧。 */
+
+/* 一条内容 = 图 + 文
+   桌面端把图片列固定成图片本身的宽度，文字占满剩余空间
+   （原来是 1:1 两列，图片被列宽撑成 220px） */
+.row {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+  .row {
+    grid-template-columns: 144px minmax(0, 1fr);
+    gap: 2.5rem;
+  }
+}
+
+.imgWrap {
+  display: flex;
+  justify-content: center;
+}
+
+/* 图片：手机 112px / 桌面 144px，等比缩放不溢出 */
+.img {
+  width: 112px;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  max-width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .img {
+    width: 144px;
+  }
+}
+
+/* 单元格内边距：桌面端原来上下各 80px，现收到 40px；左右保留与分隔线之间的呼吸感 */
+.cellFirst,
+.cellSecond {
+  padding: 1.25rem;
+}
+
+@media (min-width: 1024px) {
+  .cellFirst {
+    padding: 2.5rem 4rem 2.5rem 0;
+  }
+
+  .cellSecond {
+    padding: 2.5rem 0 2.5rem 4rem;
+  }
+}

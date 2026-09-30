@@ -1,6 +1,7 @@
 import React from 'react';
 import { translate } from '@docusaurus/Translate';
 import Link from '@docusaurus/Link';
+import styles from './styles.module.css';
 
 const FeatureList = [
 [
@@ -54,12 +55,12 @@ const FeatureList = [
 
 
 function Feature({ image, title, description, readMore, readMoreText = 'Read more ->', index }) {
-  const className = index === 0 ? 'p-5 lg:p-20 lg:pl-0 border-[#E3E6E9]' : 'p-5 lg:p-20 lg:pr-0 border-[#E3E6E9]';
+  const className = `${index === 0 ? styles.cellFirst : styles.cellSecond} border-[#E3E6E9]`;
   return (
     <div className={className}>
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-5">
-        <div className='text-center'>
-          <img width={220} height={220} className='shadow-xl rounded-full' src={image} alt={title} style={{ maxWidth: '100% !important', height: 'auto' }} />
+      <div className={styles.row}>
+        <div className={styles.imgWrap}>
+          <img width={144} height={144} className={`shadow-xl rounded-full ${styles.img}`} src={image} alt={title} />
         </div>
         <div>
           <h3 className='mb-3'>{title}</h3>
