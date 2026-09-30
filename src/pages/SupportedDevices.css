@@ -40,13 +40,16 @@
   border-bottom: 1px solid #e2e8f0;
 }
 
-.tabs {
+/* ⚠️ 必须限定在 .devices-nav 作用域内。
+   写成全局 `.tabs` 会污染 Docusaurus/Infima 的 Tabs 组件（class 同为 .tabs）：
+   首页「玩机设备」的设备菜单在窄屏会被改成 flex-direction: column 竖排。 */
+.devices-nav .tabs {
   display: flex;
   justify-content: center;
   gap: 1rem;
 }
 
-.tab {
+.devices-nav .tab {
   padding: 1rem 2rem;
   font-size: 1.1rem;
   font-weight: 600;
@@ -58,11 +61,11 @@
   transition: all 0.3s ease;
 }
 
-.tab:hover {
+.devices-nav .tab:hover {
   background: #e2e8f0;
 }
 
-.tab.active {
+.devices-nav .tab.active {
   background: linear-gradient(90deg, #2563eb 0%, #3b82f6 100%);
   color: white;
   box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
@@ -312,12 +315,12 @@
     font-size: 2.2rem;
   }
   
-  .tabs {
+  .devices-nav .tabs {
     flex-direction: column;
     align-items: center;
   }
   
-  .tab {
+  .devices-nav .tab {
     width: 100%;
     max-width: 300px;
     margin-bottom: 0.5rem;

@@ -9,3 +9,51 @@
   height: 200px;
   width: 200px;
 }
+
+/* 设备 tab（手机 / 平板 / 电脑 / 穿戴 / 智慧屏 / 智能座舱）
+   桌面：沿用 Infima 的下划线样式，居中排成一行。 */
+.features :global(.tabs) {
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  overflow-x: visible;
+  margin-bottom: 1.5rem;
+}
+
+/* 窄屏：不要退化成竖排长列表（6 项占掉半屏），改成 3 列 × 2 行的胶囊按钮，
+   所有设备一屏可见，触摸目标也更大。 */
+@media (max-width: 768px) {
+  .features :global(.tabs) {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    justify-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .features :global(.tabs__item) {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0.5rem 0.25rem;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    border: 1px solid #dce3ed;
+    border-radius: 999px;
+    background: #f2f5f9;
+    color: #4b5563;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+
+  .features :global(.tabs__item--active) {
+    background: var(--ifm-color-primary);
+    color: #fff;
+    border-color: var(--ifm-color-primary);
+  }
+
+  /* 英文标签更长（Wearable / HUAWEI Vision / Smart Cockpit），3 列会折行 → 改 2 列 */
+  :global(html[lang='en']) .features :global(.tabs) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
