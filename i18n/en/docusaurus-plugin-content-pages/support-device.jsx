@@ -482,23 +482,6 @@ const SupportedDevices = () => {
       { name: "WATCH 5 series", image: "freebuds-pro4" }]
 
     },
-    audios: {
-      beta: [
-      { name: "FreeClip 2 Series", image: "freebuds-pro4" }],
-
-      fansBeta: [
-      { name: "FreeBuds Pro 5", image: "freebuds-pro4" },
-      { name: "FreeBuds Pro 4", image: "freebuds-pro4" },
-      { name: "FreeBuds 6", image: "freebuds-pro4" }]
-
-    },
-    // More products coming soon
-    smartLife: [
-    "Smart Door Lock 2 Series", "Smart Door Lock M2", "Smart Door Lock X1",
-    "Router X3 Pro Sunlit Golden Mountain", "Router X1 Series",
-    "Lingxiao Mesh Router Q7 Powerline Edition", "Lingxiao Mesh Router Q7 Ethernet Edition",
-    "HUAWEI HarmonyOS Smart Home Smart Host X2 Series", "HUAWEI Vision MateTV Series"]
-
   };
 
   // Group rendering (Public Beta / Pollen / Pollen Beta)
@@ -521,7 +504,7 @@ const SupportedDevices = () => {
   {
     period: "October 2026",
     description: "HarmonyOS 7 Huawei Fans Beta is now open; older models are gradually joining the early access",
-    devices: ["Mate 60 Series", "Mate X5 Series", "Pocket 2 series", "Pura 70 Series", "nova 12/13/14 Series", "MatePad Pro 13.2-inch", "WATCH GT 6 Series", "FreeBuds Pro 5"]
+    devices: ["Mate 60 Series", "Mate X5 Series", "Pocket 2 series", "Pura 70 Series", "nova 12/13/14 Series", "MatePad Pro 13.2-inch", "WATCH GT 6 Series"]
   },
   {
     period: "September 7, 2026",
@@ -561,7 +544,10 @@ const SupportedDevices = () => {
       <div className="device-info">
         <h3>{device.name}</h3>
         <div className="device-models">
-          {device.models && device.models.length > 0 ? device.models.join(" · ") : ""}
+          {device.models && device.models.length > 0 ?
+        device.models.map((model, i) =>
+        <span key={i} className="device-model">{model}</span>
+        ) : null}
         </div>
       </div>
     </div>;
@@ -611,18 +597,6 @@ const SupportedDevices = () => {
 
                 ⌚ Wearable devices
               </button>
-              <button
-                className={`tab ${activeTab === 'audios' ? 'active' : ''}`}
-                onClick={() => setActiveTab('audios')}>
-
-                🎧 Audio devices
-              </button>
-              <button
-                className={`tab ${activeTab === 'smartLife' ? 'active' : ''}`}
-                onClick={() => setActiveTab('smartLife')}>
-
-                🏠 Smart Life
-              </button>
             </div>
           </div>
         </section>
@@ -636,17 +610,14 @@ const SupportedDevices = () => {
                 {renderGroup("Public Beta", "September 7", hmos7.phones.beta)}
                 {renderGroup("Huawei Fans", "September 7", hmos7.phones.fans)}
                 {renderGroup("Huawei Fan Beta", "October", hmos7.phones.fansBeta)}
-                <br /><br />
                 <h2 className="section-title">Phone HarmonyOS 6.1 supported models</h2>
                 <div className="devices-grid">
                   {phones61.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                 <h2 className="section-title">Phone HarmonyOS 6.0 supported models</h2>
                 <div className="devices-grid">
                   {phones.map(renderDeviceCard)}
                 </div>
-                 <br /><br />
                  <h2 className="section-title">Phone HarmonyOS 5.1 supported models</h2>
                  <div className="devices-grid">
                   {phones51.map(renderDeviceCard)}
@@ -660,17 +631,14 @@ const SupportedDevices = () => {
                 {renderGroup("Public Beta", "September 7", hmos7.tablets.beta)}
                 {renderGroup("Huawei Fans", "September 7", hmos7.tablets.fans)}
                 {renderGroup("Huawei Fan Beta", "October", hmos7.tablets.fansBeta)}
-                <br /><br />
                 <h2 className="section-title">Tablet HarmonyOS 6.1 Supported Models</h2>
                 <div className="devices-grid">
                   {tablets61.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                 <h2 className="section-title">Tablet HarmonyOS 6.0 supported models</h2>
                 <div className="devices-grid">
                   {tablets.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                  <h2 className="section-title">Tablet HarmonyOS 5.1 supported models</h2>
                  <div className="devices-grid">
                   {tablets51.map(renderDeviceCard)}
@@ -682,17 +650,14 @@ const SupportedDevices = () => {
             <>
                 <h2 className="section-title">PC HarmonyOS 7 Supported Models</h2>
                 {renderGroup("Public Beta", "September 7", hmos7.pcs.beta)}
-                <br /><br />
                 <h2 className="section-title">PC HarmonyOS 6.1 Supported Models</h2>
                 <div className="devices-grid">
                   {pcs61.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                 <h2 className="section-title">PC HarmonyOS 6.0 supported models</h2>
                 <div className="devices-grid">
                   {pcs.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                  <h2 className="section-title">PC HarmonyOS 5.1 supported models</h2>
                  <div className="devices-grid">
                   {pcs51.map(renderDeviceCard)}
@@ -707,17 +672,14 @@ const SupportedDevices = () => {
                 {renderGroup("Huawei Fans", "September 7", hmos7.wearables.fans)}
                 {renderGroup("Huawei Fan Beta", "October", hmos7.wearables.fansBeta)}
                 {renderGroup("More products coming soon", "October", hmos7.wearables.more)}
-                <br /><br />
                 <h2 className="section-title">Wearable HarmonyOS 6.1 Supported Models</h2>
                 <div className="devices-grid">
                   {wearables61.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                 <h2 className="section-title">Wearable HarmonyOS 6.0 Supported Models</h2>
                 <div className="devices-grid">
                   {wearables.map(renderDeviceCard)}
                 </div>
-                <br /><br />
                  <h2 className="section-title">Wearable HarmonyOS 5.1 supported models</h2>
                  <div className="devices-grid">
                   {wearables51.map(renderDeviceCard)}
@@ -725,29 +687,6 @@ const SupportedDevices = () => {
               </>
             }
 
-            {activeTab === 'audios' &&
-            <>
-                <h2 className="section-title">Audio HarmonyOS 7 Supported Models</h2>
-                {renderGroup("Public Beta", "September 7", hmos7.audios.beta)}
-                {renderGroup("Huawei Fan Beta", "October", hmos7.audios.fansBeta)}
-              </>
-            }
-
-            {activeTab === 'smartLife' &&
-            <>
-                <h2 className="section-title">Smart Life HarmonyOS 7 Supported Models</h2>
-                <h3 className="group-title">More products coming soon <span className="group-date">October</span></h3>
-                <div className="devices-grid">
-                  {hmos7.smartLife.map((name) =>
-                <div key={name} className="device-card">
-                      <div className="device-info">
-                        <h3>{name}</h3>
-                      </div>
-                    </div>
-                )}
-                </div>
-              </>
-            }
           </div>
         </section>
 

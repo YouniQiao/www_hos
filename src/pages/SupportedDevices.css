@@ -13,29 +13,29 @@
 }
 
 /* 英雄区域样式 */
-.devices-hero {
-  padding: 3rem 0;
+.devices-page .devices-hero {
+  padding: 2.25rem 0;
   text-align: center;
   background: linear-gradient(135deg, #f1f5f9 0%, #e2e8f0 100%);
 }
 
-.hero-title {
-  font-size: 2.8rem;
+.devices-page .hero-title {
+  font-size: 2.4rem;
   font-weight: 800;
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
   color: #0f172a;
 }
 
-.hero-subtitle {
-  font-size: 1.25rem;
+.devices-page .hero-subtitle {
+  font-size: 1.1rem;
   color: #64748b;
   max-width: 600px;
   margin: 0 auto;
 }
 
 /* 设备导航样式 */
-.devices-nav {
-  padding: 2rem 0;
+.devices-page .devices-nav {
+  padding: 1.25rem 0;
   background: white;
   border-bottom: 1px solid #e2e8f0;
 }
@@ -43,15 +43,15 @@
 /* ⚠️ 必须限定在 .devices-nav 作用域内。
    写成全局 `.tabs` 会污染 Docusaurus/Infima 的 Tabs 组件（class 同为 .tabs）：
    首页「玩机设备」的设备菜单在窄屏会被改成 flex-direction: column 竖排。 */
-.devices-nav .tabs {
+.devices-page .devices-nav .tabs {
   display: flex;
   justify-content: center;
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
-.devices-nav .tab {
-  padding: 1rem 2rem;
-  font-size: 1.1rem;
+.devices-page .devices-nav .tab {
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
   font-weight: 600;
   border: none;
   border-radius: 8px;
@@ -61,93 +61,94 @@
   transition: all 0.3s ease;
 }
 
-.devices-nav .tab:hover {
+.devices-page .devices-nav .tab:hover {
   background: #e2e8f0;
 }
 
-.devices-nav .tab.active {
+.devices-page .devices-nav .tab.active {
   background: linear-gradient(90deg, #2563eb 0%, #3b82f6 100%);
   color: white;
   box-shadow: 0 4px 6px rgba(37, 99, 235, 0.2);
 }
 
 /* 设备列表样式 */
-.devices-list {
-  padding: 3rem 0;
+.devices-page .devices-list {
+  padding: 2rem 0;
   background: #f8f9fa;
 }
 
-.section-title {
-  font-size: 2rem;
+.devices-page .section-title {
+  font-size: 1.6rem;
   text-align: center;
-  margin-bottom: 2rem;
+  margin: 2rem 0 1.1rem;
   color: #0f172a;
 }
 
-.devices-grid {
+.devices-page .devices-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(252px, 1fr));
+  gap: 1.25rem;
 }
 
-.device-card {
+.devices-page .device-card {
   background: white;
-  border-radius: 16px;
-  padding: 1.5rem;
+  border-radius: 14px;
+  padding: 1.15rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease;
   display: flex;
   flex-direction: column;
 }
 
-.device-card:hover {
+.devices-page .device-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 10px 25px rgba(37, 99, 235, 0.15);
 }
 
-.device-image {
+.devices-page .device-image {
   display: flex;
   justify-content: center;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.9rem;
 }
 
-.device-placeholder {
-  width: 120px;
-  height: 200px;
-  border-radius: 12px;
+/* 设备示意图（占位块）——原 120x200 几乎占掉卡片一半高度，收到 84x140 */
+.devices-page .device-placeholder {
+  width: 84px;
+  height: 140px;
+  border-radius: 10px;
   background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
   position: relative;
   overflow: hidden;
 }
 
-.device-placeholder.mate70,
-.device-placeholder.pura70,
-.device-placeholder.mate60,
-.device-placeholder.matex6,
-.device-placeholder.nova13,
-.device-placeholder.nova12 {
+.devices-page .device-placeholder.mate70,
+.devices-page .device-placeholder.pura70,
+.devices-page .device-placeholder.mate60,
+.devices-page .device-placeholder.matex6,
+.devices-page .device-placeholder.nova13,
+.devices-page .device-placeholder.nova12 {
   background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
 }
 
-.device-placeholder.matepad-pro-13,
-.device-placeholder.matepad-pro-11,
-.device-placeholder.matepad-pro-12,
-.device-placeholder.matepad-air {
-  width: 180px;
-  height: 140px;
+.devices-page .device-placeholder.matepad-pro-13,
+.devices-page .device-placeholder.matepad-pro-11,
+.devices-page .device-placeholder.matepad-pro-12,
+.devices-page .device-placeholder.matepad-air {
+  width: 126px;
+  height: 98px;
   background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
 }
 
-.device-placeholder.freebuds-pro4,
-.device-placeholder.watch-gt4,
-.device-placeholder.watch-ultimate {
-  width: 100px;
-  height: 100px;
+.devices-page .device-placeholder.freebuds-pro4,
+.devices-page .device-placeholder.watch-gt4,
+.devices-page .device-placeholder.watch-ultimate {
+  width: 68px;
+  height: 68px;
   border-radius: 50%;
   background: linear-gradient(135deg, #dbeafe 0%, #e0f2fe 100%);
 }
 
-.device-screen {
+.devices-page .device-screen {
   position: absolute;
   top: 10%;
   left: 10%;
@@ -157,34 +158,54 @@
   border-radius: 6px;
 }
 
-.device-info h3 {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
+.devices-page .device-info h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.35rem;
   color: #1e293b;
   text-align: center;
 }
 
-.device-models {
+.devices-page .device-models {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 0.3rem;
   color: #64748b;
-  margin-bottom: 1rem;
-  font-size: 0.9rem;
+  margin-bottom: 0.7rem;
+  font-size: 0.85rem;
   text-align: center;
 }
 
+/* 单个型号不允许从中间断行（否则 "Mate 80 Pro Max" 会被拆成两行误读成两个型号） */
+.devices-page .device-model {
+  white-space: nowrap;
+}
+
+.devices-page .device-model:not(:last-child)::after {
+  content: '·';
+  margin-left: 0.3rem;
+  color: #cbd5e1;
+}
+
+/* 无机型明细的卡片不要再占一行高 */
+.devices-page .device-models:empty {
+  display: none;
+}
+
 /* 分组小标题（公测版 / 花粉 / 花粉Beta） */
-.group-title {
+.devices-page .group-title {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 0.6rem;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 600;
   color: #2563eb;
-  margin: 0 0 1.5rem;
+  margin: 0 0 1rem;
 }
 
-.group-date {
-  font-size: 0.8rem;
+.devices-page .group-date {
+  font-size: 0.78rem;
   font-weight: 600;
   color: #0c4a6e;
   background: #e0f2fe;
@@ -192,173 +213,255 @@
   padding: 0.15rem 0.6rem;
 }
 
-.device-date {
+.devices-page .device-date {
   text-align: center;
   color: #3b82f6;
   font-weight: 600;
+  font-size: 0.9rem;
   margin-top: auto;
-  padding-top: 1rem;
+  padding-top: 0.7rem;
   border-top: 1px solid #f1f5f9;
 }
 
 /* 时间线样式 */
-.timeline-section {
-  padding: 3rem 0;
+.devices-page .timeline-section {
+  padding: 2.25rem 0;
   background: white;
 }
 
-.timeline {
+.devices-page .timeline {
   position: relative;
   max-width: 800px;
   margin: 0 auto;
 }
 
-.timeline::before {
+.devices-page .timeline::before {
   content: '';
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 20px;
+  left: 17px;
   width: 2px;
   background: #e2e8f0;
 }
 
-.timeline-item {
+.devices-page .timeline-item {
   display: flex;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   position: relative;
 }
 
-.timeline-marker {
-  width: 40px;
-  height: 40px;
+.devices-page .timeline-marker {
+  width: 34px;
+  height: 34px;
   border-radius: 50%;
   background: linear-gradient(135deg, #2563eb 0%, #3b82f6 100%);
-  margin-right: 2rem;
+  margin-right: 1.5rem;
   flex-shrink: 0;
   position: relative;
   z-index: 2;
 }
 
-.timeline-content {
+.devices-page .timeline-content {
   flex: 1;
   background: #f8fafc;
-  padding: 1.5rem;
+  padding: 1.15rem;
   border-radius: 12px;
-  margin-top: -0.5rem;
+  margin-top: -0.4rem;
 }
 
-.timeline-content h3 {
-  font-size: 1.3rem;
-  margin-bottom: 0.5rem;
+.devices-page .timeline-content h3 {
+  font-size: 1.15rem;
+  margin-bottom: 0.4rem;
   color: #1e293b;
 }
 
-.timeline-content p {
+.devices-page .timeline-content p {
   color: #64748b;
-  margin-bottom: 1rem;
+  margin-bottom: 0.7rem;
 }
 
-.timeline-devices {
+.devices-page .timeline-devices {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.5rem;
+  gap: 0.45rem;
 }
 
-.device-tag {
-  padding: 0.3rem 0.8rem;
+.devices-page .device-tag {
+  padding: 0.25rem 0.7rem;
   background: #e0f2fe;
   color: #0c4a6e;
   border-radius: 20px;
-  font-size: 0.8rem;
+  font-size: 0.78rem;
 }
 
 /* 说明区域样式 */
-.notes-section {
-  padding: 3rem 0;
+.devices-page .notes-section {
+  padding: 2.25rem 0;
   background: #f1f5f9;
 }
 
-.notes-content h2 {
+.devices-page .notes-content h2 {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 1.25rem;
   color: #0f172a;
 }
 
-.notes-grid {
+.devices-page .notes-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
-.note-card {
+.devices-page .note-card {
   background: white;
-  padding: 1.5rem;
+  padding: 1.15rem;
   border-radius: 12px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
 
-.note-card h3 {
-  font-size: 1.1rem;
-  margin-bottom: 0.8rem;
+.devices-page .note-card h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.5rem;
   color: #1e293b;
 }
 
-.note-card p {
+.devices-page .note-card p {
   color: #64748b;
   line-height: 1.6;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
-  .hero-title {
-    font-size: 2.2rem;
+  .devices-page .devices-hero {
+    padding: 1.75rem 0;
   }
-  
-  .devices-nav .tabs {
-    flex-direction: column;
-    align-items: center;
+
+  .devices-page .hero-title {
+    font-size: 1.9rem;
   }
-  
-  .devices-nav .tab {
+
+  .devices-page .hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .devices-page .devices-nav {
+    padding: 1rem 0;
+  }
+
+  /* 导航：原来是 6 个整宽按钮竖排（553px），改成 2 列 × 3 行胶囊（约 130px） */
+  .devices-page .devices-nav .tabs {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-items: center;
+    gap: 0.5rem;
+  }
+
+  .devices-page .devices-nav .tab {
     width: 100%;
-    max-width: 300px;
-    margin-bottom: 0.5rem;
+    padding: 0.5rem 0.25rem;
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    border: 1px solid #dce3ed;
+    border-radius: 999px;
+    background: #f2f5f9;
+    color: #4b5563;
+    box-shadow: none;
   }
-  
-  .devices-grid {
+
+  .devices-page .devices-nav .tab.active {
+    background: var(--ifm-color-primary);
+    color: #fff;
+    border-color: var(--ifm-color-primary);
+    box-shadow: none;
+  }
+
+  .devices-page .devices-grid {
     grid-template-columns: 1fr;
   }
-  
-  .timeline::before {
-    left: 15px;
+
+  /* 手机端卡片改「左图右文」横向排布：高度从 ~257px 再砍到 ~120px */
+  .devices-page .device-card {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.9rem;
+    padding: 0.85rem 1rem;
   }
-  
-  .timeline-marker {
-    width: 30px;
-    height: 30px;
+
+  .devices-page .device-image {
+    margin-bottom: 0;
+    flex: 0 0 auto;
+  }
+
+  .devices-page .device-info {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .devices-page .device-info h3,
+  .devices-page .device-models {
+    text-align: left;
+  }
+
+  .devices-page .device-models {
+    margin-bottom: 0;
+    justify-content: flex-start;
+  }
+
+  .devices-page .device-placeholder {
+    width: 56px;
+    height: 94px;
+  }
+
+  .devices-page .device-placeholder.matepad-pro-13,
+  .devices-page .device-placeholder.matepad-pro-11,
+  .devices-page .device-placeholder.matepad-pro-12,
+  .devices-page .device-placeholder.matepad-air {
+    width: 76px;
+    height: 58px;
+  }
+
+  .devices-page .device-placeholder.freebuds-pro4,
+  .devices-page .device-placeholder.watch-gt4,
+  .devices-page .device-placeholder.watch-ultimate {
+    width: 46px;
+    height: 46px;
+  }
+
+  .devices-page .section-title {
+    font-size: 1.35rem;
+    margin: 1.5rem 0 0.9rem;
+  }
+
+  .devices-page .timeline::before {
+    left: 13px;
+  }
+
+  .devices-page .timeline-marker {
+    width: 26px;
+    height: 26px;
     margin-right: 1rem;
   }
-  
-  .notes-grid {
+
+  .devices-page .notes-grid {
     grid-template-columns: 1fr;
   }
 }
 
 @media (max-width: 480px) {
-  .hero-title {
-    font-size: 1.8rem;
+  .devices-page .hero-title {
+    font-size: 1.6rem;
   }
-  
-  .timeline-item {
+
+  .devices-page .timeline-item {
     flex-direction: column;
   }
-  
-  .timeline-marker {
+
+  .devices-page .timeline-marker {
     margin-bottom: 1rem;
   }
-  
-  .timeline-content {
+
+  .devices-page .timeline-content {
     margin-top: 0;
   }
 }

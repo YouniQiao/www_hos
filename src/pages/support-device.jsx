@@ -482,23 +482,6 @@ const SupportedDevices = () => {
         { name: "WATCH 5 系列", image: "freebuds-pro4" },
       ],
     },
-    audios: {
-      beta: [
-        { name: "FreeClip 2 系列", image: "freebuds-pro4" },
-      ],
-      fansBeta: [
-        { name: "FreeBuds Pro 5", image: "freebuds-pro4" },
-        { name: "FreeBuds Pro 4", image: "freebuds-pro4" },
-        { name: "FreeBuds 6", image: "freebuds-pro4" },
-      ],
-    },
-    // 更多产品敬请期待
-    smartLife: [
-      "智能门锁 2 系列", "智能门锁 M2", "智能门锁 X1",
-      "路由 X3 Pro 日照金山", "路由 X1 系列",
-      "凌霄子母路由 Q7 电线版", "凌霄子母路由 Q7 网线版",
-      "鸿蒙智家 智能主机 X2 系列", "智慧屏 MateTV 系列",
-    ],
   };
 
   // 分组渲染（公测版 / 花粉 / 花粉Beta）
@@ -521,7 +504,7 @@ const SupportedDevices = () => {
 {
       period: "2026年10月",
       description: "HarmonyOS 7 花粉Beta 开放，老机型陆续加入尝鲜",
-      devices: ["Mate 60系列", "Mate X5系列", "Pocket 2系列", "Pura 70系列", "nova 12/13/14系列", "MatePad Pro 13.2英寸", "WATCH GT 6系列", "FreeBuds Pro 5"]
+      devices: ["Mate 60系列", "Mate X5系列", "Pocket 2系列", "Pura 70系列", "nova 12/13/14系列", "MatePad Pro 13.2英寸", "WATCH GT 6系列"]
     },
 {
       period: "2026年9月7日",
@@ -561,7 +544,11 @@ const SupportedDevices = () => {
       <div className="device-info">
         <h3>{device.name}</h3>
         <div className="device-models">
-          {device.models && device.models.length > 0 ? device.models.join(" · ") : ""}
+          {device.models && device.models.length > 0
+            ? device.models.map((model, i) => (
+                <span key={i} className="device-model">{model}</span>
+              ))
+            : null}
         </div>
       </div>
     </div>
@@ -569,7 +556,7 @@ const SupportedDevices = () => {
 
   return (
     <Layout
-      title="HarmonyOS支持机型"
+      title="HarmonyOS 支持机型"
       description="查看所有支持升级到HarmonyOS的手机、平板和穿戴设备">
       <div className="devices-page">
         {/* 英雄区域 */}
@@ -611,18 +598,6 @@ const SupportedDevices = () => {
               >
                 ⌚ 穿戴设备
               </button>
-              <button 
-                className={`tab ${activeTab === 'audios' ? 'active' : ''}`}
-                onClick={() => setActiveTab('audios')}
-              >
-                🎧 音频设备
-              </button>
-              <button 
-                className={`tab ${activeTab === 'smartLife' ? 'active' : ''}`}
-                onClick={() => setActiveTab('smartLife')}
-              >
-                🏠 智慧生活
-              </button>
             </div>
           </div>
         </section>
@@ -632,22 +607,19 @@ const SupportedDevices = () => {
           <div className="container">
             {activeTab === 'phones' && (
               <>
-                <h2 className="section-title">手机 HarmonyOS 7支持机型</h2>
+                <h2 className="section-title">手机 HarmonyOS 7 支持机型</h2>
                 {renderGroup("公测版", "9月7日", hmos7.phones.beta)}
                 {renderGroup("花粉", "9月7日", hmos7.phones.fans)}
                 {renderGroup("花粉Beta", "10月", hmos7.phones.fansBeta)}
-                <br/><br/>
-                <h2 className="section-title">手机 HarmonyOS 6.1支持机型</h2>
+                <h2 className="section-title">手机 HarmonyOS 6.1 支持机型</h2>
                 <div className="devices-grid">
                   {phones61.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                <h2 className="section-title">手机 HarmonyOS 6.0支持机型</h2>
+                <h2 className="section-title">手机 HarmonyOS 6.0 支持机型</h2>
                 <div className="devices-grid">
                   {phones.map(renderDeviceCard)}
                 </div>
-                 <br/><br/>
-                 <h2 className="section-title">手机 HarmonyOS 5.1支持机型</h2>
+                 <h2 className="section-title">手机 HarmonyOS 5.1 支持机型</h2>
                  <div className="devices-grid">
                   {phones51.map(renderDeviceCard)}
                 </div>
@@ -656,22 +628,19 @@ const SupportedDevices = () => {
             
             {activeTab === 'tablets' && (
               <>
-                <h2 className="section-title">平板 HarmonyOS 7支持机型</h2>
+                <h2 className="section-title">平板 HarmonyOS 7 支持机型</h2>
                 {renderGroup("公测版", "9月7日", hmos7.tablets.beta)}
                 {renderGroup("花粉", "9月7日", hmos7.tablets.fans)}
                 {renderGroup("花粉Beta", "10月", hmos7.tablets.fansBeta)}
-                <br/><br/>
-                <h2 className="section-title">平板 HarmonyOS 6.1支持机型</h2>
+                <h2 className="section-title">平板 HarmonyOS 6.1 支持机型</h2>
                 <div className="devices-grid">
                   {tablets61.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                <h2 className="section-title">平板 HarmonyOS 6.0支持机型</h2>
+                <h2 className="section-title">平板 HarmonyOS 6.0 支持机型</h2>
                 <div className="devices-grid">
                   {tablets.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                 <h2 className="section-title">平板 HarmonyOS 5.1支持机型</h2>
+                 <h2 className="section-title">平板 HarmonyOS 5.1 支持机型</h2>
                  <div className="devices-grid">
                   {tablets51.map(renderDeviceCard)}
                 </div>
@@ -680,20 +649,17 @@ const SupportedDevices = () => {
 
             {activeTab === 'pcs' && (
               <>
-                <h2 className="section-title">电脑 HarmonyOS 7支持机型</h2>
+                <h2 className="section-title">电脑 HarmonyOS 7 支持机型</h2>
                 {renderGroup("公测版", "9月7日", hmos7.pcs.beta)}
-                <br/><br/>
-                <h2 className="section-title">电脑 HarmonyOS 6.1支持机型</h2>
+                <h2 className="section-title">电脑 HarmonyOS 6.1 支持机型</h2>
                 <div className="devices-grid">
                   {pcs61.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                <h2 className="section-title">电脑 HarmonyOS 6.0支持机型</h2>
+                <h2 className="section-title">电脑 HarmonyOS 6.0 支持机型</h2>
                 <div className="devices-grid">
                   {pcs.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                 <h2 className="section-title">电脑 HarmonyOS 5.1支持机型</h2>
+                 <h2 className="section-title">电脑 HarmonyOS 5.1 支持机型</h2>
                  <div className="devices-grid">
                   {pcs51.map(renderDeviceCard)}
                 </div>
@@ -702,52 +668,26 @@ const SupportedDevices = () => {
             
             {activeTab === 'wearables' && (
               <>
-                <h2 className="section-title">穿戴 HarmonyOS 7支持机型</h2>
+                <h2 className="section-title">穿戴 HarmonyOS 7 支持机型</h2>
                 {renderGroup("公测版", "9月7日", hmos7.wearables.beta)}
                 {renderGroup("花粉", "9月7日", hmos7.wearables.fans)}
                 {renderGroup("花粉Beta", "10月", hmos7.wearables.fansBeta)}
                 {renderGroup("更多产品敬请期待", "10月", hmos7.wearables.more)}
-                <br/><br/>
-                <h2 className="section-title">穿戴 HarmonyOS 6.1支持机型</h2>
+                <h2 className="section-title">穿戴 HarmonyOS 6.1 支持机型</h2>
                 <div className="devices-grid">
                   {wearables61.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                <h2 className="section-title">穿戴 HarmonyOS 6.0支持机型</h2>
+                <h2 className="section-title">穿戴 HarmonyOS 6.0 支持机型</h2>
                 <div className="devices-grid">
                   {wearables.map(renderDeviceCard)}
                 </div>
-                <br/><br/>
-                 <h2 className="section-title">穿戴 HarmonyOS 5.1支持机型</h2>
+                 <h2 className="section-title">穿戴 HarmonyOS 5.1 支持机型</h2>
                  <div className="devices-grid">
                   {wearables51.map(renderDeviceCard)}
                 </div>
               </>
             )}
 
-            {activeTab === 'audios' && (
-              <>
-                <h2 className="section-title">音频 HarmonyOS 7支持机型</h2>
-                {renderGroup("公测版", "9月7日", hmos7.audios.beta)}
-                {renderGroup("花粉Beta", "10月", hmos7.audios.fansBeta)}
-              </>
-            )}
-
-            {activeTab === 'smartLife' && (
-              <>
-                <h2 className="section-title">智慧生活 HarmonyOS 7支持机型</h2>
-                <h3 className="group-title">更多产品敬请期待<span className="group-date">10月</span></h3>
-                <div className="devices-grid">
-                  {hmos7.smartLife.map((name) => (
-                    <div key={name} className="device-card">
-                      <div className="device-info">
-                        <h3>{name}</h3>
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </>
-            )}
           </div>
         </section>
 
